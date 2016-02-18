@@ -1,0 +1,14 @@
+ \
+ /Users/brzeszczot/workspace/Sterownik/Output/Release/Android/Android/Connection.s:  \
+ /Users/brzeszczot/workspace/Sterownik/Connection.cpp \
+  /Applications/MoSync/include/maapi.h \
+  /Applications/MoSync/include/maapi_defs.h \
+  /Applications/MoSync/include/MAUtil/Connection.h \
+  /Applications/MoSync/include/ma.h /Applications/MoSync/include/maapi.h \
+  /Applications/MoSync/include/MAUtil/Environment.h \
+  /Applications/MoSync/include/maassert.h \
+  /Applications/MoSync/include/ma.h \
+  /Applications/MoSync/include/MAUtil/Vector.h \
+  /Applications/MoSync/include/MAUtil/ListenerSet.h \
+  /Applications/MoSync/include/MAUtil/String.h \
+  /Applications/MoSync/include/MAUtil/RefCounted.h
