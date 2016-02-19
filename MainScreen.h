@@ -2,6 +2,8 @@
 #define MAINSCREEN_H_
 
 #include <string>
+#include <vector>
+#include <maxtoa.h>
 #include <maapi.h>
 #include <MAUtil/util.h>
 #include <NativeUI/Widgets.h>
@@ -12,7 +14,8 @@
 using namespace NativeUI;
 using namespace MAUtil;
 
-#define BUFSIZE 1024
+#define BUFSIZE		1024
+#define SWITCHES	8
 
 class MainScreen :
 	public Screen,
@@ -34,13 +37,13 @@ class MainScreen :
 	private:
 		VerticalLayout* mMainLayout;
 		Label* mInstructions;
-		HorizontalLayout* mLayoutP1;
-		HorizontalLayout* mLayoutP2;
-		Label* mLabelP1;
-		Label* mLabelP2;
 		EditBox* mUrlBox;
-		Button* mP1Button;
-		Button* mP2Button;
+		Button* mOnOff;
+		bool onoff_mode;
+		std::vector<HorizontalLayout*> mLayouts;
+		std::vector<Label*> mLabels;
+		std::vector<Button*> mButtons;
+		int clicked;
 		char mBuffer[BUFSIZE];
 		HttpConnection mHttp;
 };

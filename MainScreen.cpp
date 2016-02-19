@@ -5,15 +5,19 @@ Screen()
 {
 	createUI();
 
-	mP1Button->addButtonListener(this);
-	mP2Button->addButtonListener(this);
+	for(int ii = 0; ii < SWITCHES; ii++)
+		mButtons[ii]->addButtonListener(this);
+
+	mOnOff->addButtonListener(this);
 	mUrlBox->addEditBoxListener(this);
 }
 
 MainScreen::~MainScreen()
 {
-	mP1Button->removeButtonListener(this);
-	mP2Button->removeButtonListener(this);
+	for(int ii = 0; ii < SWITCHES; ii++)
+		mButtons[ii]->removeButtonListener(this);
+
+	mOnOff->removeButtonListener(this);
 	mUrlBox->removeEditBoxListener(this);
 }
 
@@ -31,75 +35,84 @@ void MainScreen::createUI()
 	// adjust its height to "shrink wrap" the size of the text.
 	mInstructions->fillSpaceHorizontally();
 	mInstructions->wrapContentVertically();
-	mInstructions->setText("Sterownik ETH");
+	mInstructions->setText("Sterownik ETH by Brzeszczot");
 	mMainLayout->addChild(mInstructions);
 
 	mUrlBox = new EditBox();
 	mUrlBox->fillSpaceHorizontally();
 	mUrlBox->wrapContentVertically();
-	mUrlBox->setText("http://10.52.106.69/ps/Transcription/cronjobs/BMSOpdivoReg_AS3.php?env=dev");//http://192.168.0.150/
+	mUrlBox->setText("http://192.168.0.150/"); // http://brzeszczot.net/open/_ignore.php
 	//mPasswordBox->setInputFlag(EDIT_BOX_INPUT_FLAG_PASSWORD);
 	mMainLayout->addChild(mUrlBox);
 
+	mOnOff = new Button();
+	mOnOff->fillSpaceHorizontally();
+	//mOnOff->wrapContentHorizontally();
+	mOnOff->setTextHorizontalAlignment(MAW_ALIGNMENT_CENTER);
+	mOnOff->setTextVerticalAlignment(MAW_ALIGNMENT_CENTER);
+	mOnOff->setText("Włącz");
+	mMainLayout->addChild(mOnOff);
+	onoff_mode = true;
 
+	for(int ii = 0; ii < SWITCHES; ii++)
+	{
+		HorizontalLayout* layout = new HorizontalLayout();
+		layout->fillSpaceHorizontally();
+		layout->wrapContentVertically();
 
-	mLayoutP1 = new HorizontalLayout();
-	mLayoutP1->fillSpaceHorizontally();
-	mLayoutP1->wrapContentVertically();
-	//mLayoutP1->fillSpaceVertically();
+		Button* button = new Button();
+		button->wrapContentVertically();
+		button->setTextHorizontalAlignment(MAW_ALIGNMENT_CENTER);
+		button->setTextVerticalAlignment(MAW_ALIGNMENT_CENTER);
+		char buffor[32];
+		char buffor_int[10];
+		strcpy(buffor,"Przekaźnik nr ");
+		itoa((int)ii + 1, buffor_int, 10);
+		strcat(buffor,buffor_int);
+		button->setText(buffor);
+		layout->addChild(button);
 
-	mP1Button = new Button();
-	mP1Button->wrapContentVertically();
-	mP1Button->setTextHorizontalAlignment(MAW_ALIGNMENT_CENTER);
-	mP1Button->setTextVerticalAlignment(MAW_ALIGNMENT_CENTER);
-	mP1Button->setText("Przekaźnik 1");
-	mLayoutP1->addChild(mP1Button);
+		Label* label = new Label();
+		label->wrapContentVertically();
+		label->setText("Włączony");
+		layout->addChild(label);
 
-	mLabelP1 = new Label();
-	//mLabelP1->fillSpaceHorizontally();
-	mLabelP1->wrapContentVertically();
-	mLabelP1->setText("Włączony");
-	mLayoutP1->addChild(mLabelP1);
+		mLayouts.push_back(layout);
+		mLabels.push_back(label);
+		mButtons.push_back(button);
 
-	mMainLayout->addChild(mLayoutP1);
-
-
-
-	mLayoutP2 = new HorizontalLayout();
-	mLayoutP2->fillSpaceHorizontally();
-	mLayoutP2->wrapContentVertically();
-	//mLayoutP1->fillSpaceVertically();
-
-	mP2Button = new Button();
-	mP2Button->wrapContentVertically();
-	mP2Button->setTextHorizontalAlignment(MAW_ALIGNMENT_CENTER);
-	mP2Button->setTextVerticalAlignment(MAW_ALIGNMENT_CENTER);
-	mP2Button->setText("Przekaźnik 2");
-	mLayoutP2->addChild(mP2Button);
-
-	mLabelP2 = new Label();
-	//mLabelP2->fillSpaceHorizontally();
-	mLabelP2->wrapContentVertically();
-	mLabelP2->setText("Włączony");
-	mLayoutP2->addChild(mLabelP2);
-
-	mMainLayout->addChild(mLayoutP2);
+		mMainLayout->addChild(layout);
+	}
 }
 
 void MainScreen::buttonClicked(Widget* button)
 {
-	if ( mP1Button == button )
+	if(button == mOnOff)
 	{
-		MAUtil::String password = mUrlBox->getText();
-		start(password.c_str());
-		//start("http://brzeszczot.net/");
-
-		//clearButtonClicked();
+		onoff_mode = !onoff_mode;
+		onoff_mode ? mOnOff->setText("Włącz") : mOnOff->setText("Wyłącz");
 	}
-	else if ( mP2Button == button )
+
+	MAUtil::String url = mUrlBox->getText();
+
+	for(int ii = 0; ii < SWITCHES; ii++)
 	{
-		//mUrlBox->hideKeyboard();
-		//submitEditBoxContent();
+		if(button == mButtons[ii])
+		{
+			char buffor[1000];
+			char buffor_int[10];
+			strcpy(buffor, url.c_str());
+			//strcat(buffor, "?get=");
+			strcat(buffor, "Pio?sw=pa");
+			itoa((int)ii, buffor_int, 10);
+			strcat(buffor, buffor_int);
+			onoff_mode ? strcat(buffor, "&a=1") : strcat(buffor, "&a=0");
+
+			//mInstructions->setText(buffor);
+			clicked = ii;
+			start(buffor);
+			break;
+		}
 	}
 }
 
@@ -150,17 +163,15 @@ void MainScreen::httpFinished(HttpConnection* http, int result)
 		mBuffer[len] = 0;
 		mHttp.read(mBuffer, len);
 
-		mInstructions->setText(mBuffer);
+		mLabels[clicked]->setText(mBuffer);
 	}
 	else
 	{
 		printf("No content-length\n");
 		mHttp.recv(mBuffer, BUFSIZE);
-
 		//printf("!!!! %s", mBuffer);
 
-
-		mInstructions->setText(mBuffer);
+		mLabels[clicked]->setText(mBuffer);
 	}
 }
 

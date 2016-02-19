@@ -94,6 +94,12 @@
   /Applications/MoSync/include/newlib/stlport/stl/_hash_fun.h \
   /Applications/MoSync/include/newlib/stlport/stl/_epilog.h \
   /Applications/MoSync/include/newlib/stlport/stl/_config_compat_post.h \
+  /Applications/MoSync/include/newlib/stlport/vector \
+  /Applications/MoSync/include/newlib/stlport/stl/_vector.h \
+  /Applications/MoSync/include/newlib/stlport/stl/_vector.c \
+  /Applications/MoSync/include/newlib/stlport/stl/_bvector.h \
+  /Applications/MoSync/include/newlib/stlport/stl/_relops_cont.h \
+  /Applications/MoSync/include/maxtoa.h \
   /Applications/MoSync/include/maapi.h \
   /Applications/MoSync/include/maapi_defs.h \
   /Applications/MoSync/include/MAUtil/util.h \
