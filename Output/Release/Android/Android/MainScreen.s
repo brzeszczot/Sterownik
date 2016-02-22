@@ -752,54 +752,64 @@
 	.stabs	"_Vector_base<NativeUI::Button*,stlpmtx_std::allocator<NativeUI::Button*> >:Tt(1,291)=s12_M_start:/1(1,254),0,32;_M_finish:/1(1,254),32,32;_M_end_of_storage:/1(1,272),64,32;__base_ctor::(1,292)=#(1,291),(0,6),(1,293)=*(1,291),(1,249),(0,6);:_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEEC2ERKS6_;2A.;__comp_ctor::(1,292):_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEEC1ERKS6_;2A.;__base_ctor::(1,294)=#(1,291),(0,6),(1,293),(0,16),(1,249),(0,6);:_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEEC2EmRKS6_;2A.;__comp_ctor::(1,294):_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEEC1EmRKS6_;2A.;__base_ctor::(1,295)=#(1,291),(0,6),(1,293),(1,296)=xs__move_source<stlpmtx_std::priv::_Vector_base<NativeUI::Button*, stlpmtx_std::allocator<NativeUI::Button*> > >:,(0,6);:_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEEC2ENS_13__move_sourceIS7_EE;2A.;__comp_ctor::(1,295):_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEEC1ENS_13__move_sourceIS7_EE;2A.;__base_dtor::(1,297)=#(1,291),(0,6),(1,293),(0,6);:_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEED2Ev;2A.;__comp_dtor::(1,297):_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEED1Ev;2A.;_M_throw_length_error::(1,298)=#(1,291),(0,6),(1,299)=*(1,300)=k(1,291),(0,6);:_ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_length_errorEv;1B.;_M_throw_out_of_range::(1,298):_ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_out_of_rangeEv;1B.;operator=::(1,301)=#(1,291),(1,302)=&(1,291),(1,293),(1,303)=&(1,300),(0,6);:_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEEaSERKS7_;2A.;__base_ctor::(1,304)=#(1,291),(0,6),(1,293),(1,303),(0,6);:_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEEC2ERKS7_;2A.;__comp_ctor::(1,304):_ZN11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEEC1ERKS7_;2A.;;",128,0,58,0
 	.stabs	"vector<NativeUI::Button*,stlpmtx_std::allocator<NativeUI::Button*> >:Tt(1,305)=s12!1,010,(1,291);get_allocator::(1,306)=#(1,305),(1,245),(1,307)=*(1,308)=k(1,305),(0,6);:_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE13get_allocatorEv;2B.;_M_insert_overflow_aux::(1,309)=#(1,305),(0,6),(1,310)=*(1,305),(1,254),(1,262),(23,13),(0,16),(0,4),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE22_M_insert_overflow_auxEPS3_RKS3_RKNS_12__false_typeEmb;0A.(1,311)=#(1,305),(0,6),(1,310),(1,254),(1,262),(23,5),(0,16),(0,4),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE22_M_insert_overflow_auxEPS3_RKS3_RKNS_11__true_typeEmb;0A.;_M_insert_overflow::(1,312)=#(1,305),(0,6),(1,310),(1,254),(1,262),(23,13),(0,16),(0,4),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_12__false_typeEmb;0A.(1,313)=#(1,305),(0,6),(1,310),(1,254),(1,262),(23,5),(0,16),(0,4),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb;0A.;_M_range_check::(1,314)=#(1,305),(0,6),(1,307),(0,16),(0,6);:_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE14_M_range_checkEm;0B.;_M_compute_next_size::(1,315)=#(1,305),(7,2),(1,310),(0,16),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE20_M_compute_next_sizeEm;0A.;begin::(1,316)=#(1,305),(1,254),(1,310),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE5beginEv;2A.(1,317)=#(1,305),(1,260),(1,307),(0,6);:_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE5beginEv;2B.;end::(1,316):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE3endEv;2A.(1,317):_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE3endEv;2B.;rbegin::(1,318)=#(1,305),(1,319)=xsreverse_iterator<NativeUI::Button**>:,(1,310),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE6rbeginEv;2A.(1,320)=#(1,305),(1,321)=xsreverse_iterator<NativeUI::Button* const*>:,(1,307),(0,6);:_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE6rbeginEv;2B.;rend::(1,318):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE4rendEv;2A.(1,320):_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE4rendEv;2B.;size::(1,322)=#(1,305),(7,2),(1,307),(0,6);:_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE4sizeEv;2B.;max_size::(1,322):_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE8max_sizeEv;2B.;capacity::(1,322):_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE8capacityEv;2B.;empty::(1,323)=#(1,305),(0,4),(1,307),(0,6);:_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE5emptyEv;2B.;operator[]::(1,324)=#(1,305),(1,258),(1,310),(0,16),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEixEm;2A.(1,325)=#(1,305),(1,262),(1,307),(0,16),(0,6);:_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEixEm;2B.;front::(1,326)=#(1,305),(1,258),(1,310),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE5frontEv;2A.(1,327)=#(1,305),(1,262),(1,307),(0,6);:_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE5frontEv;2B.;back::(1,326):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE4backEv;2A.(1,327):_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE4backEv;2B.;at::(1,324):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE2atEm;2A.(1,325):_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE2atEm;2B.;__base_ctor::(1,328)=#(1,305),(0,6),(1,310),(1,249),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC2ERKS5_;2A.;__comp_ctor::(1,328):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC1ERKS5_;2A.;_M_initialize::(1,329)=#(1,305),(0,6),(1,310),(0,16),(1,262),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE13_M_initializeEmRKS3_;0A.;__base_ctor::(1,330)=#(1,305),(0,6),(1,310),(0,16),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC2Em;2A.;__comp_ctor::(1,330):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC1Em;2A.;__base_ctor::(1,331)=#(1,305),(0,6),(1,310),(0,16),(1,262),(1,249),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC2EmRKS3_RKS5_;2A.;__comp_ctor::(1,331):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC1EmRKS3_RKS5_;2A.;__base_ctor::(1,332)=#(1,305),(0,6),(1,310),(1,333)=&(1,308),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC2ERKS6_;2A.;__comp_ctor::(1,332):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC1ERKS6_;2A.;__base_ctor::(1,334)=#(1,305),(0,6),(1,310),(1,335)=xs__move_source<stlpmtx_std::vector<NativeUI::Button*, stlpmtx_std::allocator<NativeUI::Button*> > >:,(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC2ENS_13__move_sourceIS6_EE;2A.;__comp_ctor::(1,334):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEC1ENS_13__move_sourceIS6_EE;2A.;__base_dtor::(1,336)=#(1,305),(0,6),(1,310),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEED2Ev;2A.;__comp_dtor::(1,336):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEED1Ev;2A.;operator=::(1,337)=#(1,305),(1,338)=&(1,305),(1,310),(1,333),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEEaSERKS6_;2A.;reserve::(1,330):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE7reserveEm;2A.;assign::(1,339)=#(1,305),(0,6),(1,310),(0,16),(1,262),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE6assignEmRKS3_;2A.;_M_fill_assign::(1,339):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE14_M_fill_assignEmRKS3_;2A.;push_back::(1,340)=#(1,305),(0,6),(1,310),(1,262),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE9push_backERKS3_;2A.;insert::(1,341)=#(1,305),(1,254),(1,310),(1,254),(1,262),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE6insertEPS3_RKS3_;2A.;swap::(1,342)=#(1,305),(0,6),(1,310),(1,338),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE4swapERS6_;2A.;_M_fill_insert_aux::(1,343)=#(1,305),(0,6),(1,310),(1,254),(0,16),(1,262),(23,5),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_fill_insert_auxEPS3_mRKS3_RKNS_11__true_typeE;0A.(1,344)=#(1,305),(0,6),(1,310),(1,254),(0,16),(1,262),(23,13),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_fill_insert_auxEPS3_mRKS3_RKNS_12__false_typeE;0A.;_M_fill_insert::(1,345)=#(1,305),(0,6),(1,310),(1,254),(0,16),(1,262),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE14_M_fill_insertEPS3_mRKS3_;0A.;_M_is_inside::(1,346)=#(1,305),(0,4),(1,307),(1,262),(0,6);:_ZNK11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE12_M_is_insideERKS3_;0B.;insert::(1,345):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE6insertEPS3_mRKS3_;2A.;pop_back::(1,336):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE8pop_backEv;2A.;_M_erase::(1,347)=#(1,305),(1,254),(1,310),(1,254),(23,5),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE8_M_eraseEPS3_RKNS_11__true_typeE;0A.(1,348)=#(1,305),(1,254),(1,310),(1,254),(23,13),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE8_M_eraseEPS3_RKNS_12__false_typeE;0A.(1,349)=#(1,305),(1,254),(1,310),(1,254),(1,254),(23,5),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE8_M_eraseEPS3_S7_RKNS_11__true_typeE;0A.(1,350)=#(1,305),(1,254),(1,310),(1,254),(1,254),(23,13),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE8_M_eraseEPS3_S7_RKNS_12__false_typeE;0A.;erase::(1,351)=#(1,305),(1,254),(1,310),(1,254),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE5eraseEPS3_;2A.(1,352)=#(1,305),(1,254),(1,310),(1,254),(1,254),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE5eraseEPS3_S7_;2A.;resize::(1,353)=#(1,305),(0,6),(1,310),(0,16),(1,262),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE6resizeEmRKS3_;2A.;clear::(1,336):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE5clearEv;2A.;_M_clear::(1,336):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE8_M_clearEv;0A.;_M_clear_after_move::(1,336):_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE19_M_clear_after_moveEv;0A.;_M_set::(1,354)=#(1,305),(0,6),(1,310),(1,254),(1,254),(1,254),(0,6);:_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE6_M_setEPS3_S7_S7_;0A.;;",128,0,113,0
 	.stabn	162,0,0,0
-	.stabs	"__move_source<stlpmtx_std::priv::_Vector_base<NativeUI::HorizontalLayout*, stlpmtx_std::allocator<NativeUI::HorizontalLayout*> > >:Tt(1,60)=s4_M_data:/0(1,66),0,32;__base_ctor::(0,25)=#(1,60),(0,6),(0,26)=*(1,60),(1,66),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEC2ERS8_;2A.;__comp_ctor::(0,25):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEC1ERS8_;2A.;get::(0,27)=#(1,60),(1,66),(0,28)=*(0,29)=k(1,60),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEE3getEv;2B.;operator=::(0,30)=#(1,60),(0,31)=&(1,60),(0,26),(0,32)=&(0,29),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEaSERKS9_;0A.;__base_ctor::(0,33)=#(1,60),(0,6),(0,26),(0,32),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEC2ERKS9_;2A.;__comp_ctor::(0,33):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEC1ERKS9_;2A.;;",128,0,35,0
-	.stabs	"iterator_traits<NativeUI::HorizontalLayout**>:Tt(0,34)=s1operator=::(0,35)=#(0,34),(0,36)=&(0,34),(0,37)=*(0,34),(0,38)=&(0,39)=k(0,34),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEaSERKS5_;2A.;__base_ctor::(0,40)=#(0,34),(0,6),(0,37),(0,38),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEC2ERKS5_;2A.;__comp_ctor::(0,40):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEC1ERKS5_;2A.;__base_ctor::(0,41)=#(0,34),(0,6),(0,37),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEC2Ev;2A.;__comp_ctor::(0,41):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEC1Ev;2A.;;",128,0,147,0
-	.stabs	"iterator<stlpmtx_std::random_access_iterator_tag,NativeUI::HorizontalLayout*,ptrdiff_t,NativeUI::HorizontalLayout**,NativeUI::HorizontalLayout*&>:Tt(0,42)=s1operator=::(0,43)=#(0,42),(0,44)=&(0,42),(0,45)=*(0,42),(0,46)=&(0,47)=k(0,42),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EaSERKS7_;2A.;__base_ctor::(0,48)=#(0,42),(0,6),(0,45),(0,46),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EC2ERKS7_;2A.;__comp_ctor::(0,48):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EC1ERKS7_;2A.;__base_ctor::(0,49)=#(0,42),(0,6),(0,45),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EC2Ev;2A.;__comp_ctor::(0,49):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EC1Ev;2A.;;",128,0,59,0
-	.stabs	"reverse_iterator<NativeUI::HorizontalLayout**>:Tt(1,83)=s4!1,020,(0,42);current:/1(1,18),0,32;__base_ctor::(0,50)=#(1,83),(0,6),(0,51)=*(1,83),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC2Ev;2A.;__comp_ctor::(0,50):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC1Ev;2A.;__base_ctor::(0,52)=#(1,83),(0,6),(0,51),(1,18),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC2ES4_;2A.;__comp_ctor::(0,52):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC1ES4_;2A.;__base_ctor::(0,53)=#(1,83),(0,6),(0,51),(0,54)=&(0,55)=k(1,83),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC2ERKS5_;2A.;__comp_ctor::(0,53):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC1ERKS5_;2A.;operator=::(0,56)=#(1,83),(0,57)=&(1,83),(0,51),(0,54),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEaSERKS5_;2A.;base::(0,58)=#(1,83),(1,18),(0,59)=*(0,55),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEE4baseEv;2B.;operator*::(0,60)=#(1,83),(1,22),(0,59),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEdeEv;2B.;operator->::(0,58):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEptEv;2B.;operator++::(0,61)=#(1,83),(0,57),(0,51),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEppEv;2A.(0,62)=#(1,83),(1,83),(0,51),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEppEi;2A.;operator--::(0,61):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEmmEv;2A.(0,62):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEmmEi;2A.;operator+::(0,63)=#(1,83),(1,83),(0,59),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEplEi;2B.;operator+=::(0,64)=#(1,83),(0,57),(0,51),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEpLEi;2A.;operator-::(0,63):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEmiEi;2B.;operator-=::(0,64):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEmIEi;2A.;operator[]::(0,65)=#(1,83),(1,22),(0,59),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEixEi;2B.;;",128,0,52,0
-	.stabs	"__move_source<stlpmtx_std::priv::_Vector_base<NativeUI::Label*, stlpmtx_std::allocator<NativeUI::Label*> > >:Tt(1,178)=s4_M_data:/0(1,184),0,32;__base_ctor::(0,66)=#(1,178),(0,6),(0,67)=*(1,178),(1,184),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEC2ERS8_;2A.;__comp_ctor::(0,66):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEC1ERS8_;2A.;get::(0,68)=#(1,178),(1,184),(0,69)=*(0,70)=k(1,178),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEE3getEv;2B.;operator=::(0,71)=#(1,178),(0,72)=&(1,178),(0,67),(0,73)=&(0,70),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEaSERKS9_;0A.;__base_ctor::(0,74)=#(1,178),(0,6),(0,67),(0,73),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEC2ERKS9_;2A.;__comp_ctor::(0,74):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEC1ERKS9_;2A.;;",128,0,35,0
-	.stabs	"iterator_traits<NativeUI::Label**>:Tt(0,75)=s1operator=::(0,76)=#(0,75),(0,77)=&(0,75),(0,78)=*(0,75),(0,79)=&(0,80)=k(0,75),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEaSERKS5_;2A.;__base_ctor::(0,81)=#(0,75),(0,6),(0,78),(0,79),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEC2ERKS5_;2A.;__comp_ctor::(0,81):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEC1ERKS5_;2A.;__base_ctor::(0,82)=#(0,75),(0,6),(0,78),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEC2Ev;2A.;__comp_ctor::(0,82):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEC1Ev;2A.;;",128,0,147,0
-	.stabs	"iterator<stlpmtx_std::random_access_iterator_tag,NativeUI::Label*,ptrdiff_t,NativeUI::Label**,NativeUI::Label*&>:Tt(0,83)=s1operator=::(0,84)=#(0,83),(0,85)=&(0,83),(0,86)=*(0,83),(0,87)=&(0,88)=k(0,83),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EaSERKS7_;2A.;__base_ctor::(0,89)=#(0,83),(0,6),(0,86),(0,87),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EC2ERKS7_;2A.;__comp_ctor::(0,89):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EC1ERKS7_;2A.;__base_ctor::(0,90)=#(0,83),(0,6),(0,86),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EC2Ev;2A.;__comp_ctor::(0,90):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EC1Ev;2A.;;",128,0,59,0
-	.stabs	"reverse_iterator<NativeUI::Label**>:Tt(1,201)=s4!1,020,(0,83);current:/1(1,136),0,32;__base_ctor::(0,91)=#(1,201),(0,6),(0,92)=*(1,201),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC2Ev;2A.;__comp_ctor::(0,91):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC1Ev;2A.;__base_ctor::(0,93)=#(1,201),(0,6),(0,92),(1,136),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC2ES4_;2A.;__comp_ctor::(0,93):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC1ES4_;2A.;__base_ctor::(0,94)=#(1,201),(0,6),(0,92),(0,95)=&(0,96)=k(1,201),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC2ERKS5_;2A.;__comp_ctor::(0,94):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC1ERKS5_;2A.;operator=::(0,97)=#(1,201),(0,98)=&(1,201),(0,92),(0,95),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEaSERKS5_;2A.;base::(0,99)=#(1,201),(1,136),(0,100)=*(0,96),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEE4baseEv;2B.;operator*::(0,101)=#(1,201),(1,140),(0,100),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEdeEv;2B.;operator->::(0,99):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEptEv;2B.;operator++::(0,102)=#(1,201),(0,98),(0,92),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEppEv;2A.(0,103)=#(1,201),(1,201),(0,92),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEppEi;2A.;operator--::(0,102):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEmmEv;2A.(0,103):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEmmEi;2A.;operator+::(0,104)=#(1,201),(1,201),(0,100),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEplEi;2B.;operator+=::(0,105)=#(1,201),(0,98),(0,92),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEpLEi;2A.;operator-::(0,104):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEmiEi;2B.;operator-=::(0,105):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEmIEi;2A.;operator[]::(0,106)=#(1,201),(1,140),(0,100),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEixEi;2B.;;",128,0,52,0
-	.stabs	"__move_source<stlpmtx_std::priv::_Vector_base<NativeUI::Button*, stlpmtx_std::allocator<NativeUI::Button*> > >:Tt(1,296)=s4_M_data:/0(1,302),0,32;__base_ctor::(0,107)=#(1,296),(0,6),(0,108)=*(1,296),(1,302),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEC2ERS8_;2A.;__comp_ctor::(0,107):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEC1ERS8_;2A.;get::(0,109)=#(1,296),(1,302),(0,110)=*(0,111)=k(1,296),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEE3getEv;2B.;operator=::(0,112)=#(1,296),(0,113)=&(1,296),(0,108),(0,114)=&(0,111),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEaSERKS9_;0A.;__base_ctor::(0,115)=#(1,296),(0,6),(0,108),(0,114),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEC2ERKS9_;2A.;__comp_ctor::(0,115):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEC1ERKS9_;2A.;;",128,0,35,0
-	.stabs	"iterator_traits<NativeUI::Button**>:Tt(0,116)=s1operator=::(0,117)=#(0,116),(0,118)=&(0,116),(0,119)=*(0,116),(0,120)=&(0,121)=k(0,116),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEaSERKS5_;2A.;__base_ctor::(0,122)=#(0,116),(0,6),(0,119),(0,120),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEC2ERKS5_;2A.;__comp_ctor::(0,122):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEC1ERKS5_;2A.;__base_ctor::(0,123)=#(0,116),(0,6),(0,119),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEC2Ev;2A.;__comp_ctor::(0,123):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEC1Ev;2A.;;",128,0,147,0
-	.stabs	"iterator<stlpmtx_std::random_access_iterator_tag,NativeUI::Button*,ptrdiff_t,NativeUI::Button**,NativeUI::Button*&>:Tt(0,124)=s1operator=::(0,125)=#(0,124),(0,126)=&(0,124),(0,127)=*(0,124),(0,128)=&(0,129)=k(0,124),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EaSERKS7_;2A.;__base_ctor::(0,130)=#(0,124),(0,6),(0,127),(0,128),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EC2ERKS7_;2A.;__comp_ctor::(0,130):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EC1ERKS7_;2A.;__base_ctor::(0,131)=#(0,124),(0,6),(0,127),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EC2Ev;2A.;__comp_ctor::(0,131):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EC1Ev;2A.;;",128,0,59,0
-	.stabs	"reverse_iterator<NativeUI::Button**>:Tt(1,319)=s4!1,020,(0,124);current:/1(1,254),0,32;__base_ctor::(0,132)=#(1,319),(0,6),(0,133)=*(1,319),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC2Ev;2A.;__comp_ctor::(0,132):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC1Ev;2A.;__base_ctor::(0,134)=#(1,319),(0,6),(0,133),(1,254),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC2ES4_;2A.;__comp_ctor::(0,134):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC1ES4_;2A.;__base_ctor::(0,135)=#(1,319),(0,6),(0,133),(0,136)=&(0,137)=k(1,319),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC2ERKS5_;2A.;__comp_ctor::(0,135):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC1ERKS5_;2A.;operator=::(0,138)=#(1,319),(0,139)=&(1,319),(0,133),(0,136),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEaSERKS5_;2A.;base::(0,140)=#(1,319),(1,254),(0,141)=*(0,137),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEE4baseEv;2B.;operator*::(0,142)=#(1,319),(1,258),(0,141),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEdeEv;2B.;operator->::(0,140):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEptEv;2B.;operator++::(0,143)=#(1,319),(0,139),(0,133),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEppEv;2A.(0,144)=#(1,319),(1,319),(0,133),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEppEi;2A.;operator--::(0,143):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEmmEv;2A.(0,144):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEmmEi;2A.;operator+::(0,145)=#(1,319),(1,319),(0,141),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEplEi;2B.;operator+=::(0,146)=#(1,319),(0,139),(0,133),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEpLEi;2A.;operator-::(0,145):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEmiEi;2B.;operator-=::(0,146):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEmIEi;2A.;operator[]::(0,147)=#(1,319),(1,258),(0,141),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEixEi;2B.;;",128,0,52,0
-	.stabs	"__type_traits<NativeUI::HorizontalLayout*>:Tt(0,148)=s1!1,020,(22,121);operator=::(0,149)=#(0,148),(0,150)=&(0,148),(0,151)=*(0,148),(0,152)=&(0,153)=k(0,148),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEaSERKS4_;2A.;__base_ctor::(0,154)=#(0,148),(0,6),(0,151),(0,152),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEC2ERKS4_;2A.;__comp_ctor::(0,154):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEC1ERKS4_;2A.;__base_ctor::(0,155)=#(0,148),(0,6),(0,151),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEC2Ev;2A.;__comp_ctor::(0,155):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEC1Ev;2A.;;",128,0,224,0
-	.stabs	"vector<NativeUI::HorizontalLayout*,stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >::_TrivialCopy:t(0,156)=(23,1)",128,0,385,0
-	.stabs	"__type_traits<NativeUI::Label*>:Tt(0,157)=s1!1,020,(22,121);operator=::(0,158)=#(0,157),(0,159)=&(0,157),(0,160)=*(0,157),(0,161)=&(0,162)=k(0,157),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEaSERKS4_;2A.;__base_ctor::(0,163)=#(0,157),(0,6),(0,160),(0,161),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEC2ERKS4_;2A.;__comp_ctor::(0,163):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEC1ERKS4_;2A.;__base_ctor::(0,164)=#(0,157),(0,6),(0,160),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEC2Ev;2A.;__comp_ctor::(0,164):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEC1Ev;2A.;;",128,0,224,0
-	.stabs	"vector<NativeUI::Label*,stlpmtx_std::allocator<NativeUI::Label*> >::_TrivialCopy:t(0,165)=(23,1)",128,0,385,0
-	.stabs	"__type_traits<NativeUI::Button*>:Tt(0,166)=s1!1,020,(22,121);operator=::(0,167)=#(0,166),(0,168)=&(0,166),(0,169)=*(0,166),(0,170)=&(0,171)=k(0,166),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEaSERKS4_;2A.;__base_ctor::(0,172)=#(0,166),(0,6),(0,169),(0,170),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEC2ERKS4_;2A.;__comp_ctor::(0,172):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEC1ERKS4_;2A.;__base_ctor::(0,173)=#(0,166),(0,6),(0,169),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEC2Ev;2A.;__comp_ctor::(0,173):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEC1Ev;2A.;;",128,0,224,0
-	.stabs	"vector<NativeUI::Button*,stlpmtx_std::allocator<NativeUI::Button*> >::_TrivialCopy:t(0,174)=(23,1)",128,0,385,0
-	.stabs	"iterator_traits<stlpmtx_std::reverse_iterator<NativeUI::HorizontalLayout**> >:Tt(0,175)=s1operator=::(0,176)=#(0,175),(0,177)=&(0,175),(0,178)=*(0,175),(0,179)=&(0,180)=k(0,175),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEaSERKS7_;2A.;__base_ctor::(0,181)=#(0,175),(0,6),(0,178),(0,179),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEC2ERKS7_;2A.;__comp_ctor::(0,181):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEC1ERKS7_;2A.;__base_ctor::(0,182)=#(0,175),(0,6),(0,178),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEC2Ev;2A.;__comp_ctor::(0,182):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEC1Ev;2A.;;",128,0,147,0
-	.stabs	"iterator_traits<stlpmtx_std::reverse_iterator<NativeUI::Label**> >:Tt(0,183)=s1operator=::(0,184)=#(0,183),(0,185)=&(0,183),(0,186)=*(0,183),(0,187)=&(0,188)=k(0,183),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEaSERKS7_;2A.;__base_ctor::(0,189)=#(0,183),(0,6),(0,186),(0,187),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEC2ERKS7_;2A.;__comp_ctor::(0,189):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEC1ERKS7_;2A.;__base_ctor::(0,190)=#(0,183),(0,6),(0,186),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEC2Ev;2A.;__comp_ctor::(0,190):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEC1Ev;2A.;;",128,0,147,0
-	.stabs	"iterator_traits<stlpmtx_std::reverse_iterator<NativeUI::Button**> >:Tt(0,191)=s1operator=::(0,192)=#(0,191),(0,193)=&(0,191),(0,194)=*(0,191),(0,195)=&(0,196)=k(0,191),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEaSERKS7_;2A.;__base_ctor::(0,197)=#(0,191),(0,6),(0,194),(0,195),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEC2ERKS7_;2A.;__comp_ctor::(0,197):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEC1ERKS7_;2A.;__base_ctor::(0,198)=#(0,191),(0,6),(0,194),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEC2Ev;2A.;__comp_ctor::(0,198):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEC1Ev;2A.;;",128,0,147,0
-	.stabs	"_IsPOD<NativeUI::HorizontalLayout*>:Tt(0,199)=s1_Answer::(0,200)=f(23,1):_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEE7_AnswerEv;2A?;operator=::(0,201)=#(0,199),(0,202)=&(0,199),(0,203)=*(0,199),(0,204)=&(0,205)=k(0,199),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEaSERKS4_;2A.;__base_ctor::(0,206)=#(0,199),(0,6),(0,203),(0,204),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEC2ERKS4_;2A.;__comp_ctor::(0,206):_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEC1ERKS4_;2A.;__base_ctor::(0,207)=#(0,199),(0,6),(0,203),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEC2Ev;2A.;__comp_ctor::(0,207):_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEC1Ev;2A.;;",128,0,545,0
-	.stabs	"_IsPOD<NativeUI::Label*>:Tt(0,208)=s1_Answer::(0,200):_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEE7_AnswerEv;2A?;operator=::(0,209)=#(0,208),(0,210)=&(0,208),(0,211)=*(0,208),(0,212)=&(0,213)=k(0,208),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEaSERKS4_;2A.;__base_ctor::(0,214)=#(0,208),(0,6),(0,211),(0,212),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEC2ERKS4_;2A.;__comp_ctor::(0,214):_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEC1ERKS4_;2A.;__base_ctor::(0,215)=#(0,208),(0,6),(0,211),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEC2Ev;2A.;__comp_ctor::(0,215):_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEC1Ev;2A.;;",128,0,545,0
-	.stabs	"_IsPOD<NativeUI::Button*>:Tt(0,216)=s1_Answer::(0,200):_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEE7_AnswerEv;2A?;operator=::(0,217)=#(0,216),(0,218)=&(0,216),(0,219)=*(0,216),(0,220)=&(0,221)=k(0,216),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEaSERKS4_;2A.;__base_ctor::(0,222)=#(0,216),(0,6),(0,219),(0,220),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEC2ERKS4_;2A.;__comp_ctor::(0,222):_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEC1ERKS4_;2A.;__base_ctor::(0,223)=#(0,216),(0,6),(0,219),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEC2Ev;2A.;__comp_ctor::(0,223):_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEC1Ev;2A.;;",128,0,545,0
-	.stabs	"__move_source<stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >:Tt(1,16)=s4_M_data:/0(1,35),0,32;__base_ctor::(0,224)=#(1,16),(0,6),(0,225)=*(1,16),(1,35),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC2ERS5_;2A.;__comp_ctor::(0,224):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC1ERS5_;2A.;get::(0,226)=#(1,16),(1,35),(0,227)=*(0,228)=k(1,16),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEE3getEv;2B.;operator=::(0,229)=#(1,16),(0,230)=&(1,16),(0,225),(0,231)=&(0,228),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEaSERKS6_;0A.;__base_ctor::(0,232)=#(1,16),(0,6),(0,225),(0,231),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC2ERKS6_;2A.;__comp_ctor::(0,232):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC1ERKS6_;2A.;;",128,0,35,0
-	.stabs	"_Trivial_destructor:t(0,233)=(23,1)",128,0,214,0
-	.stabs	"__move_source<stlpmtx_std::allocator<NativeUI::Label*> >:Tt(1,134)=s4_M_data:/0(1,153),0,32;__base_ctor::(0,234)=#(1,134),(0,6),(0,235)=*(1,134),(1,153),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEC2ERS5_;2A.;__comp_ctor::(0,234):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEC1ERS5_;2A.;get::(0,236)=#(1,134),(1,153),(0,237)=*(0,238)=k(1,134),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEE3getEv;2B.;operator=::(0,239)=#(1,134),(0,240)=&(1,134),(0,235),(0,241)=&(0,238),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEaSERKS6_;0A.;__base_ctor::(0,242)=#(1,134),(0,6),(0,235),(0,241),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEC2ERKS6_;2A.;__comp_ctor::(0,242):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEC1ERKS6_;2A.;;",128,0,35,0
-	.stabs	"_Trivial_destructor:t(0,243)=(23,1)",128,0,214,0
-	.stabs	"__move_source<stlpmtx_std::allocator<NativeUI::Button*> >:Tt(1,252)=s4_M_data:/0(1,271),0,32;__base_ctor::(0,244)=#(1,252),(0,6),(0,245)=*(1,252),(1,271),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEC2ERS5_;2A.;__comp_ctor::(0,244):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEC1ERS5_;2A.;get::(0,246)=#(1,252),(1,271),(0,247)=*(0,248)=k(1,252),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEE3getEv;2B.;operator=::(0,249)=#(1,252),(0,250)=&(1,252),(0,245),(0,251)=&(0,248),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEaSERKS6_;0A.;__base_ctor::(0,252)=#(1,252),(0,6),(0,245),(0,251),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEC2ERKS6_;2A.;__comp_ctor::(0,252):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEC1ERKS6_;2A.;;",128,0,35,0
-	.stabs	"_Trivial_destructor:t(0,253)=(23,1)",128,0,214,0
-	.stabs	"_ConversionHelper<stlpmtx_std::allocator<NativeUI::HorizontalLayout*>*,const volatile stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >*>:Tt(0,254)=s1_Test::(0,255)=f(0,19):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEE5_TestEbSA_;2A?(0,256)=f(11,93):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEE5_TestEbz;2A?;_MakeSource::(0,257)=f(1,11):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEE11_MakeSourceEv;2A?;operator=::(0,258)=#(0,254),(0,259)=&(0,254),(0,260)=*(0,254),(0,261)=&(0,262)=k(0,254),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEaSERKSB_;2A.;__base_ctor::(0,263)=#(0,254),(0,6),(0,260),(0,261),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEC2ERKSB_;2A.;__comp_ctor::(0,263):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEC1ERKSB_;2A.;__base_ctor::(0,264)=#(0,254),(0,6),(0,260),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,264):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,224,0
-	.stabs	"_IsConvertible<stlpmtx_std::allocator<NativeUI::HorizontalLayout*>,stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::HorizontalLayout*> > >:Tt(0,265)=s1operator=::(0,266)=#(0,265),(0,267)=&(0,265),(0,268)=*(0,265),(0,269)=&(0,270)=k(0,265),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEaSERKS8_;2A.;__base_ctor::(0,271)=#(0,265),(0,6),(0,268),(0,269),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEC2ERKS8_;2A.;__comp_ctor::(0,271):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEC1ERKS8_;2A.;__base_ctor::(0,272)=#(0,265),(0,6),(0,268),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,272):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,231,0
-	.stabs	"_IsSTLportClass<stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >:Tt(0,273)=s1operator=::(0,274)=#(0,273),(0,275)=&(0,273),(0,276)=*(0,273),(0,277)=&(0,278)=k(0,273),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEaSERKS6_;2A.;__base_ctor::(0,279)=#(0,273),(0,6),(0,276),(0,277),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC2ERKS6_;2A.;__comp_ctor::(0,279):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC1ERKS6_;2A.;__base_ctor::(0,280)=#(0,273),(0,6),(0,276),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC2Ev;2A.;__comp_ctor::(0,280):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC1Ev;2A.;;",128,0,575,0
-	.stabs	"_STLP_alloc_proxy<NativeUI::HorizontalLayout**,NativeUI::HorizontalLayout*,stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >::_STLportAlloc:t(0,281)=(23,1)",128,0,527,0
-	.stabs	"_ConversionHelper<stlpmtx_std::allocator<NativeUI::Label*>*,const volatile stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::Label*> >*>:Tt(0,282)=s1_Test::(0,283)=f(0,19):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEE5_TestEbSA_;2A?(0,256):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEE5_TestEbz;2A?;_MakeSource::(0,284)=f(1,129):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEE11_MakeSourceEv;2A?;operator=::(0,285)=#(0,282),(0,286)=&(0,282),(0,287)=*(0,282),(0,288)=&(0,289)=k(0,282),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEaSERKSB_;2A.;__base_ctor::(0,290)=#(0,282),(0,6),(0,287),(0,288),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEC2ERKSB_;2A.;__comp_ctor::(0,290):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEC1ERKSB_;2A.;__base_ctor::(0,291)=#(0,282),(0,6),(0,287),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,291):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,224,0
-	.stabs	"_IsConvertible<stlpmtx_std::allocator<NativeUI::Label*>,stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::Label*> > >:Tt(0,292)=s1operator=::(0,293)=#(0,292),(0,294)=&(0,292),(0,295)=*(0,292),(0,296)=&(0,297)=k(0,292),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEaSERKS8_;2A.;__base_ctor::(0,298)=#(0,292),(0,6),(0,295),(0,296),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEC2ERKS8_;2A.;__comp_ctor::(0,298):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEC1ERKS8_;2A.;__base_ctor::(0,299)=#(0,292),(0,6),(0,295),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,299):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,231,0
-	.stabs	"_IsSTLportClass<stlpmtx_std::allocator<NativeUI::Label*> >:Tt(0,300)=s1operator=::(0,301)=#(0,300),(0,302)=&(0,300),(0,303)=*(0,300),(0,304)=&(0,305)=k(0,300),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEaSERKS6_;2A.;__base_ctor::(0,306)=#(0,300),(0,6),(0,303),(0,304),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEC2ERKS6_;2A.;__comp_ctor::(0,306):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEC1ERKS6_;2A.;__base_ctor::(0,307)=#(0,300),(0,6),(0,303),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEC2Ev;2A.;__comp_ctor::(0,307):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEC1Ev;2A.;;",128,0,575,0
-	.stabs	"_STLP_alloc_proxy<NativeUI::Label**,NativeUI::Label*,stlpmtx_std::allocator<NativeUI::Label*> >::_STLportAlloc:t(0,308)=(23,1)",128,0,527,0
-	.stabs	"_ConversionHelper<stlpmtx_std::allocator<NativeUI::Button*>*,const volatile stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::Button*> >*>:Tt(0,309)=s1_Test::(0,310)=f(0,19):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEE5_TestEbSA_;2A?(0,256):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEE5_TestEbz;2A?;_MakeSource::(0,311)=f(1,247):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEE11_MakeSourceEv;2A?;operator=::(0,312)=#(0,309),(0,313)=&(0,309),(0,314)=*(0,309),(0,315)=&(0,316)=k(0,309),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEaSERKSB_;2A.;__base_ctor::(0,317)=#(0,309),(0,6),(0,314),(0,315),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEC2ERKSB_;2A.;__comp_ctor::(0,317):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEC1ERKSB_;2A.;__base_ctor::(0,318)=#(0,309),(0,6),(0,314),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,318):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,224,0
-	.stabs	"_IsConvertible<stlpmtx_std::allocator<NativeUI::Button*>,stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::Button*> > >:Tt(0,319)=s1operator=::(0,320)=#(0,319),(0,321)=&(0,319),(0,322)=*(0,319),(0,323)=&(0,324)=k(0,319),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEaSERKS8_;2A.;__base_ctor::(0,325)=#(0,319),(0,6),(0,322),(0,323),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEC2ERKS8_;2A.;__comp_ctor::(0,325):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEC1ERKS8_;2A.;__base_ctor::(0,326)=#(0,319),(0,6),(0,322),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,326):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,231,0
-	.stabs	"_IsSTLportClass<stlpmtx_std::allocator<NativeUI::Button*> >:Tt(0,327)=s1operator=::(0,328)=#(0,327),(0,329)=&(0,327),(0,330)=*(0,327),(0,331)=&(0,332)=k(0,327),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEaSERKS6_;2A.;__base_ctor::(0,333)=#(0,327),(0,6),(0,330),(0,331),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEC2ERKS6_;2A.;__comp_ctor::(0,333):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEC1ERKS6_;2A.;__base_ctor::(0,334)=#(0,327),(0,6),(0,330),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEC2Ev;2A.;__comp_ctor::(0,334):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEC1Ev;2A.;;",128,0,575,0
-	.stabs	"_STLP_alloc_proxy<NativeUI::Button**,NativeUI::Button*,stlpmtx_std::allocator<NativeUI::Button*> >::_STLportAlloc:t(0,335)=(23,1)",128,0,527,0
-	.stabs	"MainScreen:Tt(0,336)=s1208!4,020,(116,33);02576,(64,4);02608,(76,9);00640,(0,337)=xsHttpConnectionListener:;mMainLayout:/0(0,338)=*(0,339)=xsVerticalLayout:,672,32;mInstructions:/0(1,137),704,32;mUrlBox:/0(0,340)=*(0,341)=xsEditBox:,736,32;mOnOff:/0(1,255),768,32;onoff_mode:/0(0,4),800,8;mLayouts:/0(1,69),832,96;mLabels:/0(1,187),928,96;mButtons:/0(1,305),1024,96;clicked:/0(0,3),1120,32;mBuffer:/0(0,342)=ar(12,11);0;1023;(0,19),1152,8192;mHttp:/0(0,343)=xsHttpConnection:,9344,320;__base_ctor::(0,344)=#(0,336),(0,6),(0,345)=*(0,336),(0,6);:_ZN10MainScreenC2Ev;2A.;__comp_ctor::(0,344):_ZN10MainScreenC1Ev;2A.;__base_dtor::(0,344):_ZN10MainScreenD2Ev;2A.;__comp_dtor::(0,344):_ZN10MainScreenD1Ev;2A*0;(0,336);;__deleting_dtor::(0,344):_ZN10MainScreenD0Ev;2A*1;(0,336);;start::(0,346)=#(0,336),(0,6),(0,345),(11,88),(0,6);:_ZN10MainScreen5startEPKc;2A.;httpFinished::(0,347)=#(0,336),(0,6),(0,345),(0,348)=*(0,343),(0,3),(0,6);:_ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi;2A*48;(0,336);;connReadFinished::(0,349)=#(0,336),(0,6),(0,345),(0,350)=*(0,351)=xsConnection:,(0,3),(0,6);:_ZN10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi;2A*49;(0,336);;connRecvFinished::(0,349):_ZN10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi;2A*50;(0,336);;createUI::(0,344):_ZN10MainScreen8createUIEv;0A.;buttonClicked::(0,352)=#(0,336),(0,6),(0,345),(56,73),(0,6);:_ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE;0A*51;(0,336);;editBoxReturn::(0,353)=#(0,336),(0,6),(0,345),(0,340),(0,6);:_ZN10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE;0A*52;(0,336);;operator=::(0,354)=#(0,336),(0,355)=&(0,336),(0,345),(0,356)=&(0,357)=k(0,336),(0,6);:_ZN10MainScreenaSERKS_;2A.;__base_ctor::(0,358)=#(0,336),(0,6),(0,345),(0,356),(0,6);:_ZN10MainScreenC2ERKS_;2A.;__comp_ctor::(0,358):_ZN10MainScreenC1ERKS_;2A.;;~%(56,74);",128,0,25,0
-	.stabs	"HttpConnectionListener:Tt(0,337)=s4!1,020,(0,359)=xsConnectionListener:;httpFinished::(0,360)=#(0,337),(0,6),(0,361)=*(0,337),(0,348),(0,3),(0,6);:_ZN6MAUtil22HttpConnectionListener12httpFinishedEPNS_14HttpConnectionEi;2A*4;(0,337);;operator=::(0,362)=#(0,337),(0,363)=&(0,337),(0,361),(0,364)=&(0,365)=k(0,337),(0,6);:_ZN6MAUtil22HttpConnectionListeneraSERKS0_;2A.;__base_ctor::(0,366)=#(0,337),(0,6),(0,361),(0,364),(0,6);:_ZN6MAUtil22HttpConnectionListenerC2ERKS0_;2A.;__comp_ctor::(0,366):_ZN6MAUtil22HttpConnectionListenerC1ERKS0_;2A.;__base_ctor::(0,367)=#(0,337),(0,6),(0,361),(0,6);:_ZN6MAUtil22HttpConnectionListenerC2Ev;2A.;__comp_ctor::(0,367):_ZN6MAUtil22HttpConnectionListenerC1Ev;2A.;;~%(0,359);",128,0,219,0
-	.stabs	"WebViewListener:Tt(127,4)=s4_vptr$WebViewListener:(0,368)=*(0,1),0,32;__base_ctor::(0,369)=#(127,4),(0,6),(127,3),(0,6);:_ZN8NativeUI15WebViewListenerC2Ev;2A.;__comp_ctor::(0,369):_ZN8NativeUI15WebViewListenerC1Ev;2A.;__base_dtor::(0,369):_ZN8NativeUI15WebViewListenerD2Ev;2A.;__comp_dtor::(0,369):_ZN8NativeUI15WebViewListenerD1Ev;2A*0;(127,4);;__deleting_dtor::(0,369):_ZN8NativeUI15WebViewListenerD0Ev;2A*1;(127,4);;webViewHookInvoked::(0,370)=#(127,4),(0,6),(127,3),(0,371)=*(0,372)=xsWebView:,(0,3),(48,5),(0,6);:_ZN8NativeUI15WebViewListener18webViewHookInvokedEPNS_7WebViewEii;2A*2;(127,4);;webViewContentLoading::(0,373)=#(127,4),(0,6),(127,3),(0,371),(0,3),(0,6);:_ZN8NativeUI15WebViewListener21webViewContentLoadingEPNS_7WebViewEi;2A*3;(127,4);;operator=::(0,374)=#(127,4),(0,375)=&(127,4),(127,3),(0,376)=&(0,377)=k(127,4),(0,6);:_ZN8NativeUI15WebViewListeneraSERKS0_;2A.;__base_ctor::(0,378)=#(127,4),(0,6),(127,3),(0,376),(0,6);:_ZN8NativeUI15WebViewListenerC2ERKS0_;2A.;__comp_ctor::(0,378):_ZN8NativeUI15WebViewListenerC1ERKS0_;2A.;;~%(127,4);",128,0,50,0
-	.stabs	"EditBoxListener:Tt(76,9)=s4_vptr$EditBoxListener:(0,368),0,32;editBoxEditingDidBegin::(0,379)=#(76,9),(0,6),(76,8),(0,340),(0,6);:_ZN8NativeUI15EditBoxListener22editBoxEditingDidBeginEPNS_7EditBoxE;2A*0;(76,9);;editBoxEditingDidEnd::(0,379):_ZN8NativeUI15EditBoxListener20editBoxEditingDidEndEPNS_7EditBoxE;2A*1;(76,9);;editBoxTextChanged::(0,380)=#(76,9),(0,6),(76,8),(0,340),(56,34),(0,6);:_ZN8NativeUI15EditBoxListener18editBoxTextChangedEPNS_7EditBoxERKN6MAUtil11BasicStringIcEE;2A*2;(76,9);;editBoxReturn::(0,379):_ZN8NativeUI15EditBoxListener13editBoxReturnEPNS_7EditBoxE;2A*3;(76,9);;operator=::(0,381)=#(76,9),(0,382)=&(76,9),(76,8),(0,383)=&(0,384)=k(76,9),(0,6);:_ZN8NativeUI15EditBoxListeneraSERKS0_;2A.;__base_ctor::(0,385)=#(76,9),(0,6),(76,8),(0,383),(0,6);:_ZN8NativeUI15EditBoxListenerC2ERKS0_;2A.;__comp_ctor::(0,385):_ZN8NativeUI15EditBoxListenerC1ERKS0_;2A.;__base_ctor::(0,386)=#(76,9),(0,6),(76,8),(0,6);:_ZN8NativeUI15EditBoxListenerC2Ev;2A.;__comp_ctor::(0,386):_ZN8NativeUI15EditBoxListenerC1Ev;2A.;;~%(76,9);",128,0,48,0
-	.stabs	"ButtonListener:Tt(64,4)=s4_vptr$ButtonListener:(0,368),0,32;buttonPressed::(0,387)=#(64,4),(0,6),(64,3),(56,73),(0,6);:_ZN8NativeUI14ButtonListener13buttonPressedEPNS_6WidgetE;2A*0;(64,4);;buttonReleased::(0,387):_ZN8NativeUI14ButtonListener14buttonReleasedEPNS_6WidgetE;2A*1;(64,4);;buttonClicked::(0,387):_ZN8NativeUI14ButtonListener13buttonClickedEPNS_6WidgetE;2A*2;(64,4);;operator=::(0,388)=#(64,4),(0,389)=&(64,4),(64,3),(0,390)=&(0,391)=k(64,4),(0,6);:_ZN8NativeUI14ButtonListeneraSERKS0_;2A.;__base_ctor::(0,392)=#(64,4),(0,6),(64,3),(0,390),(0,6);:_ZN8NativeUI14ButtonListenerC2ERKS0_;2A.;__comp_ctor::(0,392):_ZN8NativeUI14ButtonListenerC1ERKS0_;2A.;__base_ctor::(0,393)=#(64,4),(0,6),(64,3),(0,6);:_ZN8NativeUI14ButtonListenerC2Ev;2A.;__comp_ctor::(0,393):_ZN8NativeUI14ButtonListenerC1Ev;2A.;;~%(64,4);",128,0,48,0
-	.stabs	"RefCounted:Tt(0,394)=s8_vptr$RefCounted:(0,368),0,32;mRefCount:/0(0,3),32,32;__base_ctor::(0,395)=#(0,394),(0,6),(0,396)=*(0,394),(0,3),(0,6);:_ZN6MAUtil10RefCountedC2Ei;2A.;__comp_ctor::(0,395):_ZN6MAUtil10RefCountedC1Ei;2A.;addRef::(0,397)=#(0,394),(0,6),(0,396),(0,6);:_ZN6MAUtil10RefCounted6addRefEv;2A.;release::(0,397):_ZN6MAUtil10RefCounted7releaseEv;2A.;getRefCount::(0,398)=#(0,394),(0,3),(0,396),(0,6);:_ZN6MAUtil10RefCounted11getRefCountEv;2A.;__base_dtor::(0,397):_ZN6MAUtil10RefCountedD2Ev;2A.;__comp_dtor::(0,397):_ZN6MAUtil10RefCountedD1Ev;2A*0;(0,394);;__deleting_dtor::(0,397):_ZN6MAUtil10RefCountedD0Ev;2A*1;(0,394);;operator=::(0,399)=#(0,394),(0,400)=&(0,394),(0,396),(0,401)=&(0,402)=k(0,394),(0,6);:_ZN6MAUtil10RefCountedaSERKS0_;2A.;__base_ctor::(0,403)=#(0,394),(0,6),(0,396),(0,401),(0,6);:_ZN6MAUtil10RefCountedC2ERKS0_;2A.;__comp_ctor::(0,403):_ZN6MAUtil10RefCountedC1ERKS0_;2A.;;~%(0,394);",128,0,28,0
+	.stabs	"__move_source<stlpmtx_std::basic_string<char, stlpmtx_std::char_traits<char>, stlpmtx_std::allocator<char> > >:Tt(3,103)=s4_M_data:/0(3,106),0,32;__base_ctor::(0,25)=#(3,103),(0,6),(0,26)=*(3,103),(3,106),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEC2ERS6_;2A.;__comp_ctor::(0,25):_ZN11stlpmtx_std13__move_sourceINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEC1ERS6_;2A.;get::(0,27)=#(3,103),(3,106),(0,28)=*(0,29)=k(3,103),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEE3getEv;2B.;operator=::(0,30)=#(3,103),(0,31)=&(3,103),(0,26),(0,32)=&(0,29),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEaSERKS7_;0A.;__base_ctor::(0,33)=#(3,103),(0,6),(0,26),(0,32),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEC2ERKS7_;2A.;__comp_ctor::(0,33):_ZN11stlpmtx_std13__move_sourceINS_12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEEEC1ERKS7_;2A.;;",128,0,35,0
+	.stabs	"__move_source<stlpmtx_std::priv::_Vector_base<NativeUI::HorizontalLayout*, stlpmtx_std::allocator<NativeUI::HorizontalLayout*> > >:Tt(1,60)=s4_M_data:/0(1,66),0,32;__base_ctor::(0,34)=#(1,60),(0,6),(0,35)=*(1,60),(1,66),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEC2ERS8_;2A.;__comp_ctor::(0,34):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEC1ERS8_;2A.;get::(0,36)=#(1,60),(1,66),(0,37)=*(0,38)=k(1,60),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEE3getEv;2B.;operator=::(0,39)=#(1,60),(0,40)=&(1,60),(0,35),(0,41)=&(0,38),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEaSERKS9_;0A.;__base_ctor::(0,42)=#(1,60),(0,6),(0,35),(0,41),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEC2ERKS9_;2A.;__comp_ctor::(0,42):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS5_EEEEEC1ERKS9_;2A.;;",128,0,35,0
+	.stabs	"iterator_traits<NativeUI::HorizontalLayout**>:Tt(0,43)=s1operator=::(0,44)=#(0,43),(0,45)=&(0,43),(0,46)=*(0,43),(0,47)=&(0,48)=k(0,43),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEaSERKS5_;2A.;__base_ctor::(0,49)=#(0,43),(0,6),(0,46),(0,47),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEC2ERKS5_;2A.;__comp_ctor::(0,49):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEC1ERKS5_;2A.;__base_ctor::(0,50)=#(0,43),(0,6),(0,46),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEC2Ev;2A.;__comp_ctor::(0,50):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI16HorizontalLayoutEEC1Ev;2A.;;",128,0,147,0
+	.stabs	"iterator<stlpmtx_std::random_access_iterator_tag,NativeUI::HorizontalLayout*,ptrdiff_t,NativeUI::HorizontalLayout**,NativeUI::HorizontalLayout*&>:Tt(0,51)=s1operator=::(0,52)=#(0,51),(0,53)=&(0,51),(0,54)=*(0,51),(0,55)=&(0,56)=k(0,51),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EaSERKS7_;2A.;__base_ctor::(0,57)=#(0,51),(0,6),(0,54),(0,55),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EC2ERKS7_;2A.;__comp_ctor::(0,57):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EC1ERKS7_;2A.;__base_ctor::(0,58)=#(0,51),(0,6),(0,54),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EC2Ev;2A.;__comp_ctor::(0,58):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI16HorizontalLayoutEiPS4_RS4_EC1Ev;2A.;;",128,0,59,0
+	.stabs	"reverse_iterator<NativeUI::HorizontalLayout**>:Tt(1,83)=s4!1,020,(0,51);current:/1(1,18),0,32;__base_ctor::(0,59)=#(1,83),(0,6),(0,60)=*(1,83),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC2Ev;2A.;__comp_ctor::(0,59):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC1Ev;2A.;__base_ctor::(0,61)=#(1,83),(0,6),(0,60),(1,18),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC2ES4_;2A.;__comp_ctor::(0,61):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC1ES4_;2A.;__base_ctor::(0,62)=#(1,83),(0,6),(0,60),(0,63)=&(0,64)=k(1,83),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC2ERKS5_;2A.;__comp_ctor::(0,62):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEC1ERKS5_;2A.;operator=::(0,65)=#(1,83),(0,66)=&(1,83),(0,60),(0,63),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEaSERKS5_;2A.;base::(0,67)=#(1,83),(1,18),(0,68)=*(0,64),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEE4baseEv;2B.;operator*::(0,69)=#(1,83),(1,22),(0,68),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEdeEv;2B.;operator->::(0,67):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEptEv;2B.;operator++::(0,70)=#(1,83),(0,66),(0,60),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEppEv;2A.(0,71)=#(1,83),(1,83),(0,60),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEppEi;2A.;operator--::(0,70):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEmmEv;2A.(0,71):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEmmEi;2A.;operator+::(0,72)=#(1,83),(1,83),(0,68),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEplEi;2B.;operator+=::(0,73)=#(1,83),(0,66),(0,60),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEpLEi;2A.;operator-::(0,72):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEmiEi;2B.;operator-=::(0,73):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEmIEi;2A.;operator[]::(0,74)=#(1,83),(1,22),(0,68),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEixEi;2B.;;",128,0,52,0
+	.stabs	"__move_source<stlpmtx_std::priv::_Vector_base<NativeUI::Label*, stlpmtx_std::allocator<NativeUI::Label*> > >:Tt(1,178)=s4_M_data:/0(1,184),0,32;__base_ctor::(0,75)=#(1,178),(0,6),(0,76)=*(1,178),(1,184),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEC2ERS8_;2A.;__comp_ctor::(0,75):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEC1ERS8_;2A.;get::(0,77)=#(1,178),(1,184),(0,78)=*(0,79)=k(1,178),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEE3getEv;2B.;operator=::(0,80)=#(1,178),(0,81)=&(1,178),(0,76),(0,82)=&(0,79),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEaSERKS9_;0A.;__base_ctor::(0,83)=#(1,178),(0,6),(0,76),(0,82),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEC2ERKS9_;2A.;__comp_ctor::(0,83):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS5_EEEEEC1ERKS9_;2A.;;",128,0,35,0
+	.stabs	"iterator_traits<NativeUI::Label**>:Tt(0,84)=s1operator=::(0,85)=#(0,84),(0,86)=&(0,84),(0,87)=*(0,84),(0,88)=&(0,89)=k(0,84),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEaSERKS5_;2A.;__base_ctor::(0,90)=#(0,84),(0,6),(0,87),(0,88),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEC2ERKS5_;2A.;__comp_ctor::(0,90):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEC1ERKS5_;2A.;__base_ctor::(0,91)=#(0,84),(0,6),(0,87),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEC2Ev;2A.;__comp_ctor::(0,91):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI5LabelEEC1Ev;2A.;;",128,0,147,0
+	.stabs	"iterator<stlpmtx_std::random_access_iterator_tag,NativeUI::Label*,ptrdiff_t,NativeUI::Label**,NativeUI::Label*&>:Tt(0,92)=s1operator=::(0,93)=#(0,92),(0,94)=&(0,92),(0,95)=*(0,92),(0,96)=&(0,97)=k(0,92),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EaSERKS7_;2A.;__base_ctor::(0,98)=#(0,92),(0,6),(0,95),(0,96),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EC2ERKS7_;2A.;__comp_ctor::(0,98):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EC1ERKS7_;2A.;__base_ctor::(0,99)=#(0,92),(0,6),(0,95),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EC2Ev;2A.;__comp_ctor::(0,99):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI5LabelEiPS4_RS4_EC1Ev;2A.;;",128,0,59,0
+	.stabs	"reverse_iterator<NativeUI::Label**>:Tt(1,201)=s4!1,020,(0,92);current:/1(1,136),0,32;__base_ctor::(0,100)=#(1,201),(0,6),(0,101)=*(1,201),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC2Ev;2A.;__comp_ctor::(0,100):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC1Ev;2A.;__base_ctor::(0,102)=#(1,201),(0,6),(0,101),(1,136),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC2ES4_;2A.;__comp_ctor::(0,102):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC1ES4_;2A.;__base_ctor::(0,103)=#(1,201),(0,6),(0,101),(0,104)=&(0,105)=k(1,201),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC2ERKS5_;2A.;__comp_ctor::(0,103):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEC1ERKS5_;2A.;operator=::(0,106)=#(1,201),(0,107)=&(1,201),(0,101),(0,104),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEaSERKS5_;2A.;base::(0,108)=#(1,201),(1,136),(0,109)=*(0,105),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEE4baseEv;2B.;operator*::(0,110)=#(1,201),(1,140),(0,109),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEdeEv;2B.;operator->::(0,108):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEptEv;2B.;operator++::(0,111)=#(1,201),(0,107),(0,101),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEppEv;2A.(0,112)=#(1,201),(1,201),(0,101),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEppEi;2A.;operator--::(0,111):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEmmEv;2A.(0,112):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEmmEi;2A.;operator+::(0,113)=#(1,201),(1,201),(0,109),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEplEi;2B.;operator+=::(0,114)=#(1,201),(0,107),(0,101),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEpLEi;2A.;operator-::(0,113):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEmiEi;2B.;operator-=::(0,114):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEmIEi;2A.;operator[]::(0,115)=#(1,201),(1,140),(0,109),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI5LabelEEixEi;2B.;;",128,0,52,0
+	.stabs	"__move_source<stlpmtx_std::priv::_Vector_base<NativeUI::Button*, stlpmtx_std::allocator<NativeUI::Button*> > >:Tt(1,296)=s4_M_data:/0(1,302),0,32;__base_ctor::(0,116)=#(1,296),(0,6),(0,117)=*(1,296),(1,302),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEC2ERS8_;2A.;__comp_ctor::(0,116):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEC1ERS8_;2A.;get::(0,118)=#(1,296),(1,302),(0,119)=*(0,120)=k(1,296),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEE3getEv;2B.;operator=::(0,121)=#(1,296),(0,122)=&(1,296),(0,117),(0,123)=&(0,120),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEaSERKS9_;0A.;__base_ctor::(0,124)=#(1,296),(0,6),(0,117),(0,123),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEC2ERKS9_;2A.;__comp_ctor::(0,124):_ZN11stlpmtx_std13__move_sourceINS_4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS5_EEEEEC1ERKS9_;2A.;;",128,0,35,0
+	.stabs	"iterator_traits<NativeUI::Button**>:Tt(0,125)=s1operator=::(0,126)=#(0,125),(0,127)=&(0,125),(0,128)=*(0,125),(0,129)=&(0,130)=k(0,125),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEaSERKS5_;2A.;__base_ctor::(0,131)=#(0,125),(0,6),(0,128),(0,129),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEC2ERKS5_;2A.;__comp_ctor::(0,131):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEC1ERKS5_;2A.;__base_ctor::(0,132)=#(0,125),(0,6),(0,128),(0,6);:_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEC2Ev;2A.;__comp_ctor::(0,132):_ZN11stlpmtx_std15iterator_traitsIPPN8NativeUI6ButtonEEC1Ev;2A.;;",128,0,147,0
+	.stabs	"iterator<stlpmtx_std::random_access_iterator_tag,NativeUI::Button*,ptrdiff_t,NativeUI::Button**,NativeUI::Button*&>:Tt(0,133)=s1operator=::(0,134)=#(0,133),(0,135)=&(0,133),(0,136)=*(0,133),(0,137)=&(0,138)=k(0,133),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EaSERKS7_;2A.;__base_ctor::(0,139)=#(0,133),(0,6),(0,136),(0,137),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EC2ERKS7_;2A.;__comp_ctor::(0,139):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EC1ERKS7_;2A.;__base_ctor::(0,140)=#(0,133),(0,6),(0,136),(0,6);:_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EC2Ev;2A.;__comp_ctor::(0,140):_ZN11stlpmtx_std8iteratorINS_26random_access_iterator_tagEPN8NativeUI6ButtonEiPS4_RS4_EC1Ev;2A.;;",128,0,59,0
+	.stabs	"reverse_iterator<NativeUI::Button**>:Tt(1,319)=s4!1,020,(0,133);current:/1(1,254),0,32;__base_ctor::(0,141)=#(1,319),(0,6),(0,142)=*(1,319),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC2Ev;2A.;__comp_ctor::(0,141):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC1Ev;2A.;__base_ctor::(0,143)=#(1,319),(0,6),(0,142),(1,254),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC2ES4_;2A.;__comp_ctor::(0,143):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC1ES4_;2A.;__base_ctor::(0,144)=#(1,319),(0,6),(0,142),(0,145)=&(0,146)=k(1,319),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC2ERKS5_;2A.;__comp_ctor::(0,144):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEC1ERKS5_;2A.;operator=::(0,147)=#(1,319),(0,148)=&(1,319),(0,142),(0,145),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEaSERKS5_;2A.;base::(0,149)=#(1,319),(1,254),(0,150)=*(0,146),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEE4baseEv;2B.;operator*::(0,151)=#(1,319),(1,258),(0,150),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEdeEv;2B.;operator->::(0,149):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEptEv;2B.;operator++::(0,152)=#(1,319),(0,148),(0,142),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEppEv;2A.(0,153)=#(1,319),(1,319),(0,142),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEppEi;2A.;operator--::(0,152):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEmmEv;2A.(0,153):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEmmEi;2A.;operator+::(0,154)=#(1,319),(1,319),(0,150),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEplEi;2B.;operator+=::(0,155)=#(1,319),(0,148),(0,142),(0,3),(0,6);:_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEpLEi;2A.;operator-::(0,154):_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEmiEi;2B.;operator-=::(0,155):_ZN11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEmIEi;2A.;operator[]::(0,156)=#(1,319),(1,258),(0,150),(0,3),(0,6);:_ZNK11stlpmtx_std16reverse_iteratorIPPN8NativeUI6ButtonEEixEi;2B.;;",128,0,52,0
+	.stabs	"__type_traits<NativeUI::HorizontalLayout*>:Tt(0,157)=s1!1,020,(22,121);operator=::(0,158)=#(0,157),(0,159)=&(0,157),(0,160)=*(0,157),(0,161)=&(0,162)=k(0,157),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEaSERKS4_;2A.;__base_ctor::(0,163)=#(0,157),(0,6),(0,160),(0,161),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEC2ERKS4_;2A.;__comp_ctor::(0,163):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEC1ERKS4_;2A.;__base_ctor::(0,164)=#(0,157),(0,6),(0,160),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEC2Ev;2A.;__comp_ctor::(0,164):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI16HorizontalLayoutEEC1Ev;2A.;;",128,0,224,0
+	.stabs	"vector<NativeUI::HorizontalLayout*,stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >::_TrivialCopy:t(0,165)=(23,1)",128,0,385,0
+	.stabs	"__type_traits<NativeUI::Label*>:Tt(0,166)=s1!1,020,(22,121);operator=::(0,167)=#(0,166),(0,168)=&(0,166),(0,169)=*(0,166),(0,170)=&(0,171)=k(0,166),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEaSERKS4_;2A.;__base_ctor::(0,172)=#(0,166),(0,6),(0,169),(0,170),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEC2ERKS4_;2A.;__comp_ctor::(0,172):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEC1ERKS4_;2A.;__base_ctor::(0,173)=#(0,166),(0,6),(0,169),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEC2Ev;2A.;__comp_ctor::(0,173):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI5LabelEEC1Ev;2A.;;",128,0,224,0
+	.stabs	"vector<NativeUI::Label*,stlpmtx_std::allocator<NativeUI::Label*> >::_TrivialCopy:t(0,174)=(23,1)",128,0,385,0
+	.stabs	"__type_traits<NativeUI::Button*>:Tt(0,175)=s1!1,020,(22,121);operator=::(0,176)=#(0,175),(0,177)=&(0,175),(0,178)=*(0,175),(0,179)=&(0,180)=k(0,175),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEaSERKS4_;2A.;__base_ctor::(0,181)=#(0,175),(0,6),(0,178),(0,179),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEC2ERKS4_;2A.;__comp_ctor::(0,181):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEC1ERKS4_;2A.;__base_ctor::(0,182)=#(0,175),(0,6),(0,178),(0,6);:_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEC2Ev;2A.;__comp_ctor::(0,182):_ZN11stlpmtx_std13__type_traitsIPN8NativeUI6ButtonEEC1Ev;2A.;;",128,0,224,0
+	.stabs	"vector<NativeUI::Button*,stlpmtx_std::allocator<NativeUI::Button*> >::_TrivialCopy:t(0,183)=(23,1)",128,0,385,0
+	.stabs	"__move_source<stlpmtx_std::priv::_String_base<char, stlpmtx_std::allocator<char> > >:Tt(3,83)=s4_M_data:/0(3,81),0,32;__base_ctor::(0,184)=#(3,83),(0,6),(0,185)=*(3,83),(3,81),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_String_baseIcNS_9allocatorIcEEEEEC2ERS5_;2A.;__comp_ctor::(0,184):_ZN11stlpmtx_std13__move_sourceINS_4priv12_String_baseIcNS_9allocatorIcEEEEEC1ERS5_;2A.;get::(0,186)=#(3,83),(3,81),(0,187)=*(0,188)=k(3,83),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_4priv12_String_baseIcNS_9allocatorIcEEEEE3getEv;2B.;operator=::(0,189)=#(3,83),(0,190)=&(3,83),(0,185),(0,191)=&(0,188),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_String_baseIcNS_9allocatorIcEEEEEaSERKS6_;0A.;__base_ctor::(0,192)=#(3,83),(0,6),(0,185),(0,191),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_4priv12_String_baseIcNS_9allocatorIcEEEEEC2ERKS6_;2A.;__comp_ctor::(0,192):_ZN11stlpmtx_std13__move_sourceINS_4priv12_String_baseIcNS_9allocatorIcEEEEEC1ERKS6_;2A.;;",128,0,35,0
+	.stabs	"iterator_traits<stlpmtx_std::reverse_iterator<NativeUI::HorizontalLayout**> >:Tt(0,193)=s1operator=::(0,194)=#(0,193),(0,195)=&(0,193),(0,196)=*(0,193),(0,197)=&(0,198)=k(0,193),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEaSERKS7_;2A.;__base_ctor::(0,199)=#(0,193),(0,6),(0,196),(0,197),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEC2ERKS7_;2A.;__comp_ctor::(0,199):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEC1ERKS7_;2A.;__base_ctor::(0,200)=#(0,193),(0,6),(0,196),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEC2Ev;2A.;__comp_ctor::(0,200):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI16HorizontalLayoutEEEEC1Ev;2A.;;",128,0,147,0
+	.stabs	"iterator_traits<stlpmtx_std::reverse_iterator<NativeUI::Label**> >:Tt(0,201)=s1operator=::(0,202)=#(0,201),(0,203)=&(0,201),(0,204)=*(0,201),(0,205)=&(0,206)=k(0,201),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEaSERKS7_;2A.;__base_ctor::(0,207)=#(0,201),(0,6),(0,204),(0,205),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEC2ERKS7_;2A.;__comp_ctor::(0,207):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEC1ERKS7_;2A.;__base_ctor::(0,208)=#(0,201),(0,6),(0,204),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEC2Ev;2A.;__comp_ctor::(0,208):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI5LabelEEEEC1Ev;2A.;;",128,0,147,0
+	.stabs	"iterator_traits<stlpmtx_std::reverse_iterator<NativeUI::Button**> >:Tt(0,209)=s1operator=::(0,210)=#(0,209),(0,211)=&(0,209),(0,212)=*(0,209),(0,213)=&(0,214)=k(0,209),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEaSERKS7_;2A.;__base_ctor::(0,215)=#(0,209),(0,6),(0,212),(0,213),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEC2ERKS7_;2A.;__comp_ctor::(0,215):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEC1ERKS7_;2A.;__base_ctor::(0,216)=#(0,209),(0,6),(0,212),(0,6);:_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEC2Ev;2A.;__comp_ctor::(0,216):_ZN11stlpmtx_std15iterator_traitsINS_16reverse_iteratorIPPN8NativeUI6ButtonEEEEC1Ev;2A.;;",128,0,147,0
+	.stabs	"_IsPOD<NativeUI::HorizontalLayout*>:Tt(0,217)=s1_Answer::(0,218)=f(23,1):_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEE7_AnswerEv;2A?;operator=::(0,219)=#(0,217),(0,220)=&(0,217),(0,221)=*(0,217),(0,222)=&(0,223)=k(0,217),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEaSERKS4_;2A.;__base_ctor::(0,224)=#(0,217),(0,6),(0,221),(0,222),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEC2ERKS4_;2A.;__comp_ctor::(0,224):_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEC1ERKS4_;2A.;__base_ctor::(0,225)=#(0,217),(0,6),(0,221),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEC2Ev;2A.;__comp_ctor::(0,225):_ZN11stlpmtx_std6_IsPODIPN8NativeUI16HorizontalLayoutEEC1Ev;2A.;;",128,0,545,0
+	.stabs	"_IsPOD<NativeUI::Label*>:Tt(0,226)=s1_Answer::(0,218):_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEE7_AnswerEv;2A?;operator=::(0,227)=#(0,226),(0,228)=&(0,226),(0,229)=*(0,226),(0,230)=&(0,231)=k(0,226),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEaSERKS4_;2A.;__base_ctor::(0,232)=#(0,226),(0,6),(0,229),(0,230),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEC2ERKS4_;2A.;__comp_ctor::(0,232):_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEC1ERKS4_;2A.;__base_ctor::(0,233)=#(0,226),(0,6),(0,229),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEC2Ev;2A.;__comp_ctor::(0,233):_ZN11stlpmtx_std6_IsPODIPN8NativeUI5LabelEEC1Ev;2A.;;",128,0,545,0
+	.stabs	"_IsPOD<NativeUI::Button*>:Tt(0,234)=s1_Answer::(0,218):_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEE7_AnswerEv;2A?;operator=::(0,235)=#(0,234),(0,236)=&(0,234),(0,237)=*(0,234),(0,238)=&(0,239)=k(0,234),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEaSERKS4_;2A.;__base_ctor::(0,240)=#(0,234),(0,6),(0,237),(0,238),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEC2ERKS4_;2A.;__comp_ctor::(0,240):_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEC1ERKS4_;2A.;__base_ctor::(0,241)=#(0,234),(0,6),(0,237),(0,6);:_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEC2Ev;2A.;__comp_ctor::(0,241):_ZN11stlpmtx_std6_IsPODIPN8NativeUI6ButtonEEC1Ev;2A.;;",128,0,545,0
+	.stabs	"__move_source<stlpmtx_std::allocator<char> >:Tt(3,33)=s4_M_data:/0(3,48),0,32;__base_ctor::(0,242)=#(3,33),(0,6),(0,243)=*(3,33),(3,48),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIcEEEC2ERS2_;2A.;__comp_ctor::(0,242):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIcEEEC1ERS2_;2A.;get::(0,244)=#(3,33),(3,48),(0,245)=*(0,246)=k(3,33),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_9allocatorIcEEE3getEv;2B.;operator=::(0,247)=#(3,33),(0,248)=&(3,33),(0,243),(0,249)=&(0,246),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIcEEEaSERKS3_;0A.;__base_ctor::(0,250)=#(3,33),(0,6),(0,243),(0,249),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIcEEEC2ERKS3_;2A.;__comp_ctor::(0,250):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIcEEEC1ERKS3_;2A.;;",128,0,35,0
+	.stabs	"binary_function<char,char,bool>:Tt(0,251)=s1__base_dtor::(0,252)=#(0,251),(0,6),(0,253)=*(0,251),(0,6);:_ZN11stlpmtx_std15binary_functionIccbED2Ev;1A.;__comp_dtor::(0,252):_ZN11stlpmtx_std15binary_functionIccbED1Ev;1A.;operator=::(0,254)=#(0,251),(0,255)=&(0,251),(0,253),(0,256)=&(0,257)=k(0,251),(0,6);:_ZN11stlpmtx_std15binary_functionIccbEaSERKS1_;2A.;__base_ctor::(0,258)=#(0,251),(0,6),(0,253),(0,256),(0,6);:_ZN11stlpmtx_std15binary_functionIccbEC2ERKS1_;2A.;__comp_ctor::(0,258):_ZN11stlpmtx_std15binary_functionIccbEC1ERKS1_;2A.;__base_ctor::(0,259)=#(0,251),(0,6),(0,253),(0,6);:_ZN11stlpmtx_std15binary_functionIccbEC2Ev;2A.;__comp_ctor::(0,259):_ZN11stlpmtx_std15binary_functionIccbEC1Ev;2A.;;",128,0,53,0
+	.stabs	"_Eq_traits<stlpmtx_std::char_traits<char> >:Tt(0,260)=s1!1,020,(0,251);operator()::(0,261)=#(0,260),(0,4),(0,262)=*(0,263)=k(0,260),(3,38),(3,38),(0,6);:_ZNK11stlpmtx_std4priv10_Eq_traitsINS_11char_traitsIcEEEclERKcS6_;2B.;operator=::(0,264)=#(0,260),(0,265)=&(0,260),(0,266)=*(0,260),(0,267)=&(0,263),(0,6);:_ZN11stlpmtx_std4priv10_Eq_traitsINS_11char_traitsIcEEEaSERKS4_;2A.;__base_ctor::(0,268)=#(0,260),(0,6),(0,266),(0,267),(0,6);:_ZN11stlpmtx_std4priv10_Eq_traitsINS_11char_traitsIcEEEC2ERKS4_;2A.;__comp_ctor::(0,268):_ZN11stlpmtx_std4priv10_Eq_traitsINS_11char_traitsIcEEEC1ERKS4_;2A.;__base_ctor::(0,269)=#(0,260),(0,6),(0,266),(0,6);:_ZN11stlpmtx_std4priv10_Eq_traitsINS_11char_traitsIcEEEC2Ev;2A.;__comp_ctor::(0,269):_ZN11stlpmtx_std4priv10_Eq_traitsINS_11char_traitsIcEEEC1Ev;2A.;__base_dtor::(0,270)=#(0,260),(0,6),(0,266),(0,6);:_ZN11stlpmtx_std4priv10_Eq_traitsINS_11char_traitsIcEEED2Ev;2A.;__comp_dtor::(0,270):_ZN11stlpmtx_std4priv10_Eq_traitsINS_11char_traitsIcEEED1Ev;2A.;;",128,0,36,0
+	.stabs	"__move_source<stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >:Tt(1,16)=s4_M_data:/0(1,35),0,32;__base_ctor::(0,271)=#(1,16),(0,6),(0,272)=*(1,16),(1,35),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC2ERS5_;2A.;__comp_ctor::(0,271):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC1ERS5_;2A.;get::(0,273)=#(1,16),(1,35),(0,274)=*(0,275)=k(1,16),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEE3getEv;2B.;operator=::(0,276)=#(1,16),(0,277)=&(1,16),(0,272),(0,278)=&(0,275),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEaSERKS6_;0A.;__base_ctor::(0,279)=#(1,16),(0,6),(0,272),(0,278),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC2ERKS6_;2A.;__comp_ctor::(0,279):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC1ERKS6_;2A.;;",128,0,35,0
+	.stabs	"_Trivial_destructor:t(0,280)=(23,1)",128,0,214,0
+	.stabs	"__move_source<stlpmtx_std::allocator<NativeUI::Label*> >:Tt(1,134)=s4_M_data:/0(1,153),0,32;__base_ctor::(0,281)=#(1,134),(0,6),(0,282)=*(1,134),(1,153),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEC2ERS5_;2A.;__comp_ctor::(0,281):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEC1ERS5_;2A.;get::(0,283)=#(1,134),(1,153),(0,284)=*(0,285)=k(1,134),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEE3getEv;2B.;operator=::(0,286)=#(1,134),(0,287)=&(1,134),(0,282),(0,288)=&(0,285),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEaSERKS6_;0A.;__base_ctor::(0,289)=#(1,134),(0,6),(0,282),(0,288),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEC2ERKS6_;2A.;__comp_ctor::(0,289):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI5LabelEEEEC1ERKS6_;2A.;;",128,0,35,0
+	.stabs	"_Trivial_destructor:t(0,290)=(23,1)",128,0,214,0
+	.stabs	"__move_source<stlpmtx_std::allocator<NativeUI::Button*> >:Tt(1,252)=s4_M_data:/0(1,271),0,32;__base_ctor::(0,291)=#(1,252),(0,6),(0,292)=*(1,252),(1,271),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEC2ERS5_;2A.;__comp_ctor::(0,291):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEC1ERS5_;2A.;get::(0,293)=#(1,252),(1,271),(0,294)=*(0,295)=k(1,252),(0,6);:_ZNK11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEE3getEv;2B.;operator=::(0,296)=#(1,252),(0,297)=&(1,252),(0,292),(0,298)=&(0,295),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEaSERKS6_;0A.;__base_ctor::(0,299)=#(1,252),(0,6),(0,292),(0,298),(0,6);:_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEC2ERKS6_;2A.;__comp_ctor::(0,299):_ZN11stlpmtx_std13__move_sourceINS_9allocatorIPN8NativeUI6ButtonEEEEC1ERKS6_;2A.;;",128,0,35,0
+	.stabs	"_Trivial_destructor:t(0,300)=(23,1)",128,0,214,0
+	.stabs	"_ConversionHelper<stlpmtx_std::allocator<NativeUI::HorizontalLayout*>*,const volatile stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >*>:Tt(0,301)=s1_Test::(0,302)=f(0,19):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEE5_TestEbSA_;2A?(0,303)=f(11,93):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEE5_TestEbz;2A?;_MakeSource::(0,304)=f(1,11):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEE11_MakeSourceEv;2A?;operator=::(0,305)=#(0,301),(0,306)=&(0,301),(0,307)=*(0,301),(0,308)=&(0,309)=k(0,301),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEaSERKSB_;2A.;__base_ctor::(0,310)=#(0,301),(0,6),(0,307),(0,308),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEC2ERKSB_;2A.;__comp_ctor::(0,310):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEC1ERKSB_;2A.;__base_ctor::(0,311)=#(0,301),(0,6),(0,307),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,311):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI16HorizontalLayoutEEEPVKNS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,224,0
+	.stabs	"_IsConvertible<stlpmtx_std::allocator<NativeUI::HorizontalLayout*>,stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::HorizontalLayout*> > >:Tt(0,312)=s1operator=::(0,313)=#(0,312),(0,314)=&(0,312),(0,315)=*(0,312),(0,316)=&(0,317)=k(0,312),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEaSERKS8_;2A.;__base_ctor::(0,318)=#(0,312),(0,6),(0,315),(0,316),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEC2ERKS8_;2A.;__comp_ctor::(0,318):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEC1ERKS8_;2A.;__base_ctor::(0,319)=#(0,312),(0,6),(0,315),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,319):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI16HorizontalLayoutEEENS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,231,0
+	.stabs	"_IsSTLportClass<stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >:Tt(0,320)=s1operator=::(0,321)=#(0,320),(0,322)=&(0,320),(0,323)=*(0,320),(0,324)=&(0,325)=k(0,320),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEaSERKS6_;2A.;__base_ctor::(0,326)=#(0,320),(0,6),(0,323),(0,324),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC2ERKS6_;2A.;__comp_ctor::(0,326):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC1ERKS6_;2A.;__base_ctor::(0,327)=#(0,320),(0,6),(0,323),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC2Ev;2A.;__comp_ctor::(0,327):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI16HorizontalLayoutEEEEC1Ev;2A.;;",128,0,575,0
+	.stabs	"_STLP_alloc_proxy<NativeUI::HorizontalLayout**,NativeUI::HorizontalLayout*,stlpmtx_std::allocator<NativeUI::HorizontalLayout*> >::_STLportAlloc:t(0,328)=(23,1)",128,0,527,0
+	.stabs	"_ConversionHelper<stlpmtx_std::allocator<NativeUI::Label*>*,const volatile stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::Label*> >*>:Tt(0,329)=s1_Test::(0,330)=f(0,19):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEE5_TestEbSA_;2A?(0,303):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEE5_TestEbz;2A?;_MakeSource::(0,331)=f(1,129):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEE11_MakeSourceEv;2A?;operator=::(0,332)=#(0,329),(0,333)=&(0,329),(0,334)=*(0,329),(0,335)=&(0,336)=k(0,329),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEaSERKSB_;2A.;__base_ctor::(0,337)=#(0,329),(0,6),(0,334),(0,335),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEC2ERKSB_;2A.;__comp_ctor::(0,337):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEC1ERKSB_;2A.;__base_ctor::(0,338)=#(0,329),(0,6),(0,334),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,338):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI5LabelEEEPVKNS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,224,0
+	.stabs	"_IsConvertible<stlpmtx_std::allocator<NativeUI::Label*>,stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::Label*> > >:Tt(0,339)=s1operator=::(0,340)=#(0,339),(0,341)=&(0,339),(0,342)=*(0,339),(0,343)=&(0,344)=k(0,339),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEaSERKS8_;2A.;__base_ctor::(0,345)=#(0,339),(0,6),(0,342),(0,343),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEC2ERKS8_;2A.;__comp_ctor::(0,345):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEC1ERKS8_;2A.;__base_ctor::(0,346)=#(0,339),(0,6),(0,342),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,346):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI5LabelEEENS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,231,0
+	.stabs	"_IsSTLportClass<stlpmtx_std::allocator<NativeUI::Label*> >:Tt(0,347)=s1operator=::(0,348)=#(0,347),(0,349)=&(0,347),(0,350)=*(0,347),(0,351)=&(0,352)=k(0,347),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEaSERKS6_;2A.;__base_ctor::(0,353)=#(0,347),(0,6),(0,350),(0,351),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEC2ERKS6_;2A.;__comp_ctor::(0,353):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEC1ERKS6_;2A.;__base_ctor::(0,354)=#(0,347),(0,6),(0,350),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEC2Ev;2A.;__comp_ctor::(0,354):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI5LabelEEEEC1Ev;2A.;;",128,0,575,0
+	.stabs	"_STLP_alloc_proxy<NativeUI::Label**,NativeUI::Label*,stlpmtx_std::allocator<NativeUI::Label*> >::_STLportAlloc:t(0,355)=(23,1)",128,0,527,0
+	.stabs	"_ConversionHelper<stlpmtx_std::allocator<NativeUI::Button*>*,const volatile stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::Button*> >*>:Tt(0,356)=s1_Test::(0,357)=f(0,19):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEE5_TestEbSA_;2A?(0,303):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEE5_TestEbz;2A?;_MakeSource::(0,358)=f(1,247):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEE11_MakeSourceEv;2A?;operator=::(0,359)=#(0,356),(0,360)=&(0,356),(0,361)=*(0,356),(0,362)=&(0,363)=k(0,356),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEaSERKSB_;2A.;__base_ctor::(0,364)=#(0,356),(0,6),(0,361),(0,362),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEC2ERKSB_;2A.;__comp_ctor::(0,364):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEC1ERKSB_;2A.;__base_ctor::(0,365)=#(0,356),(0,6),(0,361),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,365):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIPN8NativeUI6ButtonEEEPVKNS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,224,0
+	.stabs	"_IsConvertible<stlpmtx_std::allocator<NativeUI::Button*>,stlpmtx_std::__stlport_class<stlpmtx_std::allocator<NativeUI::Button*> > >:Tt(0,366)=s1operator=::(0,367)=#(0,366),(0,368)=&(0,366),(0,369)=*(0,366),(0,370)=&(0,371)=k(0,366),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEaSERKS8_;2A.;__base_ctor::(0,372)=#(0,366),(0,6),(0,369),(0,370),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEC2ERKS8_;2A.;__comp_ctor::(0,372):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEC1ERKS8_;2A.;__base_ctor::(0,373)=#(0,366),(0,6),(0,369),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEC2Ev;2A.;__comp_ctor::(0,373):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIPN8NativeUI6ButtonEEENS_15__stlport_classIS5_EEEC1Ev;2A.;;",128,0,231,0
+	.stabs	"_IsSTLportClass<stlpmtx_std::allocator<NativeUI::Button*> >:Tt(0,374)=s1operator=::(0,375)=#(0,374),(0,376)=&(0,374),(0,377)=*(0,374),(0,378)=&(0,379)=k(0,374),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEaSERKS6_;2A.;__base_ctor::(0,380)=#(0,374),(0,6),(0,377),(0,378),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEC2ERKS6_;2A.;__comp_ctor::(0,380):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEC1ERKS6_;2A.;__base_ctor::(0,381)=#(0,374),(0,6),(0,377),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEC2Ev;2A.;__comp_ctor::(0,381):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIPN8NativeUI6ButtonEEEEC1Ev;2A.;;",128,0,575,0
+	.stabs	"_STLP_alloc_proxy<NativeUI::Button**,NativeUI::Button*,stlpmtx_std::allocator<NativeUI::Button*> >::_STLportAlloc:t(0,382)=(23,1)",128,0,527,0
+	.stabs	"_ConversionHelper<stlpmtx_std::allocator<char>*,const volatile stlpmtx_std::__stlport_class<stlpmtx_std::allocator<char> >*>:Tt(0,383)=s1_Test::(0,384)=f(0,19):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIcEEPVKNS_15__stlport_classIS2_EEE5_TestEbS7_;2A?(0,303):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIcEEPVKNS_15__stlport_classIS2_EEE5_TestEbz;2A?;_MakeSource::(0,385)=f(3,28):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIcEEPVKNS_15__stlport_classIS2_EEE11_MakeSourceEv;2A?;operator=::(0,386)=#(0,383),(0,387)=&(0,383),(0,388)=*(0,383),(0,389)=&(0,390)=k(0,383),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIcEEPVKNS_15__stlport_classIS2_EEEaSERKS8_;2A.;__base_ctor::(0,391)=#(0,383),(0,6),(0,388),(0,389),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIcEEPVKNS_15__stlport_classIS2_EEEC2ERKS8_;2A.;__comp_ctor::(0,391):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIcEEPVKNS_15__stlport_classIS2_EEEC1ERKS8_;2A.;__base_ctor::(0,392)=#(0,383),(0,6),(0,388),(0,6);:_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIcEEPVKNS_15__stlport_classIS2_EEEC2Ev;2A.;__comp_ctor::(0,392):_ZN11stlpmtx_std17_ConversionHelperIPNS_9allocatorIcEEPVKNS_15__stlport_classIS2_EEEC1Ev;2A.;;",128,0,224,0
+	.stabs	"_IsConvertible<stlpmtx_std::allocator<char>,stlpmtx_std::__stlport_class<stlpmtx_std::allocator<char> > >:Tt(0,393)=s1operator=::(0,394)=#(0,393),(0,395)=&(0,393),(0,396)=*(0,393),(0,397)=&(0,398)=k(0,393),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIcEENS_15__stlport_classIS2_EEEaSERKS5_;2A.;__base_ctor::(0,399)=#(0,393),(0,6),(0,396),(0,397),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIcEENS_15__stlport_classIS2_EEEC2ERKS5_;2A.;__comp_ctor::(0,399):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIcEENS_15__stlport_classIS2_EEEC1ERKS5_;2A.;__base_ctor::(0,400)=#(0,393),(0,6),(0,396),(0,6);:_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIcEENS_15__stlport_classIS2_EEEC2Ev;2A.;__comp_ctor::(0,400):_ZN11stlpmtx_std14_IsConvertibleINS_9allocatorIcEENS_15__stlport_classIS2_EEEC1Ev;2A.;;",128,0,231,0
+	.stabs	"_IsSTLportClass<stlpmtx_std::allocator<char> >:Tt(0,401)=s1operator=::(0,402)=#(0,401),(0,403)=&(0,401),(0,404)=*(0,401),(0,405)=&(0,406)=k(0,401),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIcEEEaSERKS3_;2A.;__base_ctor::(0,407)=#(0,401),(0,6),(0,404),(0,405),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIcEEEC2ERKS3_;2A.;__comp_ctor::(0,407):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIcEEEC1ERKS3_;2A.;__base_ctor::(0,408)=#(0,401),(0,6),(0,404),(0,6);:_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIcEEEC2Ev;2A.;__comp_ctor::(0,408):_ZN11stlpmtx_std15_IsSTLportClassINS_9allocatorIcEEEC1Ev;2A.;;",128,0,575,0
+	.stabs	"_STLP_alloc_proxy<char*,char,stlpmtx_std::allocator<char> >::_STLportAlloc:t(0,409)=(23,1)",128,0,527,0
+	.stabs	"_IsPOD<char>:Tt(0,410)=s1_Answer::(0,218):_ZN11stlpmtx_std6_IsPODIcE7_AnswerEv;2A?;operator=::(0,411)=#(0,410),(0,412)=&(0,410),(0,413)=*(0,410),(0,414)=&(0,415)=k(0,410),(0,6);:_ZN11stlpmtx_std6_IsPODIcEaSERKS1_;2A.;__base_ctor::(0,416)=#(0,410),(0,6),(0,413),(0,414),(0,6);:_ZN11stlpmtx_std6_IsPODIcEC2ERKS1_;2A.;__comp_ctor::(0,416):_ZN11stlpmtx_std6_IsPODIcEC1ERKS1_;2A.;__base_ctor::(0,417)=#(0,410),(0,6),(0,413),(0,6);:_ZN11stlpmtx_std6_IsPODIcEC2Ev;2A.;__comp_ctor::(0,417):_ZN11stlpmtx_std6_IsPODIcEC1Ev;2A.;;",128,0,545,0
+	.stabs	"MainScreen:Tt(0,418)=s1256!4,020,(116,33);02576,(64,4);02608,(76,9);00640,(0,419)=xsHttpConnectionListener:;mMainLayout:/0(0,420)=*(0,421)=xsVerticalLayout:,672,32;mSides:/0(1,19),704,32;mLeft:/0(0,420),736,32;mRight:/0(1,19),768,32;mInstructions:/0(1,137),800,32;mUrlBox:/0(0,422)=*(0,423)=xsEditBox:,832,32;refresh:/0(1,255),864,32;mLayouts:/0(1,69),896,96;mLabels:/0(1,187),992,96;mButtons:/0(1,305),1088,96;analog_input:/0(48,180),1184,128;digital_input:/0(0,424)=ar(12,11);0;3;(0,4),1312,32;digital_output:/0(0,425)=ar(12,11);0;7;(0,4),1344,64;clicked:/0(0,3),1408,32;mBuffer:/0(0,426)=ar(12,11);0;1023;(0,19),1440,8192;mHttp:/0(0,427)=xsHttpConnection:,9632,320;Digit_r:/0(1,187),9952,96;__base_ctor::(0,428)=#(0,418),(0,6),(0,429)=*(0,418),(0,6);:_ZN10MainScreenC2Ev;2A.;__comp_ctor::(0,428):_ZN10MainScreenC1Ev;2A.;__base_dtor::(0,428):_ZN10MainScreenD2Ev;2A.;__comp_dtor::(0,428):_ZN10MainScreenD1Ev;2A*0;(0,418);;__deleting_dtor::(0,428):_ZN10MainScreenD0Ev;2A*1;(0,418);;start::(0,430)=#(0,418),(0,6),(0,429),(11,88),(0,6);:_ZN10MainScreen5startEPKc;2A.;httpFinished::(0,431)=#(0,418),(0,6),(0,429),(0,432)=*(0,427),(0,3),(0,6);:_ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi;2A*48;(0,418);;connReadFinished::(0,433)=#(0,418),(0,6),(0,429),(0,434)=*(0,435)=xsConnection:,(0,3),(0,6);:_ZN10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi;2A*49;(0,418);;connRecvFinished::(0,433):_ZN10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi;2A*50;(0,418);;createUI::(0,428):_ZN10MainScreen8createUIEv;0A.;parser::(0,436)=#(0,418),(0,6),(0,429),(36,1),(0,6);:_ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE;0A.;setLabels::(0,428):_ZN10MainScreen9setLabelsEv;0A.;buttonClicked::(0,437)=#(0,418),(0,6),(0,429),(56,73),(0,6);:_ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE;0A*51;(0,418);;editBoxReturn::(0,438)=#(0,418),(0,6),(0,429),(0,422),(0,6);:_ZN10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE;0A*52;(0,418);;operator=::(0,439)=#(0,418),(0,440)=&(0,418),(0,429),(0,441)=&(0,442)=k(0,418),(0,6);:_ZN10MainScreenaSERKS_;2A.;__base_ctor::(0,443)=#(0,418),(0,6),(0,429),(0,441),(0,6);:_ZN10MainScreenC2ERKS_;2A.;__comp_ctor::(0,443):_ZN10MainScreenC1ERKS_;2A.;;~%(56,74);",128,0,26,0
+	.stabs	"HttpConnectionListener:Tt(0,419)=s4!1,020,(0,444)=xsConnectionListener:;httpFinished::(0,445)=#(0,419),(0,6),(0,446)=*(0,419),(0,432),(0,3),(0,6);:_ZN6MAUtil22HttpConnectionListener12httpFinishedEPNS_14HttpConnectionEi;2A*4;(0,419);;operator=::(0,447)=#(0,419),(0,448)=&(0,419),(0,446),(0,449)=&(0,450)=k(0,419),(0,6);:_ZN6MAUtil22HttpConnectionListeneraSERKS0_;2A.;__base_ctor::(0,451)=#(0,419),(0,6),(0,446),(0,449),(0,6);:_ZN6MAUtil22HttpConnectionListenerC2ERKS0_;2A.;__comp_ctor::(0,451):_ZN6MAUtil22HttpConnectionListenerC1ERKS0_;2A.;__base_ctor::(0,452)=#(0,419),(0,6),(0,446),(0,6);:_ZN6MAUtil22HttpConnectionListenerC2Ev;2A.;__comp_ctor::(0,452):_ZN6MAUtil22HttpConnectionListenerC1Ev;2A.;;~%(0,444);",128,0,219,0
+	.stabs	"WebViewListener:Tt(127,4)=s4_vptr$WebViewListener:(0,453)=*(0,1),0,32;__base_ctor::(0,454)=#(127,4),(0,6),(127,3),(0,6);:_ZN8NativeUI15WebViewListenerC2Ev;2A.;__comp_ctor::(0,454):_ZN8NativeUI15WebViewListenerC1Ev;2A.;__base_dtor::(0,454):_ZN8NativeUI15WebViewListenerD2Ev;2A.;__comp_dtor::(0,454):_ZN8NativeUI15WebViewListenerD1Ev;2A*0;(127,4);;__deleting_dtor::(0,454):_ZN8NativeUI15WebViewListenerD0Ev;2A*1;(127,4);;webViewHookInvoked::(0,455)=#(127,4),(0,6),(127,3),(0,456)=*(0,457)=xsWebView:,(0,3),(48,5),(0,6);:_ZN8NativeUI15WebViewListener18webViewHookInvokedEPNS_7WebViewEii;2A*2;(127,4);;webViewContentLoading::(0,458)=#(127,4),(0,6),(127,3),(0,456),(0,3),(0,6);:_ZN8NativeUI15WebViewListener21webViewContentLoadingEPNS_7WebViewEi;2A*3;(127,4);;operator=::(0,459)=#(127,4),(0,460)=&(127,4),(127,3),(0,461)=&(0,462)=k(127,4),(0,6);:_ZN8NativeUI15WebViewListeneraSERKS0_;2A.;__base_ctor::(0,463)=#(127,4),(0,6),(127,3),(0,461),(0,6);:_ZN8NativeUI15WebViewListenerC2ERKS0_;2A.;__comp_ctor::(0,463):_ZN8NativeUI15WebViewListenerC1ERKS0_;2A.;;~%(127,4);",128,0,50,0
+	.stabs	"EditBoxListener:Tt(76,9)=s4_vptr$EditBoxListener:(0,453),0,32;editBoxEditingDidBegin::(0,464)=#(76,9),(0,6),(76,8),(0,422),(0,6);:_ZN8NativeUI15EditBoxListener22editBoxEditingDidBeginEPNS_7EditBoxE;2A*0;(76,9);;editBoxEditingDidEnd::(0,464):_ZN8NativeUI15EditBoxListener20editBoxEditingDidEndEPNS_7EditBoxE;2A*1;(76,9);;editBoxTextChanged::(0,465)=#(76,9),(0,6),(76,8),(0,422),(56,34),(0,6);:_ZN8NativeUI15EditBoxListener18editBoxTextChangedEPNS_7EditBoxERKN6MAUtil11BasicStringIcEE;2A*2;(76,9);;editBoxReturn::(0,464):_ZN8NativeUI15EditBoxListener13editBoxReturnEPNS_7EditBoxE;2A*3;(76,9);;operator=::(0,466)=#(76,9),(0,467)=&(76,9),(76,8),(0,468)=&(0,469)=k(76,9),(0,6);:_ZN8NativeUI15EditBoxListeneraSERKS0_;2A.;__base_ctor::(0,470)=#(76,9),(0,6),(76,8),(0,468),(0,6);:_ZN8NativeUI15EditBoxListenerC2ERKS0_;2A.;__comp_ctor::(0,470):_ZN8NativeUI15EditBoxListenerC1ERKS0_;2A.;__base_ctor::(0,471)=#(76,9),(0,6),(76,8),(0,6);:_ZN8NativeUI15EditBoxListenerC2Ev;2A.;__comp_ctor::(0,471):_ZN8NativeUI15EditBoxListenerC1Ev;2A.;;~%(76,9);",128,0,48,0
+	.stabs	"ButtonListener:Tt(64,4)=s4_vptr$ButtonListener:(0,453),0,32;buttonPressed::(0,472)=#(64,4),(0,6),(64,3),(56,73),(0,6);:_ZN8NativeUI14ButtonListener13buttonPressedEPNS_6WidgetE;2A*0;(64,4);;buttonReleased::(0,472):_ZN8NativeUI14ButtonListener14buttonReleasedEPNS_6WidgetE;2A*1;(64,4);;buttonClicked::(0,472):_ZN8NativeUI14ButtonListener13buttonClickedEPNS_6WidgetE;2A*2;(64,4);;operator=::(0,473)=#(64,4),(0,474)=&(64,4),(64,3),(0,475)=&(0,476)=k(64,4),(0,6);:_ZN8NativeUI14ButtonListeneraSERKS0_;2A.;__base_ctor::(0,477)=#(64,4),(0,6),(64,3),(0,475),(0,6);:_ZN8NativeUI14ButtonListenerC2ERKS0_;2A.;__comp_ctor::(0,477):_ZN8NativeUI14ButtonListenerC1ERKS0_;2A.;__base_ctor::(0,478)=#(64,4),(0,6),(64,3),(0,6);:_ZN8NativeUI14ButtonListenerC2Ev;2A.;__comp_ctor::(0,478):_ZN8NativeUI14ButtonListenerC1Ev;2A.;;~%(64,4);",128,0,48,0
+	.stabs	"RefCounted:Tt(0,479)=s8_vptr$RefCounted:(0,453),0,32;mRefCount:/0(0,3),32,32;__base_ctor::(0,480)=#(0,479),(0,6),(0,481)=*(0,479),(0,3),(0,6);:_ZN6MAUtil10RefCountedC2Ei;2A.;__comp_ctor::(0,480):_ZN6MAUtil10RefCountedC1Ei;2A.;addRef::(0,482)=#(0,479),(0,6),(0,481),(0,6);:_ZN6MAUtil10RefCounted6addRefEv;2A.;release::(0,482):_ZN6MAUtil10RefCounted7releaseEv;2A.;getRefCount::(0,483)=#(0,479),(0,3),(0,481),(0,6);:_ZN6MAUtil10RefCounted11getRefCountEv;2A.;__base_dtor::(0,482):_ZN6MAUtil10RefCountedD2Ev;2A.;__comp_dtor::(0,482):_ZN6MAUtil10RefCountedD1Ev;2A*0;(0,479);;__deleting_dtor::(0,482):_ZN6MAUtil10RefCountedD0Ev;2A*1;(0,479);;operator=::(0,484)=#(0,479),(0,485)=&(0,479),(0,481),(0,486)=&(0,487)=k(0,479),(0,6);:_ZN6MAUtil10RefCountedaSERKS0_;2A.;__base_ctor::(0,488)=#(0,479),(0,6),(0,481),(0,486),(0,6);:_ZN6MAUtil10RefCountedC2ERKS0_;2A.;__comp_ctor::(0,488):_ZN6MAUtil10RefCountedC1ERKS0_;2A.;;~%(0,479);",128,0,28,0
 	.ctor __GLOBAL__I__ZN10MainScreenC2Ev
 	.dtor __GLOBAL__D__ZN10MainScreenC2Ev
 	.global	__ZTV10MainScreen
@@ -935,7 +945,7 @@ Lscope0:
 Lscope1:
 	.stabs	"_ZN8NativeUI15EditBoxListener22editBoxEditingDidBeginEPNS_7EditBoxE:f(0,6)",36,0,56,__ZN8NativeUI15EditBoxListener22editBoxEditingDidBeginEPNS_7EditBoxE
 	.stabs	"this:P(76,14)",64,0,56,12
-	.stabs	"editBox:P(0,340)",64,0,56,13
+	.stabs	"editBox:P(0,422)",64,0,56,13
 
 .func __ZN8NativeUI15EditBoxListener22editBoxEditingDidBeginEPNS_7EditBoxE, 2, void
 	.stabs	"/Applications/MoSync/include/NativeUI/EditBoxListener.h",132,0,0,Ltext2
@@ -950,7 +960,7 @@ Ltext2:
 Lscope2:
 	.stabs	"_ZN8NativeUI15EditBoxListener20editBoxEditingDidEndEPNS_7EditBoxE:f(0,6)",36,0,64,__ZN8NativeUI15EditBoxListener20editBoxEditingDidEndEPNS_7EditBoxE
 	.stabs	"this:P(76,14)",64,0,64,12
-	.stabs	"editBox:P(0,340)",64,0,64,13
+	.stabs	"editBox:P(0,422)",64,0,64,13
 
 .func __ZN8NativeUI15EditBoxListener20editBoxEditingDidEndEPNS_7EditBoxE, 2, void
 	.line 64
@@ -963,7 +973,7 @@ Lscope2:
 Lscope3:
 	.stabs	"_ZN8NativeUI15EditBoxListener18editBoxTextChangedEPNS_7EditBoxERKN6MAUtil11BasicStringIcEE:f(0,6)",36,0,73,__ZN8NativeUI15EditBoxListener18editBoxTextChangedEPNS_7EditBoxERKN6MAUtil11BasicStringIcEE
 	.stabs	"this:P(76,14)",64,0,73,12
-	.stabs	"editBox:P(0,340)",64,0,73,13
+	.stabs	"editBox:P(0,422)",64,0,73,13
 	.stabs	"text:P(56,34)",64,0,73,14
 
 .func __ZN8NativeUI15EditBoxListener18editBoxTextChangedEPNS_7EditBoxERKN6MAUtil11BasicStringIcEE, 3, void
@@ -976,38 +986,38 @@ Lscope3:
 	ret
 Lscope4:
 	.set	%0=__ZN10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE
-	.stabs	"this:P(0,404)=k(0,345)",64,0,120,12
-	.stabs	"editBox:P(0,340)",64,0,120,13
+	.stabs	"this:P(0,489)=k(0,429)",64,0,179,12
+	.stabs	"editBox:P(0,422)",64,0,179,13
 	.global	__ZThn76_N10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE
 
 .func __ZThn76_N10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE, 2, void
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.h",132,0,0,Ltext3
 Ltext3:
-	.line 25
+	.line 26
 	push rt,fr
 	ld   fr,sp
 	add  fr,#0x8
-	.line 25
+	.line 26
 	add  i0,#0xffffffb4
 	call &%0 ; call non-native
 	pop  rt,fr
 	ret
 Lscope5:
-	.stabs	"_ZN10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE:F(0,6)",36,0,120,__ZN10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE
-	.stabs	"this:P(0,404)",64,0,120,12
-	.stabs	"editBox:P(0,340)",64,0,120,13
+	.stabs	"_ZN10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE:F(0,6)",36,0,179,__ZN10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE
+	.stabs	"this:P(0,489)",64,0,179,12
+	.stabs	"editBox:P(0,422)",64,0,179,13
 	.global	__ZN10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE
 
 .func __ZN10MainScreen13editBoxReturnEPN8NativeUI7EditBoxE, 2, void
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext4
 Ltext4:
-	.line 120
+	.line 179
 	push rt,d0
 	ld   fr,sp
 	add  fr,#0xc
 	.dlab LBB2
-	.line 121
-	ld   i0,[i0,92]
+	.line 180
+	ld   i0,[i0,104]
 	ld   r14,[i0]
 	ld   d0,[r14,184]
 	call d0 ; call non-native
@@ -1021,13 +1031,13 @@ LC0:
 LC1:
 	.ascii "http.create fail %i\12\0"
 .code
-	.stabs	"_ZN10MainScreen5startEPKc:F(0,6)",36,0,125,__ZN10MainScreen5startEPKc
-	.stabs	"this:P(0,404)",64,0,125,12
-	.stabs	"url:P(11,88)",64,0,125,4
+	.stabs	"_ZN10MainScreen5startEPKc:F(0,6)",36,0,184,__ZN10MainScreen5startEPKc
+	.stabs	"this:P(0,489)",64,0,184,12
+	.stabs	"url:P(11,88)",64,0,184,4
 	.global	__ZN10MainScreen5startEPKc
 
 .func __ZN10MainScreen5startEPKc, 2, void
-	.line 125
+	.line 184
 	push rt,d1
 	sub  sp,#0x4
 	ld   fr,sp
@@ -1036,184 +1046,175 @@ LC1:
 	ld   d0,i1
 	.dlab LBB3
 	.dlab LBB4
-	.line 126
+	.line 185
 	ld   [sp],i1
 	ld   i0,#LC0
 	call &_printf ; call non-native
-	.line 128
-	add  d1,#0x490
+	.line 187
+	add  d1,#0x4b4
 	ld   i0,d1
 	call &__ZN6MAUtil10Connection5closeEv ; call non-native
-	.line 129
+	.line 188
 	ld   i0,d1
 	ld   i1,d0
 	ld   i2,#0x1
 	call &__ZN6MAUtil14HttpConnection6createEPKci ; call non-native
-	.line 130
+	.line 189
 	ld   r0,#0x0
 	jc   lt,r14,r0,#L12
-	.line 136
+	.line 195
 	ld   i0,d1
 	call &__ZN6MAUtil14HttpConnection6finishEv ; call non-native
 	.dlab LBE4
 	.dlab LBE3
-	.line 138
+	.line 197
 	add  sp,#0x4
 	pop  rt,d1
 	ret
 L12:
 	.dlab LBB5
 	.dlab LBB6
-	.line 132
+	.line 191
 	ld   [sp],r14
 	ld   i0,#LC1
 	call &_printf ; call non-native
 	.dlab LBE6
 	.dlab LBE5
-	.line 138
+	.line 197
 	add  sp,#0x4
 	pop  rt,d1
 	ret
-	.stabs	"res:r(0,3)",64,0,129,30
+	.stabs	"res:r(0,3)",64,0,188,30
 	.stabn	192,0,0,LBB4-__ZN10MainScreen5startEPKc
 	.stabn	224,0,0,LBE4-__ZN10MainScreen5startEPKc
-	.stabs	"res:r(0,3)",64,0,129,30
+	.stabs	"res:r(0,3)",64,0,188,30
 	.stabn	192,0,0,LBB6-__ZN10MainScreen5startEPKc
 	.stabn	224,0,0,LBE6-__ZN10MainScreen5startEPKc
 Lscope7:
 	.set	%1=__ZN10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi
-	.stabs	"this:P(0,404)",64,0,182,12
-	.stabs	"conn:P(0,350)",64,0,182,13
-	.stabs	"result:P(0,3)",64,0,182,14
+	.stabs	"this:P(0,489)",64,0,331,12
+	.stabs	"conn:P(0,434)",64,0,331,13
+	.stabs	"result:P(0,3)",64,0,331,14
 	.global	__ZThn80_N10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi
 
 .func __ZThn80_N10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi, 3, void
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.h",132,0,0,Ltext5
 Ltext5:
-	.line 25
+	.line 26
 	push rt,fr
 	ld   fr,sp
 	add  fr,#0x8
-	.line 25
+	.line 26
 	add  i0,#0xffffffb0
 	call &%1 ; call non-native
 	pop  rt,fr
 	ret
 Lscope8:
-	.stabs	"_ZN10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi:F(0,6)",36,0,182,__ZN10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi
-	.stabs	"this:P(0,404)",64,0,182,12
-	.stabs	"conn:P(0,350)",64,0,182,13
-	.stabs	"result:P(0,3)",64,0,182,14
+	.stabs	"_ZN10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi:F(0,6)",36,0,331,__ZN10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi
+	.stabs	"this:P(0,489)",64,0,331,12
+	.stabs	"conn:P(0,434)",64,0,331,13
+	.stabs	"result:P(0,3)",64,0,331,14
 	.global	__ZN10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi
 
 .func __ZN10MainScreen16connReadFinishedEPN6MAUtil10ConnectionEi, 3, void
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext6
 Ltext6:
-	.line 182
+	.line 331
 	push fr,fr
 	ld   fr,sp
 	add  fr,#0x4
-	.line 182
+	.line 331
 	pop  fr,fr
 	ret
 Lscope9:
 	.set	%2=__ZN10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi
-	.stabs	"this:P(0,404)",64,0,190,12
-	.stabs	"conn:P(0,350)",64,0,190,13
-	.stabs	"result:P(0,3)",64,0,190,14
+	.stabs	"this:P(0,489)",64,0,339,12
+	.stabs	"conn:P(0,434)",64,0,339,13
+	.stabs	"result:P(0,3)",64,0,339,14
 	.global	__ZThn80_N10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi
 
 .func __ZThn80_N10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi, 3, void
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.h",132,0,0,Ltext7
 Ltext7:
-	.line 25
+	.line 26
 	push rt,fr
 	ld   fr,sp
 	add  fr,#0x8
-	.line 25
+	.line 26
 	add  i0,#0xffffffb0
 	call &%2 ; call non-native
 	pop  rt,fr
 	ret
 Lscope10:
-	.stabs	"_ZN10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi:F(0,6)",36,0,190,__ZN10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi
-	.stabs	"this:P(0,404)",64,0,190,12
-	.stabs	"conn:P(0,350)",64,0,190,13
-	.stabs	"result:P(0,3)",64,0,190,14
+	.stabs	"_ZN10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi:F(0,6)",36,0,339,__ZN10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi
+	.stabs	"this:P(0,489)",64,0,339,12
+	.stabs	"conn:P(0,434)",64,0,339,13
+	.stabs	"result:P(0,3)",64,0,339,14
 	.global	__ZN10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi
 
 .func __ZN10MainScreen16connRecvFinishedEPN6MAUtil10ConnectionEi, 3, void
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext8
 Ltext8:
-	.line 190
+	.line 339
 	push fr,fr
 	ld   fr,sp
 	add  fr,#0x4
-	.line 190
+	.line 339
 	pop  fr,fr
 	ret
 Lscope11:
 	.set	%3=__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
-	.stabs	"this:P(0,404)",64,0,89,12
-	.stabs	"button:P(56,73)",64,0,89,13
+	.stabs	"this:P(0,489)",64,0,149,12
+	.stabs	"button:P(56,73)",64,0,149,13
 	.global	__ZThn72_N10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 
 .func __ZThn72_N10MainScreen13buttonClickedEPN8NativeUI6WidgetE, 2, void
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.h",132,0,0,Ltext9
 Ltext9:
-	.line 25
+	.line 26
 	push rt,fr
 	ld   fr,sp
 	add  fr,#0x8
-	.line 25
+	.line 26
 	add  i0,#0xffffffb8
 	call &%3 ; call non-native
 	pop  rt,fr
 	ret
 Lscope12:
-.data
-LC4:
-	.ascii "Pio?sw=pa\0"
-LC2:
-	.ascii "W\305\202\304\205cz\0"
-LC3:
-	.ascii "Wy\305\202\304\205cz\0"
-.code
-	.stabs	"_ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE:F(0,6)",36,0,89,__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
-	.stabs	"this:P(0,404)",64,0,89,6
-	.stabs	"button:P(56,73)",64,0,89,7
+	.stabs	"_ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE:F(0,6)",36,0,149,__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
+	.stabs	"this:P(0,489)",64,0,149,7
+	.stabs	"button:P(56,73)",64,0,149,6
 	.global	__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 
 .func __ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE, 2, void
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext10
 Ltext10:
-	.line 89
+	.line 149
 	push rt,d4
-	sub  sp,#0x3fc
+	sub  sp,#0x3f8
 	ld   fr,sp
-	add  fr,#0x418
-	ld   d2,i0
-	ld   d3,i1
+	add  fr,#0x414
+	ld   d3,i0
+	ld   d2,i1
 	.dlab LBB7
 	.dlab LBB8
-	.line 90
-	ld   r14,[i0,96]
+	.line 150
 	ld   d4,fr
-	add  d4,#0xffffffdc
-	jc   eq,r14,i1,#L39
-L19:
-	.line 96
-	ld   i1,[d2,92]
+	add  d4,#0xffffffe0
+	ld   i1,[i0,104]
 	ld   r14,[i1]
 	ld   d0,[r14,164]
 	ld   i0,d4
 	call d0 ; call non-native
+	.line 152
+	ld   r14,[d3,108]
+	jc   eq,r14,d2,#L31
 	.dlab LBB9
-	.line 98
+	.line 158
 	ld   d1,#0x0
-	ld   r0,d2
-	add  r0,#0x80
-L34:
+	ld   r0,d3
+	add  r0,#0x88
+L28:
 	.dlab LBB10
 	.dlab LBB11
 	.dlab LBB12
@@ -1230,25 +1231,26 @@ Ltext11:
 	.dlab LBE13
 	.line 202
 	ld   r14,[r14]
-	jc   eq,r14,d3,#L40
+	jc   eq,r14,d2,#L32
 	.dlab LBE12
 	.dlab LBE11
 	.dlab LBE10
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext12
 Ltext12:
-	.line 98
+	.line 158
 	add  d1,#0x1
 	ld   r1,#0x7
-	jc   le,d1,r1,#L34
+	jc   le,d1,r1,#L28
 	.dlab LBE9
 	ld   i0,d4
 	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
 	.dlab LBE8
 	.dlab LBE7
-	add  sp,#0x3fc
+	.line 176
+	add  sp,#0x3f8
 	pop  rt,d4
 	ret
-L40:
+L32:
 	.dlab LBB15
 	.dlab LBB16
 	.dlab LBB17
@@ -1256,67 +1258,81 @@ L40:
 	.dlab LBB19
 	.dlab LBB20
 	.dlab LBB21
-	.line 104
+	.line 164
 	ld   i0,d4
 	call &__ZNK6MAUtil11BasicStringIcE5c_strEv ; call non-native
-	ld   d3,fr
-	add  d3,#0xfffffbf4
-	ld   i0,d3
+	ld   d2,fr
+	add  d2,#0xfffffbf8
+	ld   i0,d2
 	ld   i1,r14
 	call &_strcpy ; call non-native
-	.line 106
-	ld   i0,d3
-	ld   i1,#LC4
-	call &_strcat ; call non-native
-	.line 107
+	.line 165
+	ld   i0,d2
+	call &_strlen ; call non-native
+	add  r14,d2
+	ld   r0,#0x73
+	ld.b [r14],r0
+	ld   r1,#0x77
+	ld.b [r14,1],r1
+	ld   r0,#0x3d
+	ld.b [r14,2],r0
+	ld   r1,#0x70
+	ld.b [r14,3],r1
+	ld   r0,#0x61
+	ld.b [r14,4],r0
+	ld   r1,#0x0
+	ld.b [r14,5],r1
+	.line 166
 	ld   d0,fr
-	add  d0,#0xfffffbe8
+	add  d0,#0xfffffbec
 	ld   i0,d1
 	ld   i1,d0
 	ld   i2,#0xa
 	call &_itoa ; call non-native
-	.line 108
-	ld   i0,d3
+	.line 167
+	ld   i0,d2
 	ld   i1,d0
 	call &_strcat ; call non-native
-	.line 109
-	ld.b d0,[d2,100]
+	.line 168
+	add  d1,d3
+	ld.b d0,[d1,168]
 	and  d0,#0xff  ; zero extend
 	ld   r14,#0x0
-	jc   ne,d0,r14,#L41
-	ld   i0,d3
-	call &_strlen ; call non-native
-	add  r14,d3
-	ld   r1,#0x26
-	ld.b [r14],r1
-	ld   r0,#0x61
-	ld.b [r14,1],r0
-	ld   r1,#0x3d
-	ld.b [r14,2],r1
-	ld   r0,#0x30
-	ld.b [r14,3],r0
-	ld.b [r14,4],d0
-L33:
-	.line 112
-	ld   [d2,140],d1
-	.line 113
+	jc   eq,d0,r14,#L26
 	ld   i0,d2
-	ld   i1,d3
+	call &_strlen ; call non-native
+	add  r14,d2
+	ld   r0,#0x26
+	ld.b [r14],r0
+	ld   r1,#0x61
+	ld.b [r14,1],r1
+	ld   r0,#0x3d
+	ld.b [r14,2],r0
+	ld   r1,#0x30
+	ld.b [r14,3],r1
+	ld   r0,#0x0
+	ld.b [r14,4],r0
+	.line 172
+	ld   i0,d3
+	ld   i1,d2
+L30:
 	call &__ZN10MainScreen5startEPKc ; call non-native
+L33:
 	.dlab LBE21
 	.dlab LBE20
 	.dlab LBE19
 	.dlab LBE18
 	.dlab LBE17
-	.line 98
+	.line 158
 	ld   i0,d4
 	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
 	.dlab LBE16
 	.dlab LBE15
-	add  sp,#0x3fc
+	.line 176
+	add  sp,#0x3f8
 	pop  rt,d4
 	ret
-L41:
+L26:
 	.dlab LBB22
 	.dlab LBB23
 	.dlab LBB24
@@ -1324,279 +1340,295 @@ L41:
 	.dlab LBB26
 	.dlab LBB27
 	.dlab LBB28
-	.line 109
-	ld   i0,d3
+	.line 168
+	ld   i0,d2
 	call &_strlen ; call non-native
-	add  r14,d3
-	ld   r0,#0x26
-	ld.b [r14],r0
-	ld   r1,#0x61
-	ld.b [r14,1],r1
-	ld   r0,#0x3d
-	ld.b [r14,2],r0
-	ld   r1,#0x31
-	ld.b [r14,3],r1
-	ld   r0,#0x0
-	ld.b [r14,4],r0
-	jp   #L33
-L39:
+	add  r14,d2
+	ld   r1,#0x26
+	ld.b [r14],r1
+	ld   r0,#0x61
+	ld.b [r14,1],r0
+	ld   r1,#0x3d
+	ld.b [r14,2],r1
+	ld   r0,#0x31
+	ld.b [r14,3],r0
+	ld.b [r14,4],d0
+	.line 172
+	ld   i0,d3
+	ld   i1,d2
+	jp   #L30
+L31:
 	.dlab LBE28
 	.dlab LBE27
 	.dlab LBE26
 	.dlab LBE25
 	.dlab LBE24
-	.line 92
-	ld.b r14,[i0,100]
-	xor  r14,#0x1
-	ld.b [i0,100],r14
-	.line 93
-	and  r14,#0xff  ; zero extend
-	ld   r0,#0x0
-	jc   eq,r14,r0,#L20
-	ld   d1,fr
-	add  d1,#0xffffffe0
-	ld   i0,d1
-	ld   i1,#LC2
-	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
-	ld   i0,[d2,96]
-	ld   r14,[i0]
-	ld   d0,[r14,160]
-	ld   i1,d1
-	call d0 ; call non-native
-L38:
-	ld   i0,fr
-	add  i0,#0xffffffe0
-	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	jp   #L19
-L20:
-	ld   d4,fr
-	add  d4,#0xffffffdc
+	.line 154
 	ld   i0,d4
-	ld   i1,#LC3
-	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
-	ld   i0,[d2,96]
-	ld   r14,[i0]
-	ld   d0,[r14,160]
-	ld   i1,d4
-	call d0 ; call non-native
-	ld   i0,d4
-	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	ld   r14,#0x0
-	jc   eq,r14,r14,#L19
-	jp   #L38
+	call &__ZNK6MAUtil11BasicStringIcE5c_strEv ; call non-native
+	ld   i0,d3
+	ld   i1,r14
+	.dlab LBB29
+	.dlab LBB30
+	.dlab LBB31
+	.dlab LBB32
+	.dlab LBB33
+	.line 172
+	call &__ZN10MainScreen5startEPKc ; call non-native
+	jp   #L33
+	.dlab LBE33
+	.dlab LBE32
+	.dlab LBE31
+	.dlab LBE30
+	.dlab LBE29
 	.dlab LBE23
 	.dlab LBE22
-	.stabs	"url:(51,1)",128,0,96,-36
+	.stabs	"url:(51,1)",128,0,150,-32
 	.stabn	192,0,0,LBB8-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
-	.stabs	"ii:r(0,3)",64,0,98,5
+	.stabs	"ii:r(0,3)",64,0,158,5
 	.stabn	192,0,0,LBB9-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 	.stabn	224,0,0,LBE9-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 	.stabn	224,0,0,LBE8-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
-	.stabs	"url:(51,1)",128,0,96,-36
+	.stabs	"url:(51,1)",128,0,150,-32
 	.stabn	192,0,0,LBB16-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
-	.stabs	"ii:r(0,3)",64,0,98,5
+	.stabs	"ii:r(0,3)",64,0,158,5
 	.stabn	192,0,0,LBB17-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
-	.stabs	"buffor:(0,405)=ar(12,11);0;999;(0,19)",128,0,102,-1036
-	.stabs	"buffor_int:(0,406)=ar(12,11);0;9;(0,19)",128,0,103,-1048
+	.stabs	"buffor:(0,490)=ar(12,11);0;999;(0,19)",128,0,162,-1032
+	.stabs	"buffor_int:(0,491)=ar(12,11);0;9;(0,19)",128,0,163,-1044
 	.stabn	192,0,0,LBB21-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 	.stabn	224,0,0,LBE21-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 	.stabn	224,0,0,LBE17-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 	.stabn	224,0,0,LBE16-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
-	.stabs	"url:(51,1)",128,0,96,-36
+	.stabs	"url:(51,1)",128,0,150,-32
 	.stabn	192,0,0,LBB23-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
-	.stabs	"ii:r(0,3)",64,0,98,5
+	.stabs	"ii:r(0,3)",64,0,158,5
 	.stabn	192,0,0,LBB24-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
-	.stabs	"buffor:(0,405)",128,0,102,-1036
-	.stabs	"buffor_int:(0,406)",128,0,103,-1048
+	.stabs	"buffor:(0,490)",128,0,162,-1032
+	.stabs	"buffor_int:(0,491)",128,0,163,-1044
 	.stabn	192,0,0,LBB28-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 	.stabn	224,0,0,LBE28-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 	.stabn	224,0,0,LBE24-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
+	.stabs	"ii:r(0,3)",64,0,158,5
+	.stabn	192,0,0,LBB29-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
+	.stabs	"buffor:(0,490)",128,0,162,-1032
+	.stabs	"buffor_int:(0,491)",128,0,163,-1044
+	.stabn	192,0,0,LBB33-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
+	.stabn	224,0,0,LBE33-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
+	.stabn	224,0,0,LBE29-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 	.stabn	224,0,0,LBE23-__ZN10MainScreen13buttonClickedEPN8NativeUI6WidgetE
 Lscope13:
-	.set	%4=__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-	.stabs	"this:P(0,404)",64,0,147,12
-	.stabs	"http:P(0,348)",64,0,147,13
-	.stabs	"result:P(0,3)",64,0,147,14
-	.global	__ZThn80_N10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-
-.func __ZThn80_N10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi, 3, void
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.h",132,0,0,Ltext13
-Ltext13:
-	.line 25
-	push rt,fr
-	ld   fr,sp
-	add  fr,#0x8
-	.line 25
-	add  i0,#0xffffffb0
-	call &%4 ; call non-native
-	pop  rt,fr
-	ret
-Lscope14:
 .data
-LC5:
-	.ascii "HTTP %i\12\0"
-LC6:
-	.ascii "content-length\0"
-LC7:
-	.ascii "content-length: %s bytes\12\0"
-LC8:
-	.ascii "No content-length\0"
+LC2:
+	.ascii "TAK\0"
+LC3:
+	.ascii "NIE\0"
 .code
-	.stabs	"_ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi:F(0,6)",36,0,147,__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-	.stabs	"this:P(0,404)",64,0,147,6
-	.stabs	"http:P(0,348)",64,0,147,13
-	.stabs	"result:P(0,3)",64,0,147,4
-	.global	__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+	.stabs	"_ZN10MainScreen9setLabelsEv:F(0,6)",36,0,313,__ZN10MainScreen9setLabelsEv
+	.stabs	"this:P(0,489)",64,0,313,8
+	.global	__ZN10MainScreen9setLabelsEv
 
-.func __ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi, 3, void
+.func __ZN10MainScreen9setLabelsEv, 1, void
+	.line 313
+	push rt,d6
+	sub  sp,#0x14
+	ld   fr,sp
+	add  fr,#0x38
+	ld   d4,i0
+	.dlab LBB34
+	.dlab LBB35
+	.dlab LBB36
+	.line 314
+	ld   d3,#0x0
+	ld   d6,i0
+	add  d6,#0x4dc
+	ld   d5,fr
+	add  d5,#0xffffffd4
+L48:
+	.line 316
+	ld   r14,d3
+	add  r14,d4
+	ld.b r14,[r14,164]
+	and  r14,#0xff  ; zero extend
+	ld   r0,#0x0
+	jc   eq,r14,r0,#L38
+	.dlab LBB37
+	.dlab LBB38
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext13
+Ltext13:
+	.line 182
+	ld   r14,d3
+	sll  r14,#0x2
+	ld   r0,[d6]
+	add  r14,r0
+	.dlab LBE38
+	.dlab LBE37
+	.line 202
+	ld   d1,[r14]
+	ld   d2,fr
+	add  d2,#0xffffffd8
+	ld   i0,d2
+	ld   i1,#LC2
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d2
+	call d0 ; call non-native
+L60:
+	ld   i0,fr
+	add  i0,#0xffffffd8
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+L37:
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext14
 Ltext14:
-	.line 147
-	push rt,d3
-	sub  sp,#0xc
-	ld   fr,sp
-	add  fr,#0x24
-	ld   d2,i0
-	ld   d0,i2
-	.dlab LBB29
-	.dlab LBB30
-	.line 148
-	ld   [sp],i2
-	ld   i0,#LC5
-	call &_printf ; call non-native
-	.line 149
-	ld   r0,#0x0
-	jc   le,d0,r0,#L43
-	.line 153
+	.line 314
+	add  d3,#0x1
+	ld   r14,#0x3
+	jc   le,d3,r14,#L48
+	.dlab LBE36
+	.dlab LBB39
+	.line 319
+	ld   d2,#0x0
 	ld   d3,fr
-	add  d3,#0xffffffe4
-	ld   i0,d3
-	call &__ZN6MAUtil11BasicStringIcEC1Ev ; call non-native
-	.line 154
-	ld   d0,d2
-	add  d0,#0x490
-	ld   i0,d0
-	ld   i1,#LC6
-	ld   i2,d3
-	call &__ZN6MAUtil14HttpConnection17getResponseHeaderEPKcPNS_11BasicStringIcEE ; call non-native
-	.dlab LBB31
-	.line 156
-	ld   r0,#0x0
-	jc   le,r14,r0,#L45
-	.dlab LBB32
-	.line 157
-	ld   i0,d3
-	call &__ZNK6MAUtil11BasicStringIcE5c_strEv ; call non-native
-	ld   [sp],r14
-	ld   i0,#LC7
-	call &_printf ; call non-native
-	.line 158
-	ld   i0,d3
-	call &__ZNK6MAUtil11BasicStringIcE5c_strEv ; call non-native
-	ld   i0,r14
-	call &_atoi ; call non-native
-	ld   i2,r14
-	.line 159
-	ld   r14,#0x3ff
-	jc   le,i2,r14,#L46
-	.line 161
-	ld   i2,r14
-L46:
-	.line 163
-	ld   r14,i2
-	add  r14,d2
-	ld   r0,#0x0
-	ld.b [r14,144],r0
-	.line 164
-	ld   d1,d2
-	add  d1,#0x90
-	ld   i0,d0
-	ld   i1,d1
-	call &__ZN6MAUtil10Connection4readEPvi ; call non-native
-L52:
-	.dlab LBE32
-	.dlab LBB33
+	add  d3,#0xffffffc8
+L54:
+	.dlab LBB40
+	.dlab LBB41
+	.line 322
+	ld   r14,d2
+	sll  r14,#0x2
+	add  r14,d4
+	ld   i0,[r14,148]
+	ld   i1,d3
+	ld   i2,#0xa
+	call &_itoa ; call non-native
+	.dlab LBB42
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext15
 Ltext15:
 	.line 202
-	ld   r14,[d2,140]
-	.dlab LBB34
+	add  d2,#0x4
+	.dlab LBB43
 	.line 182
+	ld   r14,d2
 	sll  r14,#0x2
-	ld   d2,[d2,116]
-	add  r14,d2
-	.dlab LBE34
-	.dlab LBE33
+	ld   r0,[d6]
+	add  r14,r0
+	.dlab LBE43
+	.dlab LBE42
 	.line 202
-	ld   d2,[r14]
-	ld   d0,fr
-	add  d0,#0xffffffe0
-	ld   i0,d0
-	ld   i1,d1
+	ld   d1,[r14]
+	ld   i0,d5
+	ld   i1,d3
 	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
-	ld   r14,[d2]
-	ld   d1,[r14,160]
-	ld   i0,d2
-	ld   i1,d0
-	call d1 ; call non-native
-	ld   i0,d0
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
 	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.dlab LBE31
-	ld   i0,d3
-	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-L43:
-	.dlab LBE30
-	.dlab LBE29
+	.dlab LBE41
+	.dlab LBE40
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext16
 Ltext16:
-	.line 176
-	add  sp,#0xc
-	pop  rt,d3
-	ret
-L45:
-	.dlab LBB35
-	.dlab LBB36
-	.dlab LBB37
-	.line 170
-	ld   i0,#LC8
-	call &_puts ; call non-native
-	.line 171
-	ld   d1,d2
-	add  d1,#0x90
-	ld   i0,d0
-	ld   i1,d1
-	ld   i2,#0x400
-	call &__ZN6MAUtil10Connection4recvEPvi ; call non-native
-	jp   #L52
-	.dlab LBE37
-	.dlab LBE36
+	.line 319
+	add  d2,#0xfffffffd
+	ld   r14,#0x3
+	jc   le,d2,r14,#L54
+	.dlab LBE39
 	.dlab LBE35
-	.stabs	"cl:(51,1)",128,0,153,-28
-	.stabn	192,0,0,LBB30-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-	.stabs	"len:r(0,3)",64,0,158,14
-	.stabn	192,0,0,LBB32-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-	.stabn	224,0,0,LBE32-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-	.stabs	"__n:r(7,2)",64,0,202,30
-	.stabn	192,0,0,LBB33-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-	.stabn	224,0,0,LBE33-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-	.stabn	224,0,0,LBE30-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-	.stabs	"cl:(51,1)",128,0,153,-28
-	.stabn	192,0,0,LBB36-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
-	.stabn	224,0,0,LBE36-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+	.dlab LBE34
+	add  sp,#0x14
+	pop  rt,d6
+	ret
+L38:
+	.dlab LBB44
+	.dlab LBB45
+	.dlab LBB46
+	.dlab LBB47
+	.dlab LBB48
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext17
+Ltext17:
+	.line 182
+	ld   r14,d3
+	sll  r14,#0x2
+	ld   r0,[d6]
+	add  r14,r0
+	.dlab LBE48
+	.dlab LBE47
+	.line 202
+	ld   d1,[r14]
+	ld   i0,d5
+	ld   i1,#LC3
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	ld   r14,#0x0
+	jc   eq,r14,r14,#L37
+	jp   #L60
+	.dlab LBE46
+	.dlab LBE45
+	.dlab LBE44
+	.stabs	"jj:r(0,3)",64,0,314,7
+	.stabn	192,0,0,LBB36-__ZN10MainScreen9setLabelsEv
+	.stabn	224,0,0,LBE36-__ZN10MainScreen9setLabelsEv
+	.stabs	"jj:r(0,3)",64,0,319,6
+	.stabn	192,0,0,LBB39-__ZN10MainScreen9setLabelsEv
+	.stabs	"buffor:(0,491)",128,0,321,-56
+	.stabn	192,0,0,LBB41-__ZN10MainScreen9setLabelsEv
+	.stabn	224,0,0,LBE41-__ZN10MainScreen9setLabelsEv
+	.stabn	224,0,0,LBE39-__ZN10MainScreen9setLabelsEv
+	.stabs	"jj:r(0,3)",64,0,314,7
+	.stabn	192,0,0,LBB46-__ZN10MainScreen9setLabelsEv
+	.stabn	224,0,0,LBE46-__ZN10MainScreen9setLabelsEv
+Lscope14:
+.data
+LC4:
+	.ascii "basic_string\0"
+.code
+	.stabs	"_ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_out_of_rangeEv:f(0,6)",36,0,604,__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_out_of_rangeEv
+	.stabs	"this:P(0,492)=k(3,70)",64,0,604,12
+
+.func __ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_out_of_rangeEv, 1, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext18
+Ltext18:
+	.line 604
+	push rt,fr
+	ld   fr,sp
+	add  fr,#0x8
+	.dlab LBB49
+	.dlab LBB50
+	.dlab LBB51
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_range_errors.c",132,0,0,Ltext19
+Ltext19:
+	.line 70
+	ld   i0,#LC4
+	call &_puts ; call non-native
+	call &_abort ; call non-native
+	.dlab LBE51
+	.dlab LBE50
+	.dlab LBE49
 Lscope15:
-	.stabs	"_ZN10MainScreenD0Ev:F(0,6)",36,0,16,__ZN10MainScreenD0Ev
-	.stabs	"this:P(0,404)",64,0,16,7
+	.stabs	"_ZN10MainScreenD0Ev:F(0,6)",36,0,18,__ZN10MainScreenD0Ev
+	.stabs	"this:P(0,489)",64,0,18,6
 	.global	__ZN10MainScreenD0Ev
 
 .func __ZN10MainScreenD0Ev, 1, void
-	.line 16
-	push rt,d4
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext20
+Ltext20:
+	.line 18
+	push rt,d7
 	sub  sp,#0x48
 	ld   fr,sp
-	add  fr,#0x64
-	ld   d3,i0
-	.dlab LBB38
-	.line 16
+	add  fr,#0x70
+	ld   d2,i0
+	.dlab LBB52
+	.line 18
 	ld   r0,#__ZTV10MainScreen+8
 	ld   [i0],r0
 	ld   r14,#__ZTV10MainScreen+228
@@ -1605,836 +1637,546 @@ Lscope15:
 	ld   [i0,76],r0
 	ld   r14,#__ZTV10MainScreen+272
 	ld   [i0,80],r14
-	.dlab LBB39
-	.dlab LBB40
-	.line 17
+	.dlab LBB53
+	.dlab LBB54
+	.line 19
 	ld   d1,#0x0
-	ld   d2,i0
-	add  d2,#0x80
 	ld   d4,i0
-	add  d4,#0x48
-L60:
-	.dlab LBB41
-	.dlab LBB42
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext17
-Ltext17:
+	add  d4,#0x88
+	ld   d3,i0
+	add  d3,#0x48
+L70:
+	.dlab LBB55
+	.dlab LBB56
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext21
+Ltext21:
 	.line 182
 	ld   r14,d1
 	sll  r14,#0x2
-	ld   r0,[d2]
+	ld   r0,[d4]
 	add  r14,r0
-	.dlab LBE42
-	.dlab LBE41
+	.dlab LBE56
+	.dlab LBE55
 	.line 202
 	ld   i0,[r14]
 	ld   r14,[i0]
 	ld   d0,[r14,192]
-	ld   i1,d4
+	ld   i1,d3
 	call d0 ; call non-native
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext18
-Ltext18:
-	.line 17
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext22
+Ltext22:
+	.line 19
 	add  d1,#0x1
 	ld   r14,#0x7
-	jc   le,d1,r14,#L60
-	.dlab LBE40
-	.line 20
-	ld   i0,[d3,96]
+	jc   le,d1,r14,#L70
+	.dlab LBE54
+	.line 22
+	ld   i0,[d2,108]
 	ld   r14,[i0]
 	ld   d0,[r14,192]
-	ld   i1,d4
+	ld   i1,d3
 	call d0 ; call non-native
-	.line 21
-	ld   i0,[d3,92]
+	.line 23
+	ld   i0,[d2,104]
 	ld   r14,[i0]
 	ld   d0,[r14,204]
-	ld   i1,d3
+	ld   i1,d2
 	add  i1,#0x4c
 	call d0 ; call non-native
-	.dlab LBE39
-	.dlab LBB43
-	.line 5
-	ld   i0,d3
-	add  i0,#0x490
-	.dlab LBB44
-	ld   r0,#__ZTVN6MAUtil14HttpConnectionE+8
-	ld   [i0],r0
-	call &__ZN6MAUtil10ConnectionD2Ev ; call non-native
-	.dlab LBE44
-	.dlab LBE43
-	.dlab LBB45
-	.dlab LBB46
-	.dlab LBB47
-	.dlab LBB48
-	.dlab LBB49
-	.dlab LBB50
-	.dlab LBB51
-	.dlab LBB52
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext19
-Ltext19:
-	.line 184
-	ld   r14,[d2,4]
-	.dlab LBE52
-	.dlab LBE51
-	.dlab LBB53
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext20
-Ltext20:
-	.line 64
-	ld   [fr,-32],r14
 	.dlab LBE53
-	.dlab LBE50
-	.dlab LBE49
-	.dlab LBE48
-	.dlab LBB54
-	.dlab LBB55
-	.dlab LBB56
 	.dlab LBB57
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext23
+Ltext23:
+	.line 304
+	ld   r0,d2
+	add  r0,#0x4dc
 	.dlab LBB58
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext21
-Ltext21:
-	.line 182
-	ld   i0,[d2]
-	.dlab LBE58
-	.dlab LBE57
 	.dlab LBB59
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext22
-Ltext22:
-	.line 64
-	ld   [fr,-36],i0
-	.dlab LBE59
-	.dlab LBE56
-	.dlab LBE55
-	.dlab LBE54
 	.dlab LBB60
 	.dlab LBB61
 	.dlab LBB62
-	.dlab LBB63
-	.line 65
-	ld   [fr,-40],r14
-	.dlab LBE63
-	.dlab LBE62
-	.dlab LBB64
-	.dlab LBB65
-	ld   [fr,-44],i0
-	.dlab LBE65
-	.dlab LBE64
-	.dlab LBB66
-	.dlab LBB67
-	.dlab LBB68
-	.dlab LBB69
-	.dlab LBB70
-	ld   [fr,-48],r14
-	.dlab LBE70
-	.dlab LBE69
-	.dlab LBB71
-	.dlab LBB72
-	ld   [fr,-52],i0
-	.dlab LBE72
-	.dlab LBE71
-	.dlab LBE68
-	.dlab LBE67
-	.dlab LBE66
-	.dlab LBE61
-	.dlab LBE60
-	.dlab LBE47
-	.dlab LBB73
-	.dlab LBB74
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext23
-Ltext23:
-	.line 87
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L86
-	.dlab LBB75
-	.dlab LBB76
-	.dlab LBB77
-	.dlab LBB78
-	.dlab LBB79
-	.dlab LBB80
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext24
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext24
 Ltext24:
-	.line 114
-	call &__ZdlPv ; call non-native
-L86:
-	.dlab LBE80
-	.dlab LBE79
-	.dlab LBE78
-	.dlab LBE77
-	.dlab LBE76
-	.dlab LBE75
-	.dlab LBE74
-	.dlab LBE73
-	.dlab LBE46
-	.dlab LBE45
-	.dlab LBB81
+	.line 64
+	ld   d7,fr
+	add  d7,#0xffffffd4
+	.dlab LBB63
+	.dlab LBB64
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext25
 Ltext25:
-	.line 304
-	ld   r0,d3
-	add  r0,#0x74
-	.dlab LBB82
-	.dlab LBB83
-	.dlab LBB84
-	.dlab LBB85
-	.dlab LBB86
-	.dlab LBB87
-	.dlab LBB88
 	.line 184
 	ld   r14,[r0,4]
-	.dlab LBE88
-	.dlab LBE87
-	.dlab LBB89
+	.dlab LBE64
+	.dlab LBE63
+	.dlab LBB65
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext26
 Ltext26:
 	.line 64
-	ld   [fr,-56],r14
-	.dlab LBE89
-	.dlab LBE86
-	.dlab LBE85
-	.dlab LBE84
-	.dlab LBB90
-	.dlab LBB91
-	.dlab LBB92
-	.dlab LBB93
-	.dlab LBB94
+	ld   [d7],r14
+	.dlab LBE65
+	.dlab LBE62
+	.dlab LBE61
+	.dlab LBE60
+	.dlab LBB66
+	.dlab LBB67
+	.dlab LBB68
+	ld   d6,fr
+	add  d6,#0xffffffd0
+	.dlab LBB69
+	.dlab LBB70
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext27
 Ltext27:
 	.line 182
 	ld   i0,[r0]
-	.dlab LBE94
-	.dlab LBE93
-	.dlab LBB95
+	.dlab LBE70
+	.dlab LBE69
+	.dlab LBB71
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext28
 Ltext28:
 	.line 64
-	ld   [fr,-60],i0
-	.dlab LBE95
-	.dlab LBE92
-	.dlab LBE91
-	.dlab LBE90
-	.dlab LBB96
-	.dlab LBB97
-	.dlab LBB98
-	.dlab LBB99
+	ld   [d6],i0
+	.dlab LBE71
+	.dlab LBE68
+	.dlab LBE67
+	.dlab LBE66
+	.dlab LBB72
+	.dlab LBB73
+	.dlab LBB74
 	.line 65
-	ld   [fr,-64],r14
-	.dlab LBE99
-	.dlab LBE98
-	.dlab LBB100
-	.dlab LBB101
-	ld   [fr,-68],i0
-	.dlab LBE101
-	.dlab LBE100
-	.dlab LBB102
-	.dlab LBB103
-	.dlab LBB104
-	.dlab LBB105
-	.dlab LBB106
-	ld   [fr,-72],r14
-	.dlab LBE106
-	.dlab LBE105
-	.dlab LBB107
-	.dlab LBB108
-	ld   [fr,-76],i0
-	.dlab LBE108
-	.dlab LBE107
-	.dlab LBE104
-	.dlab LBE103
-	.dlab LBE102
-	.dlab LBE97
-	.dlab LBE96
+	ld   d5,fr
+	add  d5,#0xffffffcc
+	.dlab LBB75
+	ld   [d5],r14
+	.dlab LBE75
+	.dlab LBE74
+	.dlab LBB76
+	ld   d3,fr
+	add  d3,#0xffffffc8
+	.dlab LBB77
+	ld   [d3],i0
+	.dlab LBE77
+	.dlab LBE76
+	.dlab LBB78
+	.dlab LBB79
+	.dlab LBB80
+	.dlab LBB81
+	ld   d1,fr
+	add  d1,#0xffffffc4
+	.dlab LBB82
+	ld   [d1],r14
+	.dlab LBE82
+	.dlab LBE81
+	.dlab LBB83
+	ld   d0,fr
+	add  d0,#0xffffffc0
+	.dlab LBB84
+	ld   [d0],i0
+	.dlab LBE84
 	.dlab LBE83
-	.dlab LBB109
-	.dlab LBB110
+	.dlab LBE80
+	.dlab LBE79
+	.dlab LBE78
+	.dlab LBE73
+	.dlab LBE72
+	.dlab LBE59
+	.dlab LBB85
+	.dlab LBB86
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext29
 Ltext29:
 	.line 87
 	ld   r0,#0x0
-	jc   eq,i0,r0,#L122
-	.dlab LBB111
-	.dlab LBB112
-	.dlab LBB113
-	.dlab LBB114
-	.dlab LBB115
-	.dlab LBB116
+	jc   eq,i0,r0,#L92
+	.dlab LBB87
+	.dlab LBB88
+	.dlab LBB89
+	.dlab LBB90
+	.dlab LBB91
+	.dlab LBB92
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext30
 Ltext30:
 	.line 114
 	call &__ZdlPv ; call non-native
-L122:
-	.dlab LBE116
-	.dlab LBE115
-	.dlab LBE114
+L92:
+	.dlab LBE92
+	.dlab LBE91
+	.dlab LBE90
+	.dlab LBE89
+	.dlab LBE88
+	.dlab LBE87
+	.dlab LBE86
+	.dlab LBE85
+	.dlab LBE58
+	.dlab LBE57
+	.dlab LBB93
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext31
+Ltext31:
+	.line 5
+	ld   i0,d2
+	add  i0,#0x4b4
+	.dlab LBB94
+	ld   r14,#__ZTVN6MAUtil14HttpConnectionE+8
+	ld   [i0],r14
+	call &__ZN6MAUtil10ConnectionD2Ev ; call non-native
+	.dlab LBE94
+	.dlab LBE93
+	.dlab LBB95
+	.dlab LBB96
+	.dlab LBB97
+	.dlab LBB98
+	.dlab LBB99
+	.dlab LBB100
+	.dlab LBB101
+	.dlab LBB102
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext32
+Ltext32:
+	.line 184
+	ld   r14,[d4,4]
+	.dlab LBE102
+	.dlab LBE101
+	.dlab LBB103
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext33
+Ltext33:
+	.line 64
+	ld   [fr,-68],r14
+	.dlab LBE103
+	.dlab LBE100
+	.dlab LBE99
+	.dlab LBE98
+	.dlab LBB104
+	.dlab LBB105
+	.dlab LBB106
+	.dlab LBB107
+	.dlab LBB108
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext34
+Ltext34:
+	.line 182
+	ld   i0,[d4]
+	.dlab LBE108
+	.dlab LBE107
+	.dlab LBB109
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext35
+Ltext35:
+	.line 64
+	ld   [fr,-72],i0
+	.dlab LBE109
+	.dlab LBE106
+	.dlab LBE105
+	.dlab LBE104
+	.dlab LBB110
+	.dlab LBB111
+	.dlab LBB112
+	.dlab LBB113
+	.line 65
+	ld   [fr,-76],r14
 	.dlab LBE113
 	.dlab LBE112
-	.dlab LBE111
-	.dlab LBE110
-	.dlab LBE109
-	.dlab LBE82
-	.dlab LBE81
+	.dlab LBB114
+	.dlab LBB115
+	ld   [fr,-80],i0
+	.dlab LBE115
+	.dlab LBE114
+	.dlab LBB116
 	.dlab LBB117
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext31
-Ltext31:
-	.line 304
-	ld   r0,d3
-	add  r0,#0x68
 	.dlab LBB118
 	.dlab LBB119
 	.dlab LBB120
+	ld   [fr,-84],r14
+	.dlab LBE120
+	.dlab LBE119
 	.dlab LBB121
 	.dlab LBB122
-	.dlab LBB123
-	.dlab LBB124
-	.line 184
-	ld   r14,[r0,4]
-	.dlab LBE124
-	.dlab LBE123
-	.dlab LBB125
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext32
-Ltext32:
-	.line 64
-	ld   [fr,-80],r14
-	.dlab LBE125
+	ld   [fr,-88],i0
 	.dlab LBE122
 	.dlab LBE121
-	.dlab LBE120
+	.dlab LBE118
+	.dlab LBE117
+	.dlab LBE116
+	.dlab LBE111
+	.dlab LBE110
+	.dlab LBE97
+	.dlab LBB123
+	.dlab LBB124
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext36
+Ltext36:
+	.line 87
+	ld   r0,#0x0
+	jc   eq,i0,r0,#L132
+	.dlab LBB125
 	.dlab LBB126
 	.dlab LBB127
 	.dlab LBB128
 	.dlab LBB129
 	.dlab LBB130
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext33
-Ltext33:
-	.line 182
-	ld   i0,[r0]
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext37
+Ltext37:
+	.line 114
+	call &__ZdlPv ; call non-native
+L132:
 	.dlab LBE130
 	.dlab LBE129
-	.dlab LBB131
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext34
-Ltext34:
-	.line 64
-	ld   [fr,-84],i0
-	.dlab LBE131
 	.dlab LBE128
 	.dlab LBE127
 	.dlab LBE126
+	.dlab LBE125
+	.dlab LBE124
+	.dlab LBE123
+	.dlab LBE96
+	.dlab LBE95
+	.dlab LBB131
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext38
+Ltext38:
+	.line 304
+	ld   r0,d2
+	add  r0,#0x7c
 	.dlab LBB132
 	.dlab LBB133
 	.dlab LBB134
 	.dlab LBB135
-	.line 65
-	ld   [fr,-88],r14
-	.dlab LBE135
-	.dlab LBE134
 	.dlab LBB136
 	.dlab LBB137
-	ld   [fr,-92],i0
-	.dlab LBE137
-	.dlab LBE136
 	.dlab LBB138
+	.line 184
+	ld   r14,[r0,4]
+	.dlab LBE138
+	.dlab LBE137
 	.dlab LBB139
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext39
+Ltext39:
+	.line 64
+	ld   [d0],r14
+	.dlab LBE139
+	.dlab LBE136
+	.dlab LBE135
+	.dlab LBE134
 	.dlab LBB140
 	.dlab LBB141
 	.dlab LBB142
-	ld   [fr,-96],r14
-	.dlab LBE142
-	.dlab LBE141
 	.dlab LBB143
 	.dlab LBB144
-	ld   [fr,-100],i0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext40
+Ltext40:
+	.line 182
+	ld   i0,[r0]
 	.dlab LBE144
 	.dlab LBE143
-	.dlab LBE140
-	.dlab LBE139
-	.dlab LBE138
-	.dlab LBE133
-	.dlab LBE132
-	.dlab LBE119
 	.dlab LBB145
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext41
+Ltext41:
+	.line 64
+	ld   [d1],i0
+	.dlab LBE145
+	.dlab LBE142
+	.dlab LBE141
+	.dlab LBE140
 	.dlab LBB146
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext35
-Ltext35:
-	.line 87
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L158
 	.dlab LBB147
 	.dlab LBB148
 	.dlab LBB149
-	.dlab LBB150
-	.dlab LBB151
-	.dlab LBB152
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext36
-Ltext36:
-	.line 114
-	call &__ZdlPv ; call non-native
-L158:
-	.dlab LBE152
-	.dlab LBE151
-	.dlab LBE150
+	.line 65
+	ld   [d3],r14
 	.dlab LBE149
 	.dlab LBE148
-	.dlab LBE147
-	.dlab LBE146
-	.dlab LBE145
-	.dlab LBE118
-	.dlab LBE117
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext37
-Ltext37:
-	.line 297
-	ld   i0,d3
-	call &__ZN8NativeUI6ScreenD2Ev ; call non-native
-	.dlab LBE38
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext38
-Ltext38:
-	.line 22
-	ld   i0,d3
-	call &__ZdlPv ; call non-native
-	add  sp,#0x48
-	pop  rt,d4
-	ret
-	.stabs	"ii:r(0,3)",64,0,17,5
-	.stabn	192,0,0,LBB40-__ZN10MainScreenD0Ev
-	.stabn	224,0,0,LBE40-__ZN10MainScreenD0Ev
-	.stabs	"this:r(0,407)=k(0,348)",64,0,5,12
-	.stabn	192,0,0,LBB43-__ZN10MainScreenD0Ev
-	.stabn	224,0,0,LBE43-__ZN10MainScreenD0Ev
-	.stabs	"this:r(0,408)=k(1,192)",64,0,304,16
-	.stabn	192,0,0,LBB81-__ZN10MainScreenD0Ev
-	.stabn	224,0,0,LBE81-__ZN10MainScreenD0Ev
-	.stabs	"this:r(0,409)=k(1,74)",64,0,304,16
-	.stabn	192,0,0,LBB117-__ZN10MainScreenD0Ev
-	.stabn	224,0,0,LBE117-__ZN10MainScreenD0Ev
-Lscope16:
-	.stabs	"_ZN10MainScreenD1Ev:F(0,6)",36,0,16,__ZN10MainScreenD1Ev
-	.stabs	"this:P(0,404)",64,0,16,8
-	.global	__ZN10MainScreenD1Ev
-
-.func __ZN10MainScreenD1Ev, 1, void
-	.line 16
-	push rt,d4
-	sub  sp,#0x48
-	ld   fr,sp
-	add  fr,#0x64
-	ld   d4,i0
+	.dlab LBB150
+	.dlab LBB151
+	ld   [d5],i0
+	.dlab LBE151
+	.dlab LBE150
+	.dlab LBB152
 	.dlab LBB153
-	.line 16
-	ld   r0,#__ZTV10MainScreen+8
-	ld   [i0],r0
-	ld   r14,#__ZTV10MainScreen+228
-	ld   [i0,72],r14
-	ld   r0,#__ZTV10MainScreen+248
-	ld   [i0,76],r0
-	ld   r14,#__ZTV10MainScreen+272
-	ld   [i0,80],r14
 	.dlab LBB154
 	.dlab LBB155
-	.line 17
-	ld   d1,#0x0
-	ld   d2,i0
-	add  d2,#0x80
-	ld   d3,i0
-	add  d3,#0x48
-L184:
 	.dlab LBB156
-	.dlab LBB157
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext39
-Ltext39:
-	.line 182
-	ld   r14,d1
-	sll  r14,#0x2
-	ld   r0,[d2]
-	add  r14,r0
-	.dlab LBE157
+	ld   [d6],r14
 	.dlab LBE156
-	.line 202
-	ld   i0,[r14]
-	ld   r14,[i0]
-	ld   d0,[r14,192]
-	ld   i1,d3
-	call d0 ; call non-native
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext40
-Ltext40:
-	.line 17
-	add  d1,#0x1
-	ld   r14,#0x7
-	jc   le,d1,r14,#L184
 	.dlab LBE155
-	.line 20
-	ld   i0,[d4,96]
-	ld   r14,[i0]
-	ld   d0,[r14,192]
-	ld   i1,d3
-	call d0 ; call non-native
-	.line 21
-	ld   i0,[d4,92]
-	ld   r14,[i0]
-	ld   d0,[r14,204]
-	ld   i1,d4
-	add  i1,#0x4c
-	call d0 ; call non-native
-	.dlab LBE154
+	.dlab LBB157
 	.dlab LBB158
-	.line 5
-	ld   i0,d4
-	add  i0,#0x490
-	.dlab LBB159
-	ld   r0,#__ZTVN6MAUtil14HttpConnectionE+8
-	ld   [i0],r0
-	call &__ZN6MAUtil10ConnectionD2Ev ; call non-native
-	.dlab LBE159
+	ld   [d7],i0
 	.dlab LBE158
+	.dlab LBE157
+	.dlab LBE154
+	.dlab LBE153
+	.dlab LBE152
+	.dlab LBE147
+	.dlab LBE146
+	.dlab LBE133
+	.dlab LBB159
 	.dlab LBB160
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext42
+Ltext42:
+	.line 87
+	ld   r14,#0x0
+	jc   eq,i0,r14,#L168
 	.dlab LBB161
 	.dlab LBB162
 	.dlab LBB163
 	.dlab LBB164
 	.dlab LBB165
 	.dlab LBB166
-	.dlab LBB167
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext41
-Ltext41:
-	.line 184
-	ld   r14,[d2,4]
-	.dlab LBE167
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext43
+Ltext43:
+	.line 114
+	call &__ZdlPv ; call non-native
+L168:
 	.dlab LBE166
-	.dlab LBB168
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext42
-Ltext42:
-	.line 64
-	ld   [fr,-32],r14
-	.dlab LBE168
 	.dlab LBE165
 	.dlab LBE164
 	.dlab LBE163
+	.dlab LBE162
+	.dlab LBE161
+	.dlab LBE160
+	.dlab LBE159
+	.dlab LBE132
+	.dlab LBE131
+	.dlab LBB167
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext44
+Ltext44:
+	.line 304
+	ld   r0,d2
+	add  r0,#0x70
+	.dlab LBB168
 	.dlab LBB169
 	.dlab LBB170
 	.dlab LBB171
 	.dlab LBB172
 	.dlab LBB173
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext43
-Ltext43:
-	.line 182
-	ld   i0,[d2]
-	.dlab LBE173
-	.dlab LBE172
 	.dlab LBB174
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext44
-Ltext44:
-	.line 64
-	ld   [fr,-36],i0
+	.line 184
+	ld   r14,[r0,4]
 	.dlab LBE174
+	.dlab LBE173
+	.dlab LBB175
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext45
+Ltext45:
+	.line 64
+	ld   [fr,-92],r14
+	.dlab LBE175
+	.dlab LBE172
 	.dlab LBE171
 	.dlab LBE170
-	.dlab LBE169
-	.dlab LBB175
 	.dlab LBB176
 	.dlab LBB177
 	.dlab LBB178
-	.line 65
-	ld   [fr,-40],r14
-	.dlab LBE178
-	.dlab LBE177
 	.dlab LBB179
 	.dlab LBB180
-	ld   [fr,-44],i0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext46
+Ltext46:
+	.line 182
+	ld   i0,[r0]
 	.dlab LBE180
 	.dlab LBE179
 	.dlab LBB181
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext47
+Ltext47:
+	.line 64
+	ld   [fr,-96],i0
+	.dlab LBE181
+	.dlab LBE178
+	.dlab LBE177
+	.dlab LBE176
 	.dlab LBB182
 	.dlab LBB183
 	.dlab LBB184
 	.dlab LBB185
-	ld   [fr,-48],r14
+	.line 65
+	ld   [fr,-100],r14
 	.dlab LBE185
 	.dlab LBE184
 	.dlab LBB186
 	.dlab LBB187
-	ld   [fr,-52],i0
+	ld   [fr,-104],i0
 	.dlab LBE187
 	.dlab LBE186
-	.dlab LBE183
-	.dlab LBE182
-	.dlab LBE181
-	.dlab LBE176
-	.dlab LBE175
-	.dlab LBE162
 	.dlab LBB188
 	.dlab LBB189
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext45
-Ltext45:
-	.line 87
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L210
 	.dlab LBB190
 	.dlab LBB191
 	.dlab LBB192
-	.dlab LBB193
-	.dlab LBB194
-	.dlab LBB195
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext46
-Ltext46:
-	.line 114
-	call &__ZdlPv ; call non-native
-L210:
-	.dlab LBE195
-	.dlab LBE194
-	.dlab LBE193
+	ld   [fr,-108],r14
 	.dlab LBE192
 	.dlab LBE191
+	.dlab LBB193
+	.dlab LBB194
+	ld   [fr,-112],i0
+	.dlab LBE194
+	.dlab LBE193
 	.dlab LBE190
 	.dlab LBE189
 	.dlab LBE188
-	.dlab LBE161
-	.dlab LBE160
+	.dlab LBE183
+	.dlab LBE182
+	.dlab LBE169
+	.dlab LBB195
 	.dlab LBB196
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext47
-Ltext47:
-	.line 304
-	ld   r0,d4
-	add  r0,#0x74
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext48
+Ltext48:
+	.line 87
+	ld   r0,#0x0
+	jc   eq,i0,r0,#L204
 	.dlab LBB197
 	.dlab LBB198
 	.dlab LBB199
 	.dlab LBB200
 	.dlab LBB201
 	.dlab LBB202
-	.dlab LBB203
-	.line 184
-	ld   r14,[r0,4]
-	.dlab LBE203
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext49
+Ltext49:
+	.line 114
+	call &__ZdlPv ; call non-native
+L204:
 	.dlab LBE202
-	.dlab LBB204
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext48
-Ltext48:
-	.line 64
-	ld   [fr,-56],r14
-	.dlab LBE204
 	.dlab LBE201
 	.dlab LBE200
 	.dlab LBE199
-	.dlab LBB205
-	.dlab LBB206
-	.dlab LBB207
-	.dlab LBB208
-	.dlab LBB209
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext49
-Ltext49:
-	.line 182
-	ld   i0,[r0]
-	.dlab LBE209
-	.dlab LBE208
-	.dlab LBB210
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext50
-Ltext50:
-	.line 64
-	ld   [fr,-60],i0
-	.dlab LBE210
-	.dlab LBE207
-	.dlab LBE206
-	.dlab LBE205
-	.dlab LBB211
-	.dlab LBB212
-	.dlab LBB213
-	.dlab LBB214
-	.line 65
-	ld   [fr,-64],r14
-	.dlab LBE214
-	.dlab LBE213
-	.dlab LBB215
-	.dlab LBB216
-	ld   [fr,-68],i0
-	.dlab LBE216
-	.dlab LBE215
-	.dlab LBB217
-	.dlab LBB218
-	.dlab LBB219
-	.dlab LBB220
-	.dlab LBB221
-	ld   [fr,-72],r14
-	.dlab LBE221
-	.dlab LBE220
-	.dlab LBB222
-	.dlab LBB223
-	ld   [fr,-76],i0
-	.dlab LBE223
-	.dlab LBE222
-	.dlab LBE219
-	.dlab LBE218
-	.dlab LBE217
-	.dlab LBE212
-	.dlab LBE211
 	.dlab LBE198
-	.dlab LBB224
-	.dlab LBB225
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext51
-Ltext51:
-	.line 87
-	ld   r0,#0x0
-	jc   eq,i0,r0,#L246
-	.dlab LBB226
-	.dlab LBB227
-	.dlab LBB228
-	.dlab LBB229
-	.dlab LBB230
-	.dlab LBB231
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext52
-Ltext52:
-	.line 114
-	call &__ZdlPv ; call non-native
-L246:
-	.dlab LBE231
-	.dlab LBE230
-	.dlab LBE229
-	.dlab LBE228
-	.dlab LBE227
-	.dlab LBE226
-	.dlab LBE225
-	.dlab LBE224
 	.dlab LBE197
 	.dlab LBE196
-	.dlab LBB232
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext53
-Ltext53:
-	.line 304
-	ld   r0,d4
-	add  r0,#0x68
-	.dlab LBB233
-	.dlab LBB234
-	.dlab LBB235
-	.dlab LBB236
-	.dlab LBB237
-	.dlab LBB238
-	.dlab LBB239
-	.line 184
-	ld   r14,[r0,4]
-	.dlab LBE239
-	.dlab LBE238
-	.dlab LBB240
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext54
-Ltext54:
-	.line 64
-	ld   [fr,-80],r14
-	.dlab LBE240
-	.dlab LBE237
-	.dlab LBE236
-	.dlab LBE235
-	.dlab LBB241
-	.dlab LBB242
-	.dlab LBB243
-	.dlab LBB244
-	.dlab LBB245
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext55
-Ltext55:
-	.line 182
-	ld   i0,[r0]
-	.dlab LBE245
-	.dlab LBE244
-	.dlab LBB246
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext56
-Ltext56:
-	.line 64
-	ld   [fr,-84],i0
-	.dlab LBE246
-	.dlab LBE243
-	.dlab LBE242
-	.dlab LBE241
-	.dlab LBB247
-	.dlab LBB248
-	.dlab LBB249
-	.dlab LBB250
-	.line 65
-	ld   [fr,-88],r14
-	.dlab LBE250
-	.dlab LBE249
-	.dlab LBB251
-	.dlab LBB252
-	ld   [fr,-92],i0
-	.dlab LBE252
-	.dlab LBE251
-	.dlab LBB253
-	.dlab LBB254
-	.dlab LBB255
-	.dlab LBB256
-	.dlab LBB257
-	ld   [fr,-96],r14
-	.dlab LBE257
-	.dlab LBE256
-	.dlab LBB258
-	.dlab LBB259
-	ld   [fr,-100],i0
-	.dlab LBE259
-	.dlab LBE258
-	.dlab LBE255
-	.dlab LBE254
-	.dlab LBE253
-	.dlab LBE248
-	.dlab LBE247
-	.dlab LBE234
-	.dlab LBB260
-	.dlab LBB261
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext57
-Ltext57:
-	.line 87
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L282
-	.dlab LBB262
-	.dlab LBB263
-	.dlab LBB264
-	.dlab LBB265
-	.dlab LBB266
-	.dlab LBB267
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext58
-Ltext58:
-	.line 114
-	call &__ZdlPv ; call non-native
-L282:
-	.dlab LBE267
-	.dlab LBE266
-	.dlab LBE265
-	.dlab LBE264
-	.dlab LBE263
-	.dlab LBE262
-	.dlab LBE261
-	.dlab LBE260
-	.dlab LBE233
-	.dlab LBE232
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext59
-Ltext59:
+	.dlab LBE195
+	.dlab LBE168
+	.dlab LBE167
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext50
+Ltext50:
 	.line 297
-	ld   i0,d4
+	ld   i0,d2
 	call &__ZN8NativeUI6ScreenD2Ev ; call non-native
-	.dlab LBE153
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext60
-Ltext60:
-	.line 22
+	.dlab LBE52
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext51
+Ltext51:
+	.line 24
+	ld   i0,d2
+	call &__ZdlPv ; call non-native
 	add  sp,#0x48
-	pop  rt,d4
+	pop  rt,d7
 	ret
-	.stabs	"ii:r(0,3)",64,0,17,5
-	.stabn	192,0,0,LBB155-__ZN10MainScreenD1Ev
-	.stabn	224,0,0,LBE155-__ZN10MainScreenD1Ev
-	.stabs	"this:r(0,407)",64,0,5,12
-	.stabn	192,0,0,LBB158-__ZN10MainScreenD1Ev
-	.stabn	224,0,0,LBE158-__ZN10MainScreenD1Ev
-	.stabs	"this:r(0,408)",64,0,304,16
-	.stabn	192,0,0,LBB196-__ZN10MainScreenD1Ev
-	.stabn	224,0,0,LBE196-__ZN10MainScreenD1Ev
-	.stabs	"this:r(0,409)",64,0,304,16
-	.stabn	192,0,0,LBB232-__ZN10MainScreenD1Ev
-	.stabn	224,0,0,LBE232-__ZN10MainScreenD1Ev
-Lscope17:
-	.stabs	"_ZN10MainScreenD2Ev:F(0,6)",36,0,16,__ZN10MainScreenD2Ev
-	.stabs	"this:P(0,404)",64,0,16,8
-	.global	__ZN10MainScreenD2Ev
+	.stabs	"ii:r(0,3)",64,0,19,5
+	.stabn	192,0,0,LBB54-__ZN10MainScreenD0Ev
+	.stabn	224,0,0,LBE54-__ZN10MainScreenD0Ev
+	.stabs	"this:r(0,493)=k(1,192)",64,0,304,16
+	.stabn	192,0,0,LBB57-__ZN10MainScreenD0Ev
+	.stabn	224,0,0,LBE57-__ZN10MainScreenD0Ev
+	.stabs	"this:r(0,494)=k(0,432)",64,0,5,12
+	.stabn	192,0,0,LBB93-__ZN10MainScreenD0Ev
+	.stabn	224,0,0,LBE93-__ZN10MainScreenD0Ev
+	.stabs	"this:r(0,493)",64,0,304,16
+	.stabn	192,0,0,LBB131-__ZN10MainScreenD0Ev
+	.stabn	224,0,0,LBE131-__ZN10MainScreenD0Ev
+	.stabs	"this:r(0,495)=k(1,74)",64,0,304,16
+	.stabn	192,0,0,LBB167-__ZN10MainScreenD0Ev
+	.stabn	224,0,0,LBE167-__ZN10MainScreenD0Ev
+Lscope16:
+	.stabs	"_ZN10MainScreenD1Ev:F(0,6)",36,0,18,__ZN10MainScreenD1Ev
+	.stabs	"this:P(0,489)",64,0,18,7
+	.global	__ZN10MainScreenD1Ev
 
-.func __ZN10MainScreenD2Ev, 1, void
-	.line 16
-	push rt,d4
+.func __ZN10MainScreenD1Ev, 1, void
+	.line 18
+	push rt,d7
 	sub  sp,#0x48
 	ld   fr,sp
-	add  fr,#0x64
-	ld   d4,i0
-	.dlab LBB268
-	.line 16
+	add  fr,#0x70
+	ld   d3,i0
+	.dlab LBB203
+	.line 18
 	ld   r0,#__ZTV10MainScreen+8
 	ld   [i0],r0
 	ld   r14,#__ZTV10MainScreen+228
@@ -2443,963 +2185,1187 @@ Lscope17:
 	ld   [i0,76],r0
 	ld   r14,#__ZTV10MainScreen+272
 	ld   [i0,80],r14
-	.dlab LBB269
-	.dlab LBB270
-	.line 17
+	.dlab LBB204
+	.dlab LBB205
+	.line 19
 	ld   d1,#0x0
+	ld   d4,i0
+	add  d4,#0x88
 	ld   d2,i0
-	add  d2,#0x80
-	ld   d3,i0
-	add  d3,#0x48
-L308:
-	.dlab LBB271
-	.dlab LBB272
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext61
-Ltext61:
+	add  d2,#0x48
+L230:
+	.dlab LBB206
+	.dlab LBB207
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext52
+Ltext52:
 	.line 182
 	ld   r14,d1
 	sll  r14,#0x2
-	ld   r0,[d2]
+	ld   r0,[d4]
 	add  r14,r0
-	.dlab LBE272
-	.dlab LBE271
+	.dlab LBE207
+	.dlab LBE206
 	.line 202
 	ld   i0,[r14]
 	ld   r14,[i0]
 	ld   d0,[r14,192]
-	ld   i1,d3
+	ld   i1,d2
 	call d0 ; call non-native
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext62
-Ltext62:
-	.line 17
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext53
+Ltext53:
+	.line 19
 	add  d1,#0x1
 	ld   r14,#0x7
-	jc   le,d1,r14,#L308
-	.dlab LBE270
-	.line 20
-	ld   i0,[d4,96]
+	jc   le,d1,r14,#L230
+	.dlab LBE205
+	.line 22
+	ld   i0,[d3,108]
 	ld   r14,[i0]
 	ld   d0,[r14,192]
-	ld   i1,d3
+	ld   i1,d2
 	call d0 ; call non-native
-	.line 21
-	ld   i0,[d4,92]
+	.line 23
+	ld   i0,[d3,104]
 	ld   r14,[i0]
 	ld   d0,[r14,204]
-	ld   i1,d4
+	ld   i1,d3
 	add  i1,#0x4c
 	call d0 ; call non-native
-	.dlab LBE269
-	.dlab LBB273
+	.dlab LBE204
+	.dlab LBB208
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext54
+Ltext54:
+	.line 304
+	ld   r0,d3
+	add  r0,#0x4dc
+	.dlab LBB209
+	.dlab LBB210
+	.dlab LBB211
+	.dlab LBB212
+	.dlab LBB213
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext55
+Ltext55:
+	.line 64
+	ld   d7,fr
+	add  d7,#0xffffffd4
+	.dlab LBB214
+	.dlab LBB215
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext56
+Ltext56:
+	.line 184
+	ld   r14,[r0,4]
+	.dlab LBE215
+	.dlab LBE214
+	.dlab LBB216
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext57
+Ltext57:
+	.line 64
+	ld   [d7],r14
+	.dlab LBE216
+	.dlab LBE213
+	.dlab LBE212
+	.dlab LBE211
+	.dlab LBB217
+	.dlab LBB218
+	.dlab LBB219
+	ld   d6,fr
+	add  d6,#0xffffffd0
+	.dlab LBB220
+	.dlab LBB221
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext58
+Ltext58:
+	.line 182
+	ld   i0,[r0]
+	.dlab LBE221
+	.dlab LBE220
+	.dlab LBB222
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext59
+Ltext59:
+	.line 64
+	ld   [d6],i0
+	.dlab LBE222
+	.dlab LBE219
+	.dlab LBE218
+	.dlab LBE217
+	.dlab LBB223
+	.dlab LBB224
+	.dlab LBB225
+	.line 65
+	ld   d5,fr
+	add  d5,#0xffffffcc
+	.dlab LBB226
+	ld   [d5],r14
+	.dlab LBE226
+	.dlab LBE225
+	.dlab LBB227
+	ld   d2,fr
+	add  d2,#0xffffffc8
+	.dlab LBB228
+	ld   [d2],i0
+	.dlab LBE228
+	.dlab LBE227
+	.dlab LBB229
+	.dlab LBB230
+	.dlab LBB231
+	.dlab LBB232
+	ld   d1,fr
+	add  d1,#0xffffffc4
+	.dlab LBB233
+	ld   [d1],r14
+	.dlab LBE233
+	.dlab LBE232
+	.dlab LBB234
+	ld   d0,fr
+	add  d0,#0xffffffc0
+	.dlab LBB235
+	ld   [d0],i0
+	.dlab LBE235
+	.dlab LBE234
+	.dlab LBE231
+	.dlab LBE230
+	.dlab LBE229
+	.dlab LBE224
+	.dlab LBE223
+	.dlab LBE210
+	.dlab LBB236
+	.dlab LBB237
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext60
+Ltext60:
+	.line 87
+	ld   r0,#0x0
+	jc   eq,i0,r0,#L252
+	.dlab LBB238
+	.dlab LBB239
+	.dlab LBB240
+	.dlab LBB241
+	.dlab LBB242
+	.dlab LBB243
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext61
+Ltext61:
+	.line 114
+	call &__ZdlPv ; call non-native
+L252:
+	.dlab LBE243
+	.dlab LBE242
+	.dlab LBE241
+	.dlab LBE240
+	.dlab LBE239
+	.dlab LBE238
+	.dlab LBE237
+	.dlab LBE236
+	.dlab LBE209
+	.dlab LBE208
+	.dlab LBB244
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext62
+Ltext62:
 	.line 5
-	ld   i0,d4
-	add  i0,#0x490
-	.dlab LBB274
-	ld   r0,#__ZTVN6MAUtil14HttpConnectionE+8
-	ld   [i0],r0
+	ld   i0,d3
+	add  i0,#0x4b4
+	.dlab LBB245
+	ld   r14,#__ZTVN6MAUtil14HttpConnectionE+8
+	ld   [i0],r14
 	call &__ZN6MAUtil10ConnectionD2Ev ; call non-native
-	.dlab LBE274
+	.dlab LBE245
+	.dlab LBE244
+	.dlab LBB246
+	.dlab LBB247
+	.dlab LBB248
+	.dlab LBB249
+	.dlab LBB250
+	.dlab LBB251
+	.dlab LBB252
+	.dlab LBB253
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext63
+Ltext63:
+	.line 184
+	ld   r14,[d4,4]
+	.dlab LBE253
+	.dlab LBE252
+	.dlab LBB254
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext64
+Ltext64:
+	.line 64
+	ld   [fr,-68],r14
+	.dlab LBE254
+	.dlab LBE251
+	.dlab LBE250
+	.dlab LBE249
+	.dlab LBB255
+	.dlab LBB256
+	.dlab LBB257
+	.dlab LBB258
+	.dlab LBB259
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext65
+Ltext65:
+	.line 182
+	ld   i0,[d4]
+	.dlab LBE259
+	.dlab LBE258
+	.dlab LBB260
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext66
+Ltext66:
+	.line 64
+	ld   [fr,-72],i0
+	.dlab LBE260
+	.dlab LBE257
+	.dlab LBE256
+	.dlab LBE255
+	.dlab LBB261
+	.dlab LBB262
+	.dlab LBB263
+	.dlab LBB264
+	.line 65
+	ld   [fr,-76],r14
+	.dlab LBE264
+	.dlab LBE263
+	.dlab LBB265
+	.dlab LBB266
+	ld   [fr,-80],i0
+	.dlab LBE266
+	.dlab LBE265
+	.dlab LBB267
+	.dlab LBB268
+	.dlab LBB269
+	.dlab LBB270
+	.dlab LBB271
+	ld   [fr,-84],r14
+	.dlab LBE271
+	.dlab LBE270
+	.dlab LBB272
+	.dlab LBB273
+	ld   [fr,-88],i0
 	.dlab LBE273
+	.dlab LBE272
+	.dlab LBE269
+	.dlab LBE268
+	.dlab LBE267
+	.dlab LBE262
+	.dlab LBE261
+	.dlab LBE248
+	.dlab LBB274
 	.dlab LBB275
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext67
+Ltext67:
+	.line 87
+	ld   r0,#0x0
+	jc   eq,i0,r0,#L292
 	.dlab LBB276
 	.dlab LBB277
 	.dlab LBB278
 	.dlab LBB279
 	.dlab LBB280
 	.dlab LBB281
-	.dlab LBB282
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext63
-Ltext63:
-	.line 184
-	ld   r14,[d2,4]
-	.dlab LBE282
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext68
+Ltext68:
+	.line 114
+	call &__ZdlPv ; call non-native
+L292:
 	.dlab LBE281
-	.dlab LBB283
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext64
-Ltext64:
-	.line 64
-	ld   [fr,-32],r14
-	.dlab LBE283
 	.dlab LBE280
 	.dlab LBE279
 	.dlab LBE278
+	.dlab LBE277
+	.dlab LBE276
+	.dlab LBE275
+	.dlab LBE274
+	.dlab LBE247
+	.dlab LBE246
+	.dlab LBB282
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext69
+Ltext69:
+	.line 304
+	ld   r0,d3
+	add  r0,#0x7c
+	.dlab LBB283
 	.dlab LBB284
 	.dlab LBB285
 	.dlab LBB286
 	.dlab LBB287
 	.dlab LBB288
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext65
-Ltext65:
-	.line 182
-	ld   i0,[d2]
-	.dlab LBE288
-	.dlab LBE287
 	.dlab LBB289
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext66
-Ltext66:
-	.line 64
-	ld   [fr,-36],i0
+	.line 184
+	ld   r14,[r0,4]
 	.dlab LBE289
+	.dlab LBE288
+	.dlab LBB290
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext70
+Ltext70:
+	.line 64
+	ld   [d0],r14
+	.dlab LBE290
+	.dlab LBE287
 	.dlab LBE286
 	.dlab LBE285
-	.dlab LBE284
-	.dlab LBB290
 	.dlab LBB291
 	.dlab LBB292
 	.dlab LBB293
-	.line 65
-	ld   [fr,-40],r14
-	.dlab LBE293
-	.dlab LBE292
 	.dlab LBB294
 	.dlab LBB295
-	ld   [fr,-44],i0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext71
+Ltext71:
+	.line 182
+	ld   i0,[r0]
 	.dlab LBE295
 	.dlab LBE294
 	.dlab LBB296
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext72
+Ltext72:
+	.line 64
+	ld   [d1],i0
+	.dlab LBE296
+	.dlab LBE293
+	.dlab LBE292
+	.dlab LBE291
 	.dlab LBB297
 	.dlab LBB298
 	.dlab LBB299
 	.dlab LBB300
-	ld   [fr,-48],r14
+	.line 65
+	ld   [d2],r14
 	.dlab LBE300
 	.dlab LBE299
 	.dlab LBB301
 	.dlab LBB302
-	ld   [fr,-52],i0
+	ld   [d5],i0
 	.dlab LBE302
 	.dlab LBE301
-	.dlab LBE298
-	.dlab LBE297
-	.dlab LBE296
-	.dlab LBE291
-	.dlab LBE290
-	.dlab LBE277
 	.dlab LBB303
 	.dlab LBB304
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext67
-Ltext67:
-	.line 87
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L334
 	.dlab LBB305
 	.dlab LBB306
 	.dlab LBB307
-	.dlab LBB308
-	.dlab LBB309
-	.dlab LBB310
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext68
-Ltext68:
-	.line 114
-	call &__ZdlPv ; call non-native
-L334:
-	.dlab LBE310
-	.dlab LBE309
-	.dlab LBE308
+	ld   [d6],r14
 	.dlab LBE307
 	.dlab LBE306
+	.dlab LBB308
+	.dlab LBB309
+	ld   [d7],i0
+	.dlab LBE309
+	.dlab LBE308
 	.dlab LBE305
 	.dlab LBE304
 	.dlab LBE303
-	.dlab LBE276
-	.dlab LBE275
+	.dlab LBE298
+	.dlab LBE297
+	.dlab LBE284
+	.dlab LBB310
 	.dlab LBB311
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext69
-Ltext69:
-	.line 304
-	ld   r0,d4
-	add  r0,#0x74
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext73
+Ltext73:
+	.line 87
+	ld   r14,#0x0
+	jc   eq,i0,r14,#L328
 	.dlab LBB312
 	.dlab LBB313
 	.dlab LBB314
 	.dlab LBB315
 	.dlab LBB316
 	.dlab LBB317
-	.dlab LBB318
-	.line 184
-	ld   r14,[r0,4]
-	.dlab LBE318
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext74
+Ltext74:
+	.line 114
+	call &__ZdlPv ; call non-native
+L328:
 	.dlab LBE317
-	.dlab LBB319
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext70
-Ltext70:
-	.line 64
-	ld   [fr,-56],r14
-	.dlab LBE319
 	.dlab LBE316
 	.dlab LBE315
 	.dlab LBE314
+	.dlab LBE313
+	.dlab LBE312
+	.dlab LBE311
+	.dlab LBE310
+	.dlab LBE283
+	.dlab LBE282
+	.dlab LBB318
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext75
+Ltext75:
+	.line 304
+	ld   r0,d3
+	add  r0,#0x70
+	.dlab LBB319
 	.dlab LBB320
 	.dlab LBB321
 	.dlab LBB322
 	.dlab LBB323
 	.dlab LBB324
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext71
-Ltext71:
-	.line 182
-	ld   i0,[r0]
-	.dlab LBE324
-	.dlab LBE323
 	.dlab LBB325
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext72
-Ltext72:
-	.line 64
-	ld   [fr,-60],i0
+	.line 184
+	ld   r14,[r0,4]
 	.dlab LBE325
+	.dlab LBE324
+	.dlab LBB326
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext76
+Ltext76:
+	.line 64
+	ld   [fr,-92],r14
+	.dlab LBE326
+	.dlab LBE323
 	.dlab LBE322
 	.dlab LBE321
-	.dlab LBE320
-	.dlab LBB326
 	.dlab LBB327
 	.dlab LBB328
 	.dlab LBB329
-	.line 65
-	ld   [fr,-64],r14
-	.dlab LBE329
-	.dlab LBE328
 	.dlab LBB330
 	.dlab LBB331
-	ld   [fr,-68],i0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext77
+Ltext77:
+	.line 182
+	ld   i0,[r0]
 	.dlab LBE331
 	.dlab LBE330
 	.dlab LBB332
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext78
+Ltext78:
+	.line 64
+	ld   [fr,-96],i0
+	.dlab LBE332
+	.dlab LBE329
+	.dlab LBE328
+	.dlab LBE327
 	.dlab LBB333
 	.dlab LBB334
 	.dlab LBB335
 	.dlab LBB336
-	ld   [fr,-72],r14
+	.line 65
+	ld   [fr,-100],r14
 	.dlab LBE336
 	.dlab LBE335
 	.dlab LBB337
 	.dlab LBB338
-	ld   [fr,-76],i0
+	ld   [fr,-104],i0
 	.dlab LBE338
 	.dlab LBE337
-	.dlab LBE334
-	.dlab LBE333
-	.dlab LBE332
-	.dlab LBE327
-	.dlab LBE326
-	.dlab LBE313
 	.dlab LBB339
 	.dlab LBB340
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext73
-Ltext73:
-	.line 87
-	ld   r0,#0x0
-	jc   eq,i0,r0,#L370
 	.dlab LBB341
 	.dlab LBB342
 	.dlab LBB343
-	.dlab LBB344
-	.dlab LBB345
-	.dlab LBB346
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext74
-Ltext74:
-	.line 114
-	call &__ZdlPv ; call non-native
-L370:
-	.dlab LBE346
-	.dlab LBE345
-	.dlab LBE344
+	ld   [fr,-108],r14
 	.dlab LBE343
 	.dlab LBE342
+	.dlab LBB344
+	.dlab LBB345
+	ld   [fr,-112],i0
+	.dlab LBE345
+	.dlab LBE344
 	.dlab LBE341
 	.dlab LBE340
 	.dlab LBE339
-	.dlab LBE312
-	.dlab LBE311
+	.dlab LBE334
+	.dlab LBE333
+	.dlab LBE320
+	.dlab LBB346
 	.dlab LBB347
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext75
-Ltext75:
-	.line 304
-	ld   r0,d4
-	add  r0,#0x68
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext79
+Ltext79:
+	.line 87
+	ld   r0,#0x0
+	jc   eq,i0,r0,#L364
 	.dlab LBB348
 	.dlab LBB349
 	.dlab LBB350
 	.dlab LBB351
 	.dlab LBB352
 	.dlab LBB353
-	.dlab LBB354
-	.line 184
-	ld   r14,[r0,4]
-	.dlab LBE354
-	.dlab LBE353
-	.dlab LBB355
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext76
-Ltext76:
-	.line 64
-	ld   [fr,-80],r14
-	.dlab LBE355
-	.dlab LBE352
-	.dlab LBE351
-	.dlab LBE350
-	.dlab LBB356
-	.dlab LBB357
-	.dlab LBB358
-	.dlab LBB359
-	.dlab LBB360
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext77
-Ltext77:
-	.line 182
-	ld   i0,[r0]
-	.dlab LBE360
-	.dlab LBE359
-	.dlab LBB361
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext78
-Ltext78:
-	.line 64
-	ld   [fr,-84],i0
-	.dlab LBE361
-	.dlab LBE358
-	.dlab LBE357
-	.dlab LBE356
-	.dlab LBB362
-	.dlab LBB363
-	.dlab LBB364
-	.dlab LBB365
-	.line 65
-	ld   [fr,-88],r14
-	.dlab LBE365
-	.dlab LBE364
-	.dlab LBB366
-	.dlab LBB367
-	ld   [fr,-92],i0
-	.dlab LBE367
-	.dlab LBE366
-	.dlab LBB368
-	.dlab LBB369
-	.dlab LBB370
-	.dlab LBB371
-	.dlab LBB372
-	ld   [fr,-96],r14
-	.dlab LBE372
-	.dlab LBE371
-	.dlab LBB373
-	.dlab LBB374
-	ld   [fr,-100],i0
-	.dlab LBE374
-	.dlab LBE373
-	.dlab LBE370
-	.dlab LBE369
-	.dlab LBE368
-	.dlab LBE363
-	.dlab LBE362
-	.dlab LBE349
-	.dlab LBB375
-	.dlab LBB376
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext79
-Ltext79:
-	.line 87
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L406
-	.dlab LBB377
-	.dlab LBB378
-	.dlab LBB379
-	.dlab LBB380
-	.dlab LBB381
-	.dlab LBB382
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext80
 Ltext80:
 	.line 114
 	call &__ZdlPv ; call non-native
-L406:
-	.dlab LBE382
-	.dlab LBE381
-	.dlab LBE380
-	.dlab LBE379
-	.dlab LBE378
-	.dlab LBE377
-	.dlab LBE376
-	.dlab LBE375
+L364:
+	.dlab LBE353
+	.dlab LBE352
+	.dlab LBE351
+	.dlab LBE350
+	.dlab LBE349
 	.dlab LBE348
 	.dlab LBE347
+	.dlab LBE346
+	.dlab LBE319
+	.dlab LBE318
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext81
 Ltext81:
 	.line 297
-	ld   i0,d4
+	ld   i0,d3
 	call &__ZN8NativeUI6ScreenD2Ev ; call non-native
-	.dlab LBE268
+	.dlab LBE203
 	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext82
 Ltext82:
-	.line 22
+	.line 24
 	add  sp,#0x48
-	pop  rt,d4
+	pop  rt,d7
 	ret
-	.stabs	"ii:r(0,3)",64,0,17,5
-	.stabn	192,0,0,LBB270-__ZN10MainScreenD2Ev
-	.stabn	224,0,0,LBE270-__ZN10MainScreenD2Ev
-	.stabs	"this:r(0,407)",64,0,5,12
-	.stabn	192,0,0,LBB273-__ZN10MainScreenD2Ev
-	.stabn	224,0,0,LBE273-__ZN10MainScreenD2Ev
-	.stabs	"this:r(0,408)",64,0,304,16
-	.stabn	192,0,0,LBB311-__ZN10MainScreenD2Ev
-	.stabn	224,0,0,LBE311-__ZN10MainScreenD2Ev
-	.stabs	"this:r(0,409)",64,0,304,16
-	.stabn	192,0,0,LBB347-__ZN10MainScreenD2Ev
-	.stabn	224,0,0,LBE347-__ZN10MainScreenD2Ev
-Lscope18:
-.data
-LC9:
-	.ascii "vector\0"
-.code
-	.stabs	"_ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS4_EEE21_M_throw_length_errorEv:f(0,6)",36,0,41,__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS4_EEE21_M_throw_length_errorEv
-	.stabs	"this:P(0,410)=k(1,63)",64,0,41,12
+	.stabs	"ii:r(0,3)",64,0,19,5
+	.stabn	192,0,0,LBB205-__ZN10MainScreenD1Ev
+	.stabn	224,0,0,LBE205-__ZN10MainScreenD1Ev
+	.stabs	"this:r(0,493)",64,0,304,16
+	.stabn	192,0,0,LBB208-__ZN10MainScreenD1Ev
+	.stabn	224,0,0,LBE208-__ZN10MainScreenD1Ev
+	.stabs	"this:r(0,494)",64,0,5,12
+	.stabn	192,0,0,LBB244-__ZN10MainScreenD1Ev
+	.stabn	224,0,0,LBE244-__ZN10MainScreenD1Ev
+	.stabs	"this:r(0,493)",64,0,304,16
+	.stabn	192,0,0,LBB282-__ZN10MainScreenD1Ev
+	.stabn	224,0,0,LBE282-__ZN10MainScreenD1Ev
+	.stabs	"this:r(0,495)",64,0,304,16
+	.stabn	192,0,0,LBB318-__ZN10MainScreenD1Ev
+	.stabn	224,0,0,LBE318-__ZN10MainScreenD1Ev
+Lscope17:
+	.stabs	"_ZN10MainScreenD2Ev:F(0,6)",36,0,18,__ZN10MainScreenD2Ev
+	.stabs	"this:P(0,489)",64,0,18,7
+	.global	__ZN10MainScreenD2Ev
 
-.func __ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS4_EEE21_M_throw_length_errorEv, 1, void
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext83
-Ltext83:
-	.line 41
-	push rt,fr
+.func __ZN10MainScreenD2Ev, 1, void
+	.line 18
+	push rt,d7
+	sub  sp,#0x48
 	ld   fr,sp
-	add  fr,#0x8
-	.dlab LBB383
-	.dlab LBB384
-	.dlab LBB385
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_range_errors.c",132,0,0,Ltext84
+	add  fr,#0x70
+	ld   d3,i0
+	.dlab LBB354
+	.line 18
+	ld   r0,#__ZTV10MainScreen+8
+	ld   [i0],r0
+	ld   r14,#__ZTV10MainScreen+228
+	ld   [i0,72],r14
+	ld   r0,#__ZTV10MainScreen+248
+	ld   [i0,76],r0
+	ld   r14,#__ZTV10MainScreen+272
+	ld   [i0,80],r14
+	.dlab LBB355
+	.dlab LBB356
+	.line 19
+	ld   d1,#0x0
+	ld   d4,i0
+	add  d4,#0x88
+	ld   d2,i0
+	add  d2,#0x48
+L390:
+	.dlab LBB357
+	.dlab LBB358
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext83
+Ltext83:
+	.line 182
+	ld   r14,d1
+	sll  r14,#0x2
+	ld   r0,[d4]
+	add  r14,r0
+	.dlab LBE358
+	.dlab LBE357
+	.line 202
+	ld   i0,[r14]
+	ld   r14,[i0]
+	ld   d0,[r14,192]
+	ld   i1,d2
+	call d0 ; call non-native
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext84
 Ltext84:
-	.line 73
-	ld   i0,#LC9
-	call &_puts ; call non-native
-	call &_abort ; call non-native
-	.dlab LBE385
+	.line 19
+	add  d1,#0x1
+	ld   r14,#0x7
+	jc   le,d1,r14,#L390
+	.dlab LBE356
+	.line 22
+	ld   i0,[d3,108]
+	ld   r14,[i0]
+	ld   d0,[r14,192]
+	ld   i1,d2
+	call d0 ; call non-native
+	.line 23
+	ld   i0,[d3,104]
+	ld   r14,[i0]
+	ld   d0,[r14,204]
+	ld   i1,d3
+	add  i1,#0x4c
+	call d0 ; call non-native
+	.dlab LBE355
+	.dlab LBB359
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext85
+Ltext85:
+	.line 304
+	ld   r0,d3
+	add  r0,#0x4dc
+	.dlab LBB360
+	.dlab LBB361
+	.dlab LBB362
+	.dlab LBB363
+	.dlab LBB364
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext86
+Ltext86:
+	.line 64
+	ld   d7,fr
+	add  d7,#0xffffffd4
+	.dlab LBB365
+	.dlab LBB366
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext87
+Ltext87:
+	.line 184
+	ld   r14,[r0,4]
+	.dlab LBE366
+	.dlab LBE365
+	.dlab LBB367
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext88
+Ltext88:
+	.line 64
+	ld   [d7],r14
+	.dlab LBE367
+	.dlab LBE364
+	.dlab LBE363
+	.dlab LBE362
+	.dlab LBB368
+	.dlab LBB369
+	.dlab LBB370
+	ld   d6,fr
+	add  d6,#0xffffffd0
+	.dlab LBB371
+	.dlab LBB372
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext89
+Ltext89:
+	.line 182
+	ld   i0,[r0]
+	.dlab LBE372
+	.dlab LBE371
+	.dlab LBB373
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext90
+Ltext90:
+	.line 64
+	ld   [d6],i0
+	.dlab LBE373
+	.dlab LBE370
+	.dlab LBE369
+	.dlab LBE368
+	.dlab LBB374
+	.dlab LBB375
+	.dlab LBB376
+	.line 65
+	ld   d5,fr
+	add  d5,#0xffffffcc
+	.dlab LBB377
+	ld   [d5],r14
+	.dlab LBE377
+	.dlab LBE376
+	.dlab LBB378
+	ld   d2,fr
+	add  d2,#0xffffffc8
+	.dlab LBB379
+	ld   [d2],i0
+	.dlab LBE379
+	.dlab LBE378
+	.dlab LBB380
+	.dlab LBB381
+	.dlab LBB382
+	.dlab LBB383
+	ld   d1,fr
+	add  d1,#0xffffffc4
+	.dlab LBB384
+	ld   [d1],r14
 	.dlab LBE384
 	.dlab LBE383
-Lscope19:
-	.stabs	"_ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS4_EEE21_M_throw_length_errorEv:f(0,6)",36,0,41,__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS4_EEE21_M_throw_length_errorEv
-	.stabs	"this:P(0,411)=k(1,181)",64,0,41,12
-
-.func __ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS4_EEE21_M_throw_length_errorEv, 1, void
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext85
-Ltext85:
-	.line 41
-	push rt,fr
-	ld   fr,sp
-	add  fr,#0x8
+	.dlab LBB385
+	ld   d0,fr
+	add  d0,#0xffffffc0
 	.dlab LBB386
+	ld   [d0],i0
+	.dlab LBE386
+	.dlab LBE385
+	.dlab LBE382
+	.dlab LBE381
+	.dlab LBE380
+	.dlab LBE375
+	.dlab LBE374
+	.dlab LBE361
 	.dlab LBB387
 	.dlab LBB388
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_range_errors.c",132,0,0,Ltext86
-Ltext86:
-	.line 73
-	ld   i0,#LC9
-	call &_puts ; call non-native
-	call &_abort ; call non-native
-	.dlab LBE388
-	.dlab LBE387
-	.dlab LBE386
-Lscope20:
-	.stabs	"_ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_length_errorEv:f(0,6)",36,0,41,__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_length_errorEv
-	.stabs	"this:P(0,412)=k(1,299)",64,0,41,12
-
-.func __ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_length_errorEv, 1, void
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext87
-Ltext87:
-	.line 41
-	push rt,fr
-	ld   fr,sp
-	add  fr,#0x8
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext91
+Ltext91:
+	.line 87
+	ld   r0,#0x0
+	jc   eq,i0,r0,#L412
 	.dlab LBB389
 	.dlab LBB390
 	.dlab LBB391
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_range_errors.c",132,0,0,Ltext88
-Ltext88:
-	.line 73
-	ld   i0,#LC9
-	call &_puts ; call non-native
-	call &_abort ; call non-native
-	.dlab LBE391
-	.dlab LBE390
-	.dlab LBE389
-Lscope21:
-.data
-LC10:
-	.ascii "out of memory\12\0"
-.code
-	.stabs	"_ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb:f(0,6)",36,0,109,__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"this:P(0,409)",64,0,109,5
-	.stabs	"__pos:P(1,18)",64,0,109,9
-	.stabs	"__x:P(1,26)",64,0,109,7
-	.stabs	"__fill_len:p(7,2)",160,0,109,0
-	.stabs	"__atend:p(0,4)",160,0,109,4
-
-.func __ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb, 6, void
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext89
-Ltext89:
-	.line 109
-	push rt,d6
-	sub  sp,#0x20
-	ld   fr,sp
-	add  fr,#0x44
-	ld   d1,i0
-	ld   d5,i1
-	ld   d3,i2
-	ld   d6,[fr]
 	.dlab LBB392
 	.dlab LBB393
 	.dlab LBB394
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext90
-Ltext90:
-	.line 171
-	ld   r1,d6
-	ld   [fr,-64],d6
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext92
+Ltext92:
+	.line 114
+	call &__ZdlPv ; call non-native
+L412:
+	.dlab LBE394
+	.dlab LBE393
+	.dlab LBE392
+	.dlab LBE391
+	.dlab LBE390
+	.dlab LBE389
+	.dlab LBE388
+	.dlab LBE387
+	.dlab LBE360
+	.dlab LBE359
 	.dlab LBB395
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext93
+Ltext93:
+	.line 5
+	ld   i0,d3
+	add  i0,#0x4b4
 	.dlab LBB396
+	ld   r14,#__ZTVN6MAUtil14HttpConnectionE+8
+	ld   [i0],r14
+	call &__ZN6MAUtil10ConnectionD2Ev ; call non-native
+	.dlab LBE396
+	.dlab LBE395
 	.dlab LBB397
 	.dlab LBB398
-	.line 192
-	ld   r0,[i0,4]
-	ld   r14,[i0]
-	sub  r0,r14
-	sra  r0,#0x2
-	.dlab LBE398
-	.dlab LBE397
-	ld   [fr,-68],r0
 	.dlab LBB399
 	.dlab LBB400
 	.dlab LBB401
-	.line 194
-	ld   r14,#0x3fffffff
-	.dlab LBE401
-	.dlab LBE400
-	.dlab LBE399
-	.line 193
-	sub  r14,r0
-	jc   ltu,r14,d6,#L501
-L433:
 	.dlab LBB402
 	.dlab LBB403
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext91
-Ltext91:
-	.line 141
-	ld   r14,fr
-	add  r14,#0xffffffbc
-	jc   ltu,r1,r0,#L439
-	add  r14,#0x4
-L439:
-	.dlab LBE403
-	.dlab LBE402
-	ld   i0,[r14]
-	add  i0,r0
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext92
-Ltext92:
-	.line 193
-	ld   r14,#0x3fffffff
-	jc   gtu,i0,r14,#L441
-	jc   geu,i0,r0,#L440
-L441:
-	ld   i0,#0x3fffffff
-L498:
-	.dlab LBE396
-	.dlab LBE395
-	.dlab LBE394
 	.dlab LBB404
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext94
+Ltext94:
+	.line 184
+	ld   r14,[d4,4]
+	.dlab LBE404
+	.dlab LBE403
 	.dlab LBB405
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext95
+Ltext95:
+	.line 64
+	ld   [fr,-68],r14
+	.dlab LBE405
+	.dlab LBE402
+	.dlab LBE401
+	.dlab LBE400
 	.dlab LBB406
 	.dlab LBB407
 	.dlab LBB408
 	.dlab LBB409
 	.dlab LBB410
-	.dlab LBB411
-	.dlab LBB412
-	.dlab LBB413
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext93
-Ltext93:
-	.line 347
-	ld   d0,i0
-	sll  d0,#0x2
-	.dlab LBB414
-	.dlab LBB415
-	.dlab LBB416
-	.dlab LBB417
-	.dlab LBB418
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext94
-Ltext94:
-	.line 113
-	ld   i0,d0
-	call &__Znwm ; call non-native
-	ld   i0,r14
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L499
-	.dlab LBE418
-	.dlab LBE417
-	.dlab LBE416
-	.dlab LBE415
-	.dlab LBE414
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext95
-Ltext95:
-	.line 352
-	ld   d2,d0
-	srl  d2,#0x2
-	ld   d4,i0
-	.dlab LBE413
-	.dlab LBE412
-	.dlab LBE411
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext96
+Ltext96:
+	.line 182
+	ld   i0,[d4]
 	.dlab LBE410
 	.dlab LBE409
+	.dlab LBB411
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext97
+Ltext97:
+	.line 64
+	ld   [fr,-72],i0
+	.dlab LBE411
 	.dlab LBE408
 	.dlab LBE407
 	.dlab LBE406
-	.dlab LBE405
-	.dlab LBE404
+	.dlab LBB412
+	.dlab LBB413
+	.dlab LBB414
+	.dlab LBB415
+	.line 65
+	ld   [fr,-76],r14
+	.dlab LBE415
+	.dlab LBE414
+	.dlab LBB416
+	.dlab LBB417
+	ld   [fr,-80],i0
+	.dlab LBE417
+	.dlab LBE416
+	.dlab LBB418
 	.dlab LBB419
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext96
-Ltext96:
-	.line 222
-	ld   i1,[d1]
 	.dlab LBB420
 	.dlab LBB421
-	.line 223
-	ld   d0,d5
-	sub  d0,i1
-	ld   i0,d4
-	ld   r14,#0x0
-	jc   ne,d0,r14,#L502
-L460:
+	.dlab LBB422
+	ld   [fr,-84],r14
+	.dlab LBE422
 	.dlab LBE421
+	.dlab LBB423
+	.dlab LBB424
+	ld   [fr,-88],i0
+	.dlab LBE424
+	.dlab LBE423
 	.dlab LBE420
 	.dlab LBE419
-	.dlab LBB422
-	.line 478
-	ld   r0,d6
-	.dlab LBB423
-	.line 480
-	ld   r14,#0x0
-	jc   eq,d6,r14,#L496
-L464:
-	.line 481
-	ld   r14,[d3]
-	ld   [i0],r14
-	.line 480
-	add  r0,#0xffffffff
-	add  i0,#0x4
-	ld   r14,#0x0
-	jc   ne,r0,r14,#L464
-L496:
-	.dlab LBE423
-	.dlab LBE422
-	.line 478
-	ld   d0,i0
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext97
-Ltext97:
-	.line 115
-	ld.b r1,[fr,4]
-	and  r1,#0xff  ; zero extend
-	ld   r14,#0x0
-	jc   ne,r1,r14,#L497
-	.dlab LBB424
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext98
-Ltext98:
-	.line 222
-	ld   r0,[d1,4]
+	.dlab LBE418
+	.dlab LBE413
+	.dlab LBE412
+	.dlab LBE399
 	.dlab LBB425
 	.dlab LBB426
-	.line 223
-	ld   d0,r0
-	sub  d0,d5
-	ld   r14,i0
-	jc   eq,d0,r1,#L469
-	ld   i1,d5
-	ld   i2,d0
-	call &_memmove ; call non-native
-	add  r14,d0
-	ld   r0,[d1,4]
-L469:
-	.dlab LBE426
-	.dlab LBE425
-	.dlab LBE424
-	.line 222
-	ld   d0,r14
-L466:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext98
+Ltext98:
+	.line 87
+	ld   r0,#0x0
+	jc   eq,i0,r0,#L452
 	.dlab LBB427
 	.dlab LBB428
 	.dlab LBB429
 	.dlab LBB430
 	.dlab LBB431
 	.dlab LBB432
-	.dlab LBB433
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext99
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext99
 Ltext99:
-	.line 64
-	ld   [fr,-40],r0
-	.dlab LBE433
+	.line 114
+	call &__ZdlPv ; call non-native
+L452:
 	.dlab LBE432
 	.dlab LBE431
 	.dlab LBE430
+	.dlab LBE429
+	.dlab LBE428
+	.dlab LBE427
+	.dlab LBE426
+	.dlab LBE425
+	.dlab LBE398
+	.dlab LBE397
+	.dlab LBB433
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext100
+Ltext100:
+	.line 304
+	ld   r0,d3
+	add  r0,#0x7c
 	.dlab LBB434
 	.dlab LBB435
 	.dlab LBB436
 	.dlab LBB437
 	.dlab LBB438
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext100
-Ltext100:
-	.line 182
-	ld   i0,[d1]
-	.dlab LBE438
-	.dlab LBE437
 	.dlab LBB439
+	.dlab LBB440
+	.line 184
+	ld   r14,[r0,4]
+	.dlab LBE440
+	.dlab LBE439
+	.dlab LBB441
 	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext101
 Ltext101:
 	.line 64
-	ld   [fr,-44],i0
-	.dlab LBE439
+	ld   [d0],r14
+	.dlab LBE441
+	.dlab LBE438
+	.dlab LBE437
 	.dlab LBE436
-	.dlab LBE435
-	.dlab LBE434
-	.dlab LBB440
-	.dlab LBB441
 	.dlab LBB442
 	.dlab LBB443
-	.line 65
-	ld   [fr,-48],r0
-	.dlab LBE443
-	.dlab LBE442
 	.dlab LBB444
 	.dlab LBB445
-	ld   [fr,-52],i0
-	.dlab LBE445
-	.dlab LBE444
 	.dlab LBB446
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext102
+Ltext102:
+	.line 182
+	ld   i0,[r0]
+	.dlab LBE446
+	.dlab LBE445
 	.dlab LBB447
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext103
+Ltext103:
+	.line 64
+	ld   [d1],i0
+	.dlab LBE447
+	.dlab LBE444
+	.dlab LBE443
+	.dlab LBE442
 	.dlab LBB448
 	.dlab LBB449
 	.dlab LBB450
-	ld   [fr,-56],r0
-	.dlab LBE450
-	.dlab LBE449
 	.dlab LBB451
-	.dlab LBB452
-	ld   [fr,-60],i0
-	.dlab LBE452
+	.line 65
+	ld   [d2],r14
 	.dlab LBE451
-	.dlab LBE448
-	.dlab LBE447
-	.dlab LBE446
-	.dlab LBE441
-	.dlab LBE440
-	.dlab LBE429
+	.dlab LBE450
+	.dlab LBB452
 	.dlab LBB453
+	ld   [d5],i0
+	.dlab LBE453
+	.dlab LBE452
 	.dlab LBB454
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext102
-Ltext102:
-	.line 319
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L493
 	.dlab LBB455
 	.dlab LBB456
 	.dlab LBB457
 	.dlab LBB458
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext103
-Ltext103:
-	.line 114
-	call &__ZdlPv ; call non-native
-L493:
+	ld   [d6],r14
 	.dlab LBE458
 	.dlab LBE457
+	.dlab LBB459
+	.dlab LBB460
+	ld   [d7],i0
+	.dlab LBE460
+	.dlab LBE459
 	.dlab LBE456
 	.dlab LBE455
 	.dlab LBE454
-	.dlab LBE453
-	.dlab LBE428
-	.dlab LBE427
-	.dlab LBB459
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext104
-Ltext104:
-	.line 665
-	sll  d2,#0x2
-	add  d2,d4
-	.dlab LBB460
-	.line 666
-	ld   [d1],d4
-	.line 667
-	ld   [d1,4],d0
-	.line 668
-	ld   [d1,8],d2
-	.dlab LBE460
-	.dlab LBE459
-	.dlab LBE393
-	.dlab LBE392
-	add  sp,#0x20
-	pop  rt,d6
-	ret
-L440:
+	.dlab LBE449
+	.dlab LBE448
+	.dlab LBE435
 	.dlab LBB461
 	.dlab LBB462
-	.line 171
-	ld   d2,i0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext104
+Ltext104:
+	.line 87
+	ld   r14,#0x0
+	jc   eq,i0,r14,#L488
 	.dlab LBB463
 	.dlab LBB464
 	.dlab LBB465
 	.dlab LBB466
 	.dlab LBB467
 	.dlab LBB468
-	.dlab LBB469
-	.dlab LBB470
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext105
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext105
 Ltext105:
-	.line 330
-	ld   r14,#0x3fffffff
-	jc   gtu,i0,r14,#L499
-	.line 353
-	ld   d4,i0
-	.dlab LBB471
-	.line 346
-	ld   r14,#0x0
-	jc   ne,i0,r14,#L498
-	.dlab LBE471
-	.dlab LBE470
-	.dlab LBE469
+	.line 114
+	call &__ZdlPv ; call non-native
+L488:
 	.dlab LBE468
 	.dlab LBE467
 	.dlab LBE466
 	.dlab LBE465
 	.dlab LBE464
 	.dlab LBE463
-	.dlab LBB472
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext106
+	.dlab LBE462
+	.dlab LBE461
+	.dlab LBE434
+	.dlab LBE433
+	.dlab LBB469
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext106
 Ltext106:
-	.line 222
-	ld   i1,[d1]
+	.line 304
+	ld   r0,d3
+	add  r0,#0x70
+	.dlab LBB470
+	.dlab LBB471
+	.dlab LBB472
 	.dlab LBB473
 	.dlab LBB474
-	.line 223
-	ld   d0,d5
-	sub  d0,i1
-	ld   i0,d4
-	ld   r14,#0x0
-	jc   eq,d0,r14,#L460
-L502:
-	ld   i2,d0
-	call &_memmove ; call non-native
-	ld   i0,r14
-	add  i0,d0
-	jp   #L460
-L497:
-	ld   r0,[d1,4]
-	jp   #L466
-L501:
+	.dlab LBB475
+	.dlab LBB476
+	.line 184
+	ld   r14,[r0,4]
+	.dlab LBE476
+	.dlab LBE475
+	.dlab LBB477
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext107
+Ltext107:
+	.line 64
+	ld   [fr,-92],r14
+	.dlab LBE477
 	.dlab LBE474
 	.dlab LBE473
 	.dlab LBE472
-	.dlab LBB475
-	.dlab LBB476
-	.dlab LBB477
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext107
-Ltext107:
-	.line 174
-	call &__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS4_EEE21_M_throw_length_errorEv ; call non-native
-	ld   r1,[fr,-64]
-	ld   r0,[fr,-68]
-	jp   #L433
-L499:
-	.dlab LBE477
-	.dlab LBE476
-	.dlab LBE475
 	.dlab LBB478
 	.dlab LBB479
 	.dlab LBB480
 	.dlab LBB481
 	.dlab LBB482
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext108
+Ltext108:
+	.line 182
+	ld   i0,[r0]
+	.dlab LBE482
+	.dlab LBE481
 	.dlab LBB483
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext109
+Ltext109:
+	.line 64
+	ld   [fr,-96],i0
+	.dlab LBE483
+	.dlab LBE480
+	.dlab LBE479
+	.dlab LBE478
 	.dlab LBB484
 	.dlab LBB485
 	.dlab LBB486
 	.dlab LBB487
+	.line 65
+	ld   [fr,-100],r14
+	.dlab LBE487
+	.dlab LBE486
 	.dlab LBB488
 	.dlab LBB489
+	ld   [fr,-104],i0
+	.dlab LBE489
+	.dlab LBE488
 	.dlab LBB490
 	.dlab LBB491
 	.dlab LBB492
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext108
-Ltext108:
-	.line 113
-	ld   i0,#LC10
-	call &_puts ; call non-native
-	ld   i0,#0x1
-	call &_exit ; call non-native
+	.dlab LBB493
+	.dlab LBB494
+	ld   [fr,-108],r14
+	.dlab LBE494
+	.dlab LBE493
+	.dlab LBB495
+	.dlab LBB496
+	ld   [fr,-112],i0
+	.dlab LBE496
+	.dlab LBE495
 	.dlab LBE492
 	.dlab LBE491
 	.dlab LBE490
-	.dlab LBE489
-	.dlab LBE488
-	.dlab LBE487
-	.dlab LBE486
 	.dlab LBE485
 	.dlab LBE484
-	.dlab LBE483
-	.dlab LBE482
-	.dlab LBE481
-	.dlab LBE480
-	.dlab LBE479
-	.dlab LBE478
-	.dlab LBE462
-	.dlab LBE461
-	.stabs	"__fill_len:r(7,2)",64,0,109,10
-	.stabs	"__len:r(7,2)",64,0,110,6
-	.stabs	"__new_finish:r(1,18)",64,0,112,4
-	.stabn	192,0,0,LBB393-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:(7,2)",128,0,171,-64
-	.stabn	192,0,0,LBB394-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__size:(3,89)",128,0,172,-68
-	.stabs	"__len:r(7,2)",64,0,175,12
-	.stabn	192,0,0,LBB396-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE396-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE394-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__buf_size:r(7,2)",64,0,347,4
-	.stabn	192,0,0,LBB413-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__y:r(12,28)",64,0,113,12
-	.stabn	192,0,0,LBB418-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE418-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE413-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__first:r(23,92)",64,0,222,13
-	.stabn	192,0,0,LBB419-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:r(7,2)",64,0,223,4
-	.stabn	192,0,0,LBB421-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE421-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE419-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__first:r(1,18)",64,0,478,12
-	.stabs	"__n:r(0,16)",64,0,478,16
-	.stabn	192,0,0,LBB422-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE422-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:r(7,2)",64,0,223,4
-	.stabn	192,0,0,LBB426-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE426-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE393-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__len:r(7,2)",64,0,110,6
-	.stabs	"__new_finish:r(1,18)",64,0,112,4
-	.stabn	192,0,0,LBB462-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__first:r(23,92)",64,0,222,13
-	.stabn	192,0,0,LBB472-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:r(7,2)",64,0,223,4
-	.stabn	192,0,0,LBB474-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE474-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE472-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:(7,2)",128,0,171,-64
-	.stabn	192,0,0,LBB475-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__size:(3,89)",128,0,172,-68
-	.stabs	"__len:r(7,2)",64,0,175,12
-	.stabn	192,0,0,LBB477-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE477-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE475-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__buf_size:r(7,2)",64,0,347,4
-	.stabn	192,0,0,LBB487-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__y:r(12,28)",64,0,113,12
-	.stabn	192,0,0,LBB492-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE492-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE487-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE462-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.dlab LBE471
+	.dlab LBB497
+	.dlab LBB498
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext110
+Ltext110:
+	.line 87
+	ld   r0,#0x0
+	jc   eq,i0,r0,#L524
+	.dlab LBB499
+	.dlab LBB500
+	.dlab LBB501
+	.dlab LBB502
+	.dlab LBB503
+	.dlab LBB504
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext111
+Ltext111:
+	.line 114
+	call &__ZdlPv ; call non-native
+L524:
+	.dlab LBE504
+	.dlab LBE503
+	.dlab LBE502
+	.dlab LBE501
+	.dlab LBE500
+	.dlab LBE499
+	.dlab LBE498
+	.dlab LBE497
+	.dlab LBE470
+	.dlab LBE469
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext112
+Ltext112:
+	.line 297
+	ld   i0,d3
+	call &__ZN8NativeUI6ScreenD2Ev ; call non-native
+	.dlab LBE354
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext113
+Ltext113:
+	.line 24
+	add  sp,#0x48
+	pop  rt,d7
+	ret
+	.stabs	"ii:r(0,3)",64,0,19,5
+	.stabn	192,0,0,LBB356-__ZN10MainScreenD2Ev
+	.stabn	224,0,0,LBE356-__ZN10MainScreenD2Ev
+	.stabs	"this:r(0,493)",64,0,304,16
+	.stabn	192,0,0,LBB359-__ZN10MainScreenD2Ev
+	.stabn	224,0,0,LBE359-__ZN10MainScreenD2Ev
+	.stabs	"this:r(0,494)",64,0,5,12
+	.stabn	192,0,0,LBB395-__ZN10MainScreenD2Ev
+	.stabn	224,0,0,LBE395-__ZN10MainScreenD2Ev
+	.stabs	"this:r(0,493)",64,0,304,16
+	.stabn	192,0,0,LBB433-__ZN10MainScreenD2Ev
+	.stabn	224,0,0,LBE433-__ZN10MainScreenD2Ev
+	.stabs	"this:r(0,495)",64,0,304,16
+	.stabn	192,0,0,LBB469-__ZN10MainScreenD2Ev
+	.stabn	224,0,0,LBE469-__ZN10MainScreenD2Ev
+Lscope18:
+.data
+LC5:
+	.ascii "vector\0"
+.code
+	.stabs	"_ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS4_EEE21_M_throw_length_errorEv:f(0,6)",36,0,41,__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS4_EEE21_M_throw_length_errorEv
+	.stabs	"this:P(0,496)=k(1,63)",64,0,41,12
+
+.func __ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS4_EEE21_M_throw_length_errorEv, 1, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext114
+Ltext114:
+	.line 41
+	push rt,fr
+	ld   fr,sp
+	add  fr,#0x8
+	.dlab LBB505
+	.dlab LBB506
+	.dlab LBB507
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_range_errors.c",132,0,0,Ltext115
+Ltext115:
+	.line 73
+	ld   i0,#LC5
+	call &_puts ; call non-native
+	call &_abort ; call non-native
+	.dlab LBE507
+	.dlab LBE506
+	.dlab LBE505
+Lscope19:
+	.stabs	"_ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS4_EEE21_M_throw_length_errorEv:f(0,6)",36,0,41,__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS4_EEE21_M_throw_length_errorEv
+	.stabs	"this:P(0,497)=k(1,181)",64,0,41,12
+
+.func __ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS4_EEE21_M_throw_length_errorEv, 1, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext116
+Ltext116:
+	.line 41
+	push rt,fr
+	ld   fr,sp
+	add  fr,#0x8
+	.dlab LBB508
+	.dlab LBB509
+	.dlab LBB510
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_range_errors.c",132,0,0,Ltext117
+Ltext117:
+	.line 73
+	ld   i0,#LC5
+	call &_puts ; call non-native
+	call &_abort ; call non-native
+	.dlab LBE510
+	.dlab LBE509
+	.dlab LBE508
+Lscope20:
+	.stabs	"_ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_length_errorEv:f(0,6)",36,0,41,__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_length_errorEv
+	.stabs	"this:P(0,498)=k(1,299)",64,0,41,12
+
+.func __ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_length_errorEv, 1, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext118
+Ltext118:
+	.line 41
+	push rt,fr
+	ld   fr,sp
+	add  fr,#0x8
+	.dlab LBB511
+	.dlab LBB512
+	.dlab LBB513
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_range_errors.c",132,0,0,Ltext119
+Ltext119:
+	.line 73
+	ld   i0,#LC5
+	call &_puts ; call non-native
+	call &_abort ; call non-native
+	.dlab LBE513
+	.dlab LBE512
+	.dlab LBE511
+Lscope21:
+	.stabs	"_ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_length_errorEv:f(0,6)",36,0,600,__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_length_errorEv
+	.stabs	"this:P(0,492)",64,0,600,12
+
+.func __ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_length_errorEv, 1, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext120
+Ltext120:
+	.line 600
+	push rt,fr
+	ld   fr,sp
+	add  fr,#0x8
+	.dlab LBB514
+	.dlab LBB515
+	.dlab LBB516
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_range_errors.c",132,0,0,Ltext121
+Ltext121:
+	.line 73
+	ld   i0,#LC4
+	call &_puts ; call non-native
+	call &_abort ; call non-native
+	.dlab LBE516
+	.dlab LBE515
+	.dlab LBE514
 Lscope22:
-	.stabs	"_ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb:f(0,6)",36,0,109,__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"this:P(0,408)",64,0,109,5
-	.stabs	"__pos:P(1,136)",64,0,109,9
-	.stabs	"__x:P(1,144)",64,0,109,7
+.data
+LC6:
+	.ascii "out of memory\12\0"
+.code
+	.stabs	"_ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb:f(0,6)",36,0,109,__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"this:P(0,495)",64,0,109,5
+	.stabs	"__pos:P(1,18)",64,0,109,9
+	.stabs	"__x:P(1,26)",64,0,109,7
 	.stabs	"__fill_len:p(7,2)",160,0,109,0
 	.stabs	"__atend:p(0,4)",160,0,109,4
 
-.func __ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb, 6, void
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext109
-Ltext109:
+.func __ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb, 6, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext122
+Ltext122:
 	.line 109
 	push rt,d6
 	sub  sp,#0x20
@@ -3409,138 +3375,138 @@ Ltext109:
 	ld   d5,i1
 	ld   d3,i2
 	ld   d6,[fr]
-	.dlab LBB493
-	.dlab LBB494
-	.dlab LBB495
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext110
-Ltext110:
+	.dlab LBB517
+	.dlab LBB518
+	.dlab LBB519
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext123
+Ltext123:
 	.line 171
 	ld   r1,d6
 	ld   [fr,-64],d6
-	.dlab LBB496
-	.dlab LBB497
-	.dlab LBB498
-	.dlab LBB499
+	.dlab LBB520
+	.dlab LBB521
+	.dlab LBB522
+	.dlab LBB523
 	.line 192
 	ld   r0,[i0,4]
 	ld   r14,[i0]
 	sub  r0,r14
 	sra  r0,#0x2
-	.dlab LBE499
-	.dlab LBE498
+	.dlab LBE523
+	.dlab LBE522
 	ld   [fr,-68],r0
-	.dlab LBB500
-	.dlab LBB501
-	.dlab LBB502
+	.dlab LBB524
+	.dlab LBB525
+	.dlab LBB526
 	.line 194
 	ld   r14,#0x3fffffff
-	.dlab LBE502
-	.dlab LBE501
-	.dlab LBE500
+	.dlab LBE526
+	.dlab LBE525
+	.dlab LBE524
 	.line 193
 	sub  r14,r0
-	jc   ltu,r14,d6,#L573
-L505:
-	.dlab LBB503
-	.dlab LBB504
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext111
-Ltext111:
+	jc   ltu,r14,d6,#L621
+L553:
+	.dlab LBB527
+	.dlab LBB528
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext124
+Ltext124:
 	.line 141
 	ld   r14,fr
 	add  r14,#0xffffffbc
-	jc   ltu,r1,r0,#L511
+	jc   ltu,r1,r0,#L559
 	add  r14,#0x4
-L511:
-	.dlab LBE504
-	.dlab LBE503
+L559:
+	.dlab LBE528
+	.dlab LBE527
 	ld   i0,[r14]
 	add  i0,r0
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext112
-Ltext112:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext125
+Ltext125:
 	.line 193
 	ld   r14,#0x3fffffff
-	jc   gtu,i0,r14,#L513
-	jc   geu,i0,r0,#L512
-L513:
+	jc   gtu,i0,r14,#L561
+	jc   geu,i0,r0,#L560
+L561:
 	ld   i0,#0x3fffffff
-L570:
-	.dlab LBE497
-	.dlab LBE496
-	.dlab LBE495
-	.dlab LBB505
-	.dlab LBB506
-	.dlab LBB507
-	.dlab LBB508
-	.dlab LBB509
-	.dlab LBB510
-	.dlab LBB511
-	.dlab LBB512
-	.dlab LBB513
-	.dlab LBB514
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext113
-Ltext113:
+L618:
+	.dlab LBE521
+	.dlab LBE520
+	.dlab LBE519
+	.dlab LBB529
+	.dlab LBB530
+	.dlab LBB531
+	.dlab LBB532
+	.dlab LBB533
+	.dlab LBB534
+	.dlab LBB535
+	.dlab LBB536
+	.dlab LBB537
+	.dlab LBB538
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext126
+Ltext126:
 	.line 347
 	ld   d0,i0
 	sll  d0,#0x2
-	.dlab LBB515
-	.dlab LBB516
-	.dlab LBB517
-	.dlab LBB518
-	.dlab LBB519
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext114
-Ltext114:
+	.dlab LBB539
+	.dlab LBB540
+	.dlab LBB541
+	.dlab LBB542
+	.dlab LBB543
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext127
+Ltext127:
 	.line 113
 	ld   i0,d0
 	call &__Znwm ; call non-native
 	ld   i0,r14
 	ld   r14,#0x0
-	jc   eq,i0,r14,#L571
-	.dlab LBE519
-	.dlab LBE518
-	.dlab LBE517
-	.dlab LBE516
-	.dlab LBE515
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext115
-Ltext115:
+	jc   eq,i0,r14,#L619
+	.dlab LBE543
+	.dlab LBE542
+	.dlab LBE541
+	.dlab LBE540
+	.dlab LBE539
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext128
+Ltext128:
 	.line 352
 	ld   d2,d0
 	srl  d2,#0x2
 	ld   d4,i0
-	.dlab LBE514
-	.dlab LBE513
-	.dlab LBE512
-	.dlab LBE511
-	.dlab LBE510
-	.dlab LBE509
-	.dlab LBE508
-	.dlab LBE507
-	.dlab LBE506
-	.dlab LBE505
-	.dlab LBB520
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext116
-Ltext116:
+	.dlab LBE538
+	.dlab LBE537
+	.dlab LBE536
+	.dlab LBE535
+	.dlab LBE534
+	.dlab LBE533
+	.dlab LBE532
+	.dlab LBE531
+	.dlab LBE530
+	.dlab LBE529
+	.dlab LBB544
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext129
+Ltext129:
 	.line 222
 	ld   i1,[d1]
-	.dlab LBB521
-	.dlab LBB522
+	.dlab LBB545
+	.dlab LBB546
 	.line 223
 	ld   d0,d5
 	sub  d0,i1
 	ld   i0,d4
 	ld   r14,#0x0
-	jc   ne,d0,r14,#L574
-L532:
-	.dlab LBE522
-	.dlab LBE521
-	.dlab LBE520
-	.dlab LBB523
+	jc   ne,d0,r14,#L622
+L580:
+	.dlab LBE546
+	.dlab LBE545
+	.dlab LBE544
+	.dlab LBB547
 	.line 478
 	ld   r0,d6
-	.dlab LBB524
+	.dlab LBB548
 	.line 480
 	ld   r14,#0x0
-	jc   eq,d6,r14,#L568
-L536:
+	jc   eq,d6,r14,#L616
+L584:
 	.line 481
 	ld   r14,[d3]
 	ld   [i0],r14
@@ -3548,398 +3514,230 @@ L536:
 	add  r0,#0xffffffff
 	add  i0,#0x4
 	ld   r14,#0x0
-	jc   ne,r0,r14,#L536
-L568:
-	.dlab LBE524
-	.dlab LBE523
+	jc   ne,r0,r14,#L584
+L616:
+	.dlab LBE548
+	.dlab LBE547
 	.line 478
 	ld   d0,i0
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext117
-Ltext117:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext130
+Ltext130:
 	.line 115
 	ld.b r1,[fr,4]
 	and  r1,#0xff  ; zero extend
 	ld   r14,#0x0
-	jc   ne,r1,r14,#L569
-	.dlab LBB525
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext118
-Ltext118:
+	jc   ne,r1,r14,#L617
+	.dlab LBB549
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext131
+Ltext131:
 	.line 222
 	ld   r0,[d1,4]
-	.dlab LBB526
-	.dlab LBB527
+	.dlab LBB550
+	.dlab LBB551
 	.line 223
 	ld   d0,r0
 	sub  d0,d5
 	ld   r14,i0
-	jc   eq,d0,r1,#L541
+	jc   eq,d0,r1,#L589
 	ld   i1,d5
 	ld   i2,d0
 	call &_memmove ; call non-native
 	add  r14,d0
 	ld   r0,[d1,4]
-L541:
-	.dlab LBE527
-	.dlab LBE526
-	.dlab LBE525
-	.line 222
-	ld   d0,r14
-L538:
-	.dlab LBB528
-	.dlab LBB529
-	.dlab LBB530
-	.dlab LBB531
-	.dlab LBB532
-	.dlab LBB533
-	.dlab LBB534
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext119
-Ltext119:
-	.line 64
-	ld   [fr,-40],r0
-	.dlab LBE534
-	.dlab LBE533
-	.dlab LBE532
-	.dlab LBE531
-	.dlab LBB535
-	.dlab LBB536
-	.dlab LBB537
-	.dlab LBB538
-	.dlab LBB539
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext120
-Ltext120:
-	.line 182
-	ld   i0,[d1]
-	.dlab LBE539
-	.dlab LBE538
-	.dlab LBB540
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext121
-Ltext121:
-	.line 64
-	ld   [fr,-44],i0
-	.dlab LBE540
-	.dlab LBE537
-	.dlab LBE536
-	.dlab LBE535
-	.dlab LBB541
-	.dlab LBB542
-	.dlab LBB543
-	.dlab LBB544
-	.line 65
-	ld   [fr,-48],r0
-	.dlab LBE544
-	.dlab LBE543
-	.dlab LBB545
-	.dlab LBB546
-	ld   [fr,-52],i0
-	.dlab LBE546
-	.dlab LBE545
-	.dlab LBB547
-	.dlab LBB548
-	.dlab LBB549
-	.dlab LBB550
-	.dlab LBB551
-	ld   [fr,-56],r0
+L589:
 	.dlab LBE551
 	.dlab LBE550
+	.dlab LBE549
+	.line 222
+	ld   d0,r14
+L586:
 	.dlab LBB552
 	.dlab LBB553
-	ld   [fr,-60],i0
-	.dlab LBE553
-	.dlab LBE552
-	.dlab LBE549
-	.dlab LBE548
-	.dlab LBE547
-	.dlab LBE542
-	.dlab LBE541
-	.dlab LBE530
 	.dlab LBB554
 	.dlab LBB555
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext122
-Ltext122:
-	.line 319
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L565
 	.dlab LBB556
 	.dlab LBB557
 	.dlab LBB558
-	.dlab LBB559
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext123
-Ltext123:
-	.line 114
-	call &__ZdlPv ; call non-native
-L565:
-	.dlab LBE559
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext132
+Ltext132:
+	.line 64
+	ld   [fr,-40],r0
 	.dlab LBE558
 	.dlab LBE557
 	.dlab LBE556
 	.dlab LBE555
-	.dlab LBE554
-	.dlab LBE529
-	.dlab LBE528
+	.dlab LBB559
 	.dlab LBB560
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext124
-Ltext124:
+	.dlab LBB561
+	.dlab LBB562
+	.dlab LBB563
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext133
+Ltext133:
+	.line 182
+	ld   i0,[d1]
+	.dlab LBE563
+	.dlab LBE562
+	.dlab LBB564
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext134
+Ltext134:
+	.line 64
+	ld   [fr,-44],i0
+	.dlab LBE564
+	.dlab LBE561
+	.dlab LBE560
+	.dlab LBE559
+	.dlab LBB565
+	.dlab LBB566
+	.dlab LBB567
+	.dlab LBB568
+	.line 65
+	ld   [fr,-48],r0
+	.dlab LBE568
+	.dlab LBE567
+	.dlab LBB569
+	.dlab LBB570
+	ld   [fr,-52],i0
+	.dlab LBE570
+	.dlab LBE569
+	.dlab LBB571
+	.dlab LBB572
+	.dlab LBB573
+	.dlab LBB574
+	.dlab LBB575
+	ld   [fr,-56],r0
+	.dlab LBE575
+	.dlab LBE574
+	.dlab LBB576
+	.dlab LBB577
+	ld   [fr,-60],i0
+	.dlab LBE577
+	.dlab LBE576
+	.dlab LBE573
+	.dlab LBE572
+	.dlab LBE571
+	.dlab LBE566
+	.dlab LBE565
+	.dlab LBE554
+	.dlab LBB578
+	.dlab LBB579
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext135
+Ltext135:
+	.line 319
+	ld   r14,#0x0
+	jc   eq,i0,r14,#L613
+	.dlab LBB580
+	.dlab LBB581
+	.dlab LBB582
+	.dlab LBB583
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext136
+Ltext136:
+	.line 114
+	call &__ZdlPv ; call non-native
+L613:
+	.dlab LBE583
+	.dlab LBE582
+	.dlab LBE581
+	.dlab LBE580
+	.dlab LBE579
+	.dlab LBE578
+	.dlab LBE553
+	.dlab LBE552
+	.dlab LBB584
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext137
+Ltext137:
 	.line 665
 	sll  d2,#0x2
 	add  d2,d4
-	.dlab LBB561
+	.dlab LBB585
 	.line 666
 	ld   [d1],d4
 	.line 667
 	ld   [d1,4],d0
 	.line 668
 	ld   [d1,8],d2
-	.dlab LBE561
-	.dlab LBE560
-	.dlab LBE494
-	.dlab LBE493
+	.dlab LBE585
+	.dlab LBE584
+	.dlab LBE518
+	.dlab LBE517
 	add  sp,#0x20
 	pop  rt,d6
 	ret
-L512:
-	.dlab LBB562
-	.dlab LBB563
-	.line 171
-	ld   d2,i0
-	.dlab LBB564
-	.dlab LBB565
-	.dlab LBB566
-	.dlab LBB567
-	.dlab LBB568
-	.dlab LBB569
-	.dlab LBB570
-	.dlab LBB571
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext125
-Ltext125:
-	.line 330
-	ld   r14,#0x3fffffff
-	jc   gtu,i0,r14,#L571
-	.line 353
-	ld   d4,i0
-	.dlab LBB572
-	.line 346
-	ld   r14,#0x0
-	jc   ne,i0,r14,#L570
-	.dlab LBE572
-	.dlab LBE571
-	.dlab LBE570
-	.dlab LBE569
-	.dlab LBE568
-	.dlab LBE567
-	.dlab LBE566
-	.dlab LBE565
-	.dlab LBE564
-	.dlab LBB573
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext126
-Ltext126:
-	.line 222
-	ld   i1,[d1]
-	.dlab LBB574
-	.dlab LBB575
-	.line 223
-	ld   d0,d5
-	sub  d0,i1
-	ld   i0,d4
-	ld   r14,#0x0
-	jc   eq,d0,r14,#L532
-L574:
-	ld   i2,d0
-	call &_memmove ; call non-native
-	ld   i0,r14
-	add  i0,d0
-	jp   #L532
-L569:
-	ld   r0,[d1,4]
-	jp   #L538
-L573:
-	.dlab LBE575
-	.dlab LBE574
-	.dlab LBE573
-	.dlab LBB576
-	.dlab LBB577
-	.dlab LBB578
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext127
-Ltext127:
-	.line 174
-	call &__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS4_EEE21_M_throw_length_errorEv ; call non-native
-	ld   r1,[fr,-64]
-	ld   r0,[fr,-68]
-	jp   #L505
-L571:
-	.dlab LBE578
-	.dlab LBE577
-	.dlab LBE576
-	.dlab LBB579
-	.dlab LBB580
-	.dlab LBB581
-	.dlab LBB582
-	.dlab LBB583
-	.dlab LBB584
-	.dlab LBB585
+L560:
 	.dlab LBB586
 	.dlab LBB587
+	.line 171
+	ld   d2,i0
 	.dlab LBB588
 	.dlab LBB589
 	.dlab LBB590
 	.dlab LBB591
 	.dlab LBB592
 	.dlab LBB593
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext128
-Ltext128:
-	.line 113
-	ld   i0,#LC10
-	call &_puts ; call non-native
-	ld   i0,#0x1
-	call &_exit ; call non-native
+	.dlab LBB594
+	.dlab LBB595
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext138
+Ltext138:
+	.line 330
+	ld   r14,#0x3fffffff
+	jc   gtu,i0,r14,#L619
+	.line 353
+	ld   d4,i0
+	.dlab LBB596
+	.line 346
+	ld   r14,#0x0
+	jc   ne,i0,r14,#L618
+	.dlab LBE596
+	.dlab LBE595
+	.dlab LBE594
 	.dlab LBE593
 	.dlab LBE592
 	.dlab LBE591
 	.dlab LBE590
 	.dlab LBE589
 	.dlab LBE588
-	.dlab LBE587
-	.dlab LBE586
-	.dlab LBE585
-	.dlab LBE584
-	.dlab LBE583
-	.dlab LBE582
-	.dlab LBE581
-	.dlab LBE580
-	.dlab LBE579
-	.dlab LBE563
-	.dlab LBE562
-	.stabs	"__fill_len:r(7,2)",64,0,109,10
-	.stabs	"__len:r(7,2)",64,0,110,6
-	.stabs	"__new_finish:r(1,136)",64,0,112,4
-	.stabn	192,0,0,LBB494-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:(7,2)",128,0,171,-64
-	.stabn	192,0,0,LBB495-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__size:(3,89)",128,0,172,-68
-	.stabs	"__len:r(7,2)",64,0,175,12
-	.stabn	192,0,0,LBB497-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE497-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE495-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__buf_size:r(7,2)",64,0,347,4
-	.stabn	192,0,0,LBB514-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__y:r(12,28)",64,0,113,12
-	.stabn	192,0,0,LBB519-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE519-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE514-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__first:r(23,92)",64,0,222,13
-	.stabn	192,0,0,LBB520-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:r(7,2)",64,0,223,4
-	.stabn	192,0,0,LBB522-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE522-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE520-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__first:r(1,136)",64,0,478,12
-	.stabs	"__n:r(0,16)",64,0,478,16
-	.stabn	192,0,0,LBB523-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE523-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:r(7,2)",64,0,223,4
-	.stabn	192,0,0,LBB527-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE527-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE494-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__len:r(7,2)",64,0,110,6
-	.stabs	"__new_finish:r(1,136)",64,0,112,4
-	.stabn	192,0,0,LBB563-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__first:r(23,92)",64,0,222,13
-	.stabn	192,0,0,LBB573-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:r(7,2)",64,0,223,4
-	.stabn	192,0,0,LBB575-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE575-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE573-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__n:(7,2)",128,0,171,-64
-	.stabn	192,0,0,LBB576-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__size:(3,89)",128,0,172,-68
-	.stabs	"__len:r(7,2)",64,0,175,12
-	.stabn	192,0,0,LBB578-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE578-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE576-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__buf_size:r(7,2)",64,0,347,4
-	.stabn	192,0,0,LBB588-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"__y:r(12,28)",64,0,113,12
-	.stabn	192,0,0,LBB593-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE593-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE588-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE563-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-Lscope23:
-	.stabs	"_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb:f(0,6)",36,0,109,__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabs	"this:P(0,413)=k(1,310)",64,0,109,5
-	.stabs	"__pos:P(1,254)",64,0,109,9
-	.stabs	"__x:P(1,262)",64,0,109,7
-	.stabs	"__fill_len:p(7,2)",160,0,109,0
-	.stabs	"__atend:p(0,4)",160,0,109,4
-
-.func __ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb, 6, void
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext129
-Ltext129:
-	.line 109
-	push rt,d6
-	sub  sp,#0x20
-	ld   fr,sp
-	add  fr,#0x44
-	ld   d1,i0
-	ld   d5,i1
-	ld   d3,i2
-	ld   d6,[fr]
-	.dlab LBB594
-	.dlab LBB595
-	.dlab LBB596
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext130
-Ltext130:
-	.line 171
-	ld   r1,d6
-	ld   [fr,-64],d6
 	.dlab LBB597
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext139
+Ltext139:
+	.line 222
+	ld   i1,[d1]
 	.dlab LBB598
 	.dlab LBB599
-	.dlab LBB600
-	.line 192
-	ld   r0,[i0,4]
-	ld   r14,[i0]
-	sub  r0,r14
-	sra  r0,#0x2
-	.dlab LBE600
+	.line 223
+	ld   d0,d5
+	sub  d0,i1
+	ld   i0,d4
+	ld   r14,#0x0
+	jc   eq,d0,r14,#L580
+L622:
+	ld   i2,d0
+	call &_memmove ; call non-native
+	ld   i0,r14
+	add  i0,d0
+	jp   #L580
+L617:
+	ld   r0,[d1,4]
+	jp   #L586
+L621:
 	.dlab LBE599
-	ld   [fr,-68],r0
-	.dlab LBB601
-	.dlab LBB602
-	.dlab LBB603
-	.line 194
-	ld   r14,#0x3fffffff
-	.dlab LBE603
-	.dlab LBE602
-	.dlab LBE601
-	.line 193
-	sub  r14,r0
-	jc   ltu,r14,d6,#L645
-L577:
-	.dlab LBB604
-	.dlab LBB605
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext131
-Ltext131:
-	.line 141
-	ld   r14,fr
-	add  r14,#0xffffffbc
-	jc   ltu,r1,r0,#L583
-	add  r14,#0x4
-L583:
-	.dlab LBE605
-	.dlab LBE604
-	ld   i0,[r14]
-	add  i0,r0
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext132
-Ltext132:
-	.line 193
-	ld   r14,#0x3fffffff
-	jc   gtu,i0,r14,#L585
-	jc   geu,i0,r0,#L584
-L585:
-	ld   i0,#0x3fffffff
-L642:
 	.dlab LBE598
 	.dlab LBE597
-	.dlab LBE596
+	.dlab LBB600
+	.dlab LBB601
+	.dlab LBB602
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext140
+Ltext140:
+	.line 174
+	call &__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI16HorizontalLayoutENS_9allocatorIS4_EEE21_M_throw_length_errorEv ; call non-native
+	ld   r1,[fr,-64]
+	ld   r0,[fr,-68]
+	jp   #L553
+L619:
+	.dlab LBE602
+	.dlab LBE601
+	.dlab LBE600
+	.dlab LBB603
+	.dlab LBB604
+	.dlab LBB605
 	.dlab LBB606
 	.dlab LBB607
 	.dlab LBB608
@@ -3950,35 +3748,17 @@ L642:
 	.dlab LBB613
 	.dlab LBB614
 	.dlab LBB615
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext133
-Ltext133:
-	.line 347
-	ld   d0,i0
-	sll  d0,#0x2
 	.dlab LBB616
 	.dlab LBB617
-	.dlab LBB618
-	.dlab LBB619
-	.dlab LBB620
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext134
-Ltext134:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext141
+Ltext141:
 	.line 113
-	ld   i0,d0
-	call &__Znwm ; call non-native
-	ld   i0,r14
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L643
-	.dlab LBE620
-	.dlab LBE619
-	.dlab LBE618
+	ld   i0,#LC6
+	call &_puts ; call non-native
+	ld   i0,#0x1
+	call &_exit ; call non-native
 	.dlab LBE617
 	.dlab LBE616
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext135
-Ltext135:
-	.line 352
-	ld   d2,d0
-	srl  d2,#0x2
-	ld   d4,i0
 	.dlab LBE615
 	.dlab LBE614
 	.dlab LBE613
@@ -3989,31 +3769,217 @@ Ltext135:
 	.dlab LBE608
 	.dlab LBE607
 	.dlab LBE606
+	.dlab LBE605
+	.dlab LBE604
+	.dlab LBE603
+	.dlab LBE587
+	.dlab LBE586
+	.stabs	"__fill_len:r(7,2)",64,0,109,10
+	.stabs	"__len:r(7,2)",64,0,110,6
+	.stabs	"__new_finish:r(1,18)",64,0,112,4
+	.stabn	192,0,0,LBB518-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:(7,2)",128,0,171,-64
+	.stabn	192,0,0,LBB519-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__size:(3,89)",128,0,172,-68
+	.stabs	"__len:r(7,2)",64,0,175,12
+	.stabn	192,0,0,LBB521-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE521-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE519-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__buf_size:r(7,2)",64,0,347,4
+	.stabn	192,0,0,LBB538-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__y:r(12,28)",64,0,113,12
+	.stabn	192,0,0,LBB543-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE543-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE538-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__first:r(23,92)",64,0,222,13
+	.stabn	192,0,0,LBB544-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:r(7,2)",64,0,223,4
+	.stabn	192,0,0,LBB546-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE546-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE544-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__first:r(1,18)",64,0,478,12
+	.stabs	"__n:r(0,16)",64,0,478,16
+	.stabn	192,0,0,LBB547-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE547-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:r(7,2)",64,0,223,4
+	.stabn	192,0,0,LBB551-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE551-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE518-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__len:r(7,2)",64,0,110,6
+	.stabs	"__new_finish:r(1,18)",64,0,112,4
+	.stabn	192,0,0,LBB587-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__first:r(23,92)",64,0,222,13
+	.stabn	192,0,0,LBB597-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:r(7,2)",64,0,223,4
+	.stabn	192,0,0,LBB599-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE599-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE597-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:(7,2)",128,0,171,-64
+	.stabn	192,0,0,LBB600-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__size:(3,89)",128,0,172,-68
+	.stabs	"__len:r(7,2)",64,0,175,12
+	.stabn	192,0,0,LBB602-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE602-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE600-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__buf_size:r(7,2)",64,0,347,4
+	.stabn	192,0,0,LBB612-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__y:r(12,28)",64,0,113,12
+	.stabn	192,0,0,LBB617-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE617-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE612-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE587-__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+Lscope23:
+	.stabs	"_ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb:f(0,6)",36,0,109,__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"this:P(0,493)",64,0,109,5
+	.stabs	"__pos:P(1,136)",64,0,109,9
+	.stabs	"__x:P(1,144)",64,0,109,7
+	.stabs	"__fill_len:p(7,2)",160,0,109,0
+	.stabs	"__atend:p(0,4)",160,0,109,4
+
+.func __ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb, 6, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext142
+Ltext142:
+	.line 109
+	push rt,d6
+	sub  sp,#0x20
+	ld   fr,sp
+	add  fr,#0x44
+	ld   d1,i0
+	ld   d5,i1
+	ld   d3,i2
+	ld   d6,[fr]
+	.dlab LBB618
+	.dlab LBB619
+	.dlab LBB620
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext143
+Ltext143:
+	.line 171
+	ld   r1,d6
+	ld   [fr,-64],d6
 	.dlab LBB621
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext136
-Ltext136:
-	.line 222
-	ld   i1,[d1]
 	.dlab LBB622
 	.dlab LBB623
+	.dlab LBB624
+	.line 192
+	ld   r0,[i0,4]
+	ld   r14,[i0]
+	sub  r0,r14
+	sra  r0,#0x2
+	.dlab LBE624
+	.dlab LBE623
+	ld   [fr,-68],r0
+	.dlab LBB625
+	.dlab LBB626
+	.dlab LBB627
+	.line 194
+	ld   r14,#0x3fffffff
+	.dlab LBE627
+	.dlab LBE626
+	.dlab LBE625
+	.line 193
+	sub  r14,r0
+	jc   ltu,r14,d6,#L693
+L625:
+	.dlab LBB628
+	.dlab LBB629
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext144
+Ltext144:
+	.line 141
+	ld   r14,fr
+	add  r14,#0xffffffbc
+	jc   ltu,r1,r0,#L631
+	add  r14,#0x4
+L631:
+	.dlab LBE629
+	.dlab LBE628
+	ld   i0,[r14]
+	add  i0,r0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext145
+Ltext145:
+	.line 193
+	ld   r14,#0x3fffffff
+	jc   gtu,i0,r14,#L633
+	jc   geu,i0,r0,#L632
+L633:
+	ld   i0,#0x3fffffff
+L690:
+	.dlab LBE622
+	.dlab LBE621
+	.dlab LBE620
+	.dlab LBB630
+	.dlab LBB631
+	.dlab LBB632
+	.dlab LBB633
+	.dlab LBB634
+	.dlab LBB635
+	.dlab LBB636
+	.dlab LBB637
+	.dlab LBB638
+	.dlab LBB639
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext146
+Ltext146:
+	.line 347
+	ld   d0,i0
+	sll  d0,#0x2
+	.dlab LBB640
+	.dlab LBB641
+	.dlab LBB642
+	.dlab LBB643
+	.dlab LBB644
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext147
+Ltext147:
+	.line 113
+	ld   i0,d0
+	call &__Znwm ; call non-native
+	ld   i0,r14
+	ld   r14,#0x0
+	jc   eq,i0,r14,#L691
+	.dlab LBE644
+	.dlab LBE643
+	.dlab LBE642
+	.dlab LBE641
+	.dlab LBE640
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext148
+Ltext148:
+	.line 352
+	ld   d2,d0
+	srl  d2,#0x2
+	ld   d4,i0
+	.dlab LBE639
+	.dlab LBE638
+	.dlab LBE637
+	.dlab LBE636
+	.dlab LBE635
+	.dlab LBE634
+	.dlab LBE633
+	.dlab LBE632
+	.dlab LBE631
+	.dlab LBE630
+	.dlab LBB645
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext149
+Ltext149:
+	.line 222
+	ld   i1,[d1]
+	.dlab LBB646
+	.dlab LBB647
 	.line 223
 	ld   d0,d5
 	sub  d0,i1
 	ld   i0,d4
 	ld   r14,#0x0
-	jc   ne,d0,r14,#L646
-L604:
-	.dlab LBE623
-	.dlab LBE622
-	.dlab LBE621
-	.dlab LBB624
+	jc   ne,d0,r14,#L694
+L652:
+	.dlab LBE647
+	.dlab LBE646
+	.dlab LBE645
+	.dlab LBB648
 	.line 478
 	ld   r0,d6
-	.dlab LBB625
+	.dlab LBB649
 	.line 480
 	ld   r14,#0x0
-	jc   eq,d6,r14,#L640
-L608:
+	jc   eq,d6,r14,#L688
+L656:
 	.line 481
 	ld   r14,[d3]
 	ld   [i0],r14
@@ -4021,779 +3987,1305 @@ L608:
 	add  r0,#0xffffffff
 	add  i0,#0x4
 	ld   r14,#0x0
-	jc   ne,r0,r14,#L608
-L640:
-	.dlab LBE625
-	.dlab LBE624
+	jc   ne,r0,r14,#L656
+L688:
+	.dlab LBE649
+	.dlab LBE648
 	.line 478
 	ld   d0,i0
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext137
-Ltext137:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext150
+Ltext150:
 	.line 115
 	ld.b r1,[fr,4]
 	and  r1,#0xff  ; zero extend
 	ld   r14,#0x0
-	jc   ne,r1,r14,#L641
-	.dlab LBB626
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext138
-Ltext138:
+	jc   ne,r1,r14,#L689
+	.dlab LBB650
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext151
+Ltext151:
 	.line 222
 	ld   r0,[d1,4]
-	.dlab LBB627
-	.dlab LBB628
+	.dlab LBB651
+	.dlab LBB652
 	.line 223
 	ld   d0,r0
 	sub  d0,d5
 	ld   r14,i0
-	jc   eq,d0,r1,#L613
+	jc   eq,d0,r1,#L661
 	ld   i1,d5
 	ld   i2,d0
 	call &_memmove ; call non-native
 	add  r14,d0
 	ld   r0,[d1,4]
-L613:
-	.dlab LBE628
-	.dlab LBE627
-	.dlab LBE626
-	.line 222
-	ld   d0,r14
-L610:
-	.dlab LBB629
-	.dlab LBB630
-	.dlab LBB631
-	.dlab LBB632
-	.dlab LBB633
-	.dlab LBB634
-	.dlab LBB635
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext139
-Ltext139:
-	.line 64
-	ld   [fr,-40],r0
-	.dlab LBE635
-	.dlab LBE634
-	.dlab LBE633
-	.dlab LBE632
-	.dlab LBB636
-	.dlab LBB637
-	.dlab LBB638
-	.dlab LBB639
-	.dlab LBB640
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext140
-Ltext140:
-	.line 182
-	ld   i0,[d1]
-	.dlab LBE640
-	.dlab LBE639
-	.dlab LBB641
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext141
-Ltext141:
-	.line 64
-	ld   [fr,-44],i0
-	.dlab LBE641
-	.dlab LBE638
-	.dlab LBE637
-	.dlab LBE636
-	.dlab LBB642
-	.dlab LBB643
-	.dlab LBB644
-	.dlab LBB645
-	.line 65
-	ld   [fr,-48],r0
-	.dlab LBE645
-	.dlab LBE644
-	.dlab LBB646
-	.dlab LBB647
-	ld   [fr,-52],i0
-	.dlab LBE647
-	.dlab LBE646
-	.dlab LBB648
-	.dlab LBB649
-	.dlab LBB650
-	.dlab LBB651
-	.dlab LBB652
-	ld   [fr,-56],r0
+L661:
 	.dlab LBE652
 	.dlab LBE651
+	.dlab LBE650
+	.line 222
+	ld   d0,r14
+L658:
 	.dlab LBB653
 	.dlab LBB654
-	ld   [fr,-60],i0
-	.dlab LBE654
-	.dlab LBE653
-	.dlab LBE650
-	.dlab LBE649
-	.dlab LBE648
-	.dlab LBE643
-	.dlab LBE642
-	.dlab LBE631
 	.dlab LBB655
 	.dlab LBB656
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext142
-Ltext142:
-	.line 319
-	ld   r14,#0x0
-	jc   eq,i0,r14,#L637
 	.dlab LBB657
 	.dlab LBB658
 	.dlab LBB659
-	.dlab LBB660
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext143
-Ltext143:
-	.line 114
-	call &__ZdlPv ; call non-native
-L637:
-	.dlab LBE660
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext152
+Ltext152:
+	.line 64
+	ld   [fr,-40],r0
 	.dlab LBE659
 	.dlab LBE658
 	.dlab LBE657
 	.dlab LBE656
-	.dlab LBE655
-	.dlab LBE630
-	.dlab LBE629
+	.dlab LBB660
 	.dlab LBB661
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext144
-Ltext144:
+	.dlab LBB662
+	.dlab LBB663
+	.dlab LBB664
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext153
+Ltext153:
+	.line 182
+	ld   i0,[d1]
+	.dlab LBE664
+	.dlab LBE663
+	.dlab LBB665
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext154
+Ltext154:
+	.line 64
+	ld   [fr,-44],i0
+	.dlab LBE665
+	.dlab LBE662
+	.dlab LBE661
+	.dlab LBE660
+	.dlab LBB666
+	.dlab LBB667
+	.dlab LBB668
+	.dlab LBB669
+	.line 65
+	ld   [fr,-48],r0
+	.dlab LBE669
+	.dlab LBE668
+	.dlab LBB670
+	.dlab LBB671
+	ld   [fr,-52],i0
+	.dlab LBE671
+	.dlab LBE670
+	.dlab LBB672
+	.dlab LBB673
+	.dlab LBB674
+	.dlab LBB675
+	.dlab LBB676
+	ld   [fr,-56],r0
+	.dlab LBE676
+	.dlab LBE675
+	.dlab LBB677
+	.dlab LBB678
+	ld   [fr,-60],i0
+	.dlab LBE678
+	.dlab LBE677
+	.dlab LBE674
+	.dlab LBE673
+	.dlab LBE672
+	.dlab LBE667
+	.dlab LBE666
+	.dlab LBE655
+	.dlab LBB679
+	.dlab LBB680
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext155
+Ltext155:
+	.line 319
+	ld   r14,#0x0
+	jc   eq,i0,r14,#L685
+	.dlab LBB681
+	.dlab LBB682
+	.dlab LBB683
+	.dlab LBB684
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext156
+Ltext156:
+	.line 114
+	call &__ZdlPv ; call non-native
+L685:
+	.dlab LBE684
+	.dlab LBE683
+	.dlab LBE682
+	.dlab LBE681
+	.dlab LBE680
+	.dlab LBE679
+	.dlab LBE654
+	.dlab LBE653
+	.dlab LBB685
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext157
+Ltext157:
 	.line 665
 	sll  d2,#0x2
 	add  d2,d4
-	.dlab LBB662
+	.dlab LBB686
 	.line 666
 	ld   [d1],d4
 	.line 667
 	ld   [d1,4],d0
 	.line 668
 	ld   [d1,8],d2
-	.dlab LBE662
-	.dlab LBE661
-	.dlab LBE595
-	.dlab LBE594
+	.dlab LBE686
+	.dlab LBE685
+	.dlab LBE619
+	.dlab LBE618
 	add  sp,#0x20
 	pop  rt,d6
 	ret
-L584:
-	.dlab LBB663
-	.dlab LBB664
-	.line 171
-	ld   d2,i0
-	.dlab LBB665
-	.dlab LBB666
-	.dlab LBB667
-	.dlab LBB668
-	.dlab LBB669
-	.dlab LBB670
-	.dlab LBB671
-	.dlab LBB672
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext145
-Ltext145:
-	.line 330
-	ld   r14,#0x3fffffff
-	jc   gtu,i0,r14,#L643
-	.line 353
-	ld   d4,i0
-	.dlab LBB673
-	.line 346
-	ld   r14,#0x0
-	jc   ne,i0,r14,#L642
-	.dlab LBE673
-	.dlab LBE672
-	.dlab LBE671
-	.dlab LBE670
-	.dlab LBE669
-	.dlab LBE668
-	.dlab LBE667
-	.dlab LBE666
-	.dlab LBE665
-	.dlab LBB674
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext146
-Ltext146:
-	.line 222
-	ld   i1,[d1]
-	.dlab LBB675
-	.dlab LBB676
-	.line 223
-	ld   d0,d5
-	sub  d0,i1
-	ld   i0,d4
-	ld   r14,#0x0
-	jc   eq,d0,r14,#L604
-L646:
-	ld   i2,d0
-	call &_memmove ; call non-native
-	ld   i0,r14
-	add  i0,d0
-	jp   #L604
-L641:
-	ld   r0,[d1,4]
-	jp   #L610
-L645:
-	.dlab LBE676
-	.dlab LBE675
-	.dlab LBE674
-	.dlab LBB677
-	.dlab LBB678
-	.dlab LBB679
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext147
-Ltext147:
-	.line 174
-	call &__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_length_errorEv ; call non-native
-	ld   r1,[fr,-64]
-	ld   r0,[fr,-68]
-	jp   #L577
-L643:
-	.dlab LBE679
-	.dlab LBE678
-	.dlab LBE677
-	.dlab LBB680
-	.dlab LBB681
-	.dlab LBB682
-	.dlab LBB683
-	.dlab LBB684
-	.dlab LBB685
-	.dlab LBB686
+L632:
 	.dlab LBB687
 	.dlab LBB688
+	.line 171
+	ld   d2,i0
 	.dlab LBB689
 	.dlab LBB690
 	.dlab LBB691
 	.dlab LBB692
 	.dlab LBB693
 	.dlab LBB694
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext148
-Ltext148:
-	.line 113
-	ld   i0,#LC10
-	call &_puts ; call non-native
-	ld   i0,#0x1
-	call &_exit ; call non-native
+	.dlab LBB695
+	.dlab LBB696
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext158
+Ltext158:
+	.line 330
+	ld   r14,#0x3fffffff
+	jc   gtu,i0,r14,#L691
+	.line 353
+	ld   d4,i0
+	.dlab LBB697
+	.line 346
+	ld   r14,#0x0
+	jc   ne,i0,r14,#L690
+	.dlab LBE697
+	.dlab LBE696
+	.dlab LBE695
 	.dlab LBE694
 	.dlab LBE693
 	.dlab LBE692
 	.dlab LBE691
 	.dlab LBE690
 	.dlab LBE689
+	.dlab LBB698
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext159
+Ltext159:
+	.line 222
+	ld   i1,[d1]
+	.dlab LBB699
+	.dlab LBB700
+	.line 223
+	ld   d0,d5
+	sub  d0,i1
+	ld   i0,d4
+	ld   r14,#0x0
+	jc   eq,d0,r14,#L652
+L694:
+	ld   i2,d0
+	call &_memmove ; call non-native
+	ld   i0,r14
+	add  i0,d0
+	jp   #L652
+L689:
+	ld   r0,[d1,4]
+	jp   #L658
+L693:
+	.dlab LBE700
+	.dlab LBE699
+	.dlab LBE698
+	.dlab LBB701
+	.dlab LBB702
+	.dlab LBB703
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext160
+Ltext160:
+	.line 174
+	call &__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI5LabelENS_9allocatorIS4_EEE21_M_throw_length_errorEv ; call non-native
+	ld   r1,[fr,-64]
+	ld   r0,[fr,-68]
+	jp   #L625
+L691:
+	.dlab LBE703
+	.dlab LBE702
+	.dlab LBE701
+	.dlab LBB704
+	.dlab LBB705
+	.dlab LBB706
+	.dlab LBB707
+	.dlab LBB708
+	.dlab LBB709
+	.dlab LBB710
+	.dlab LBB711
+	.dlab LBB712
+	.dlab LBB713
+	.dlab LBB714
+	.dlab LBB715
+	.dlab LBB716
+	.dlab LBB717
+	.dlab LBB718
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext161
+Ltext161:
+	.line 113
+	ld   i0,#LC6
+	call &_puts ; call non-native
+	ld   i0,#0x1
+	call &_exit ; call non-native
+	.dlab LBE718
+	.dlab LBE717
+	.dlab LBE716
+	.dlab LBE715
+	.dlab LBE714
+	.dlab LBE713
+	.dlab LBE712
+	.dlab LBE711
+	.dlab LBE710
+	.dlab LBE709
+	.dlab LBE708
+	.dlab LBE707
+	.dlab LBE706
+	.dlab LBE705
+	.dlab LBE704
 	.dlab LBE688
 	.dlab LBE687
-	.dlab LBE686
-	.dlab LBE685
-	.dlab LBE684
-	.dlab LBE683
-	.dlab LBE682
-	.dlab LBE681
-	.dlab LBE680
-	.dlab LBE664
-	.dlab LBE663
+	.stabs	"__fill_len:r(7,2)",64,0,109,10
+	.stabs	"__len:r(7,2)",64,0,110,6
+	.stabs	"__new_finish:r(1,136)",64,0,112,4
+	.stabn	192,0,0,LBB619-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:(7,2)",128,0,171,-64
+	.stabn	192,0,0,LBB620-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__size:(3,89)",128,0,172,-68
+	.stabs	"__len:r(7,2)",64,0,175,12
+	.stabn	192,0,0,LBB622-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE622-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE620-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__buf_size:r(7,2)",64,0,347,4
+	.stabn	192,0,0,LBB639-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__y:r(12,28)",64,0,113,12
+	.stabn	192,0,0,LBB644-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE644-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE639-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__first:r(23,92)",64,0,222,13
+	.stabn	192,0,0,LBB645-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:r(7,2)",64,0,223,4
+	.stabn	192,0,0,LBB647-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE647-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE645-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__first:r(1,136)",64,0,478,12
+	.stabs	"__n:r(0,16)",64,0,478,16
+	.stabn	192,0,0,LBB648-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE648-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:r(7,2)",64,0,223,4
+	.stabn	192,0,0,LBB652-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE652-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE619-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__len:r(7,2)",64,0,110,6
+	.stabs	"__new_finish:r(1,136)",64,0,112,4
+	.stabn	192,0,0,LBB688-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__first:r(23,92)",64,0,222,13
+	.stabn	192,0,0,LBB698-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:r(7,2)",64,0,223,4
+	.stabn	192,0,0,LBB700-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE700-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE698-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__n:(7,2)",128,0,171,-64
+	.stabn	192,0,0,LBB701-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__size:(3,89)",128,0,172,-68
+	.stabs	"__len:r(7,2)",64,0,175,12
+	.stabn	192,0,0,LBB703-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE703-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE701-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__buf_size:r(7,2)",64,0,347,4
+	.stabn	192,0,0,LBB713-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"__y:r(12,28)",64,0,113,12
+	.stabn	192,0,0,LBB718-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE718-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE713-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE688-__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+Lscope24:
+	.stabs	"_ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb:f(0,6)",36,0,109,__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabs	"this:P(0,499)=k(1,310)",64,0,109,5
+	.stabs	"__pos:P(1,254)",64,0,109,9
+	.stabs	"__x:P(1,262)",64,0,109,7
+	.stabs	"__fill_len:p(7,2)",160,0,109,0
+	.stabs	"__atend:p(0,4)",160,0,109,4
+
+.func __ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb, 6, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext162
+Ltext162:
+	.line 109
+	push rt,d6
+	sub  sp,#0x20
+	ld   fr,sp
+	add  fr,#0x44
+	ld   d1,i0
+	ld   d5,i1
+	ld   d3,i2
+	ld   d6,[fr]
+	.dlab LBB719
+	.dlab LBB720
+	.dlab LBB721
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext163
+Ltext163:
+	.line 171
+	ld   r1,d6
+	ld   [fr,-64],d6
+	.dlab LBB722
+	.dlab LBB723
+	.dlab LBB724
+	.dlab LBB725
+	.line 192
+	ld   r0,[i0,4]
+	ld   r14,[i0]
+	sub  r0,r14
+	sra  r0,#0x2
+	.dlab LBE725
+	.dlab LBE724
+	ld   [fr,-68],r0
+	.dlab LBB726
+	.dlab LBB727
+	.dlab LBB728
+	.line 194
+	ld   r14,#0x3fffffff
+	.dlab LBE728
+	.dlab LBE727
+	.dlab LBE726
+	.line 193
+	sub  r14,r0
+	jc   ltu,r14,d6,#L765
+L697:
+	.dlab LBB729
+	.dlab LBB730
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext164
+Ltext164:
+	.line 141
+	ld   r14,fr
+	add  r14,#0xffffffbc
+	jc   ltu,r1,r0,#L703
+	add  r14,#0x4
+L703:
+	.dlab LBE730
+	.dlab LBE729
+	ld   i0,[r14]
+	add  i0,r0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext165
+Ltext165:
+	.line 193
+	ld   r14,#0x3fffffff
+	jc   gtu,i0,r14,#L705
+	jc   geu,i0,r0,#L704
+L705:
+	ld   i0,#0x3fffffff
+L762:
+	.dlab LBE723
+	.dlab LBE722
+	.dlab LBE721
+	.dlab LBB731
+	.dlab LBB732
+	.dlab LBB733
+	.dlab LBB734
+	.dlab LBB735
+	.dlab LBB736
+	.dlab LBB737
+	.dlab LBB738
+	.dlab LBB739
+	.dlab LBB740
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext166
+Ltext166:
+	.line 347
+	ld   d0,i0
+	sll  d0,#0x2
+	.dlab LBB741
+	.dlab LBB742
+	.dlab LBB743
+	.dlab LBB744
+	.dlab LBB745
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext167
+Ltext167:
+	.line 113
+	ld   i0,d0
+	call &__Znwm ; call non-native
+	ld   i0,r14
+	ld   r14,#0x0
+	jc   eq,i0,r14,#L763
+	.dlab LBE745
+	.dlab LBE744
+	.dlab LBE743
+	.dlab LBE742
+	.dlab LBE741
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext168
+Ltext168:
+	.line 352
+	ld   d2,d0
+	srl  d2,#0x2
+	ld   d4,i0
+	.dlab LBE740
+	.dlab LBE739
+	.dlab LBE738
+	.dlab LBE737
+	.dlab LBE736
+	.dlab LBE735
+	.dlab LBE734
+	.dlab LBE733
+	.dlab LBE732
+	.dlab LBE731
+	.dlab LBB746
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext169
+Ltext169:
+	.line 222
+	ld   i1,[d1]
+	.dlab LBB747
+	.dlab LBB748
+	.line 223
+	ld   d0,d5
+	sub  d0,i1
+	ld   i0,d4
+	ld   r14,#0x0
+	jc   ne,d0,r14,#L766
+L724:
+	.dlab LBE748
+	.dlab LBE747
+	.dlab LBE746
+	.dlab LBB749
+	.line 478
+	ld   r0,d6
+	.dlab LBB750
+	.line 480
+	ld   r14,#0x0
+	jc   eq,d6,r14,#L760
+L728:
+	.line 481
+	ld   r14,[d3]
+	ld   [i0],r14
+	.line 480
+	add  r0,#0xffffffff
+	add  i0,#0x4
+	ld   r14,#0x0
+	jc   ne,r0,r14,#L728
+L760:
+	.dlab LBE750
+	.dlab LBE749
+	.line 478
+	ld   d0,i0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.c",132,0,0,Ltext170
+Ltext170:
+	.line 115
+	ld.b r1,[fr,4]
+	and  r1,#0xff  ; zero extend
+	ld   r14,#0x0
+	jc   ne,r1,r14,#L761
+	.dlab LBB751
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext171
+Ltext171:
+	.line 222
+	ld   r0,[d1,4]
+	.dlab LBB752
+	.dlab LBB753
+	.line 223
+	ld   d0,r0
+	sub  d0,d5
+	ld   r14,i0
+	jc   eq,d0,r1,#L733
+	ld   i1,d5
+	ld   i2,d0
+	call &_memmove ; call non-native
+	add  r14,d0
+	ld   r0,[d1,4]
+L733:
+	.dlab LBE753
+	.dlab LBE752
+	.dlab LBE751
+	.line 222
+	ld   d0,r14
+L730:
+	.dlab LBB754
+	.dlab LBB755
+	.dlab LBB756
+	.dlab LBB757
+	.dlab LBB758
+	.dlab LBB759
+	.dlab LBB760
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext172
+Ltext172:
+	.line 64
+	ld   [fr,-40],r0
+	.dlab LBE760
+	.dlab LBE759
+	.dlab LBE758
+	.dlab LBE757
+	.dlab LBB761
+	.dlab LBB762
+	.dlab LBB763
+	.dlab LBB764
+	.dlab LBB765
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext173
+Ltext173:
+	.line 182
+	ld   i0,[d1]
+	.dlab LBE765
+	.dlab LBE764
+	.dlab LBB766
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_iterator.h",132,0,0,Ltext174
+Ltext174:
+	.line 64
+	ld   [fr,-44],i0
+	.dlab LBE766
+	.dlab LBE763
+	.dlab LBE762
+	.dlab LBE761
+	.dlab LBB767
+	.dlab LBB768
+	.dlab LBB769
+	.dlab LBB770
+	.line 65
+	ld   [fr,-48],r0
+	.dlab LBE770
+	.dlab LBE769
+	.dlab LBB771
+	.dlab LBB772
+	ld   [fr,-52],i0
+	.dlab LBE772
+	.dlab LBE771
+	.dlab LBB773
+	.dlab LBB774
+	.dlab LBB775
+	.dlab LBB776
+	.dlab LBB777
+	ld   [fr,-56],r0
+	.dlab LBE777
+	.dlab LBE776
+	.dlab LBB778
+	.dlab LBB779
+	ld   [fr,-60],i0
+	.dlab LBE779
+	.dlab LBE778
+	.dlab LBE775
+	.dlab LBE774
+	.dlab LBE773
+	.dlab LBE768
+	.dlab LBE767
+	.dlab LBE756
+	.dlab LBB780
+	.dlab LBB781
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext175
+Ltext175:
+	.line 319
+	ld   r14,#0x0
+	jc   eq,i0,r14,#L757
+	.dlab LBB782
+	.dlab LBB783
+	.dlab LBB784
+	.dlab LBB785
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext176
+Ltext176:
+	.line 114
+	call &__ZdlPv ; call non-native
+L757:
+	.dlab LBE785
+	.dlab LBE784
+	.dlab LBE783
+	.dlab LBE782
+	.dlab LBE781
+	.dlab LBE780
+	.dlab LBE755
+	.dlab LBE754
+	.dlab LBB786
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext177
+Ltext177:
+	.line 665
+	sll  d2,#0x2
+	add  d2,d4
+	.dlab LBB787
+	.line 666
+	ld   [d1],d4
+	.line 667
+	ld   [d1,4],d0
+	.line 668
+	ld   [d1,8],d2
+	.dlab LBE787
+	.dlab LBE786
+	.dlab LBE720
+	.dlab LBE719
+	add  sp,#0x20
+	pop  rt,d6
+	ret
+L704:
+	.dlab LBB788
+	.dlab LBB789
+	.line 171
+	ld   d2,i0
+	.dlab LBB790
+	.dlab LBB791
+	.dlab LBB792
+	.dlab LBB793
+	.dlab LBB794
+	.dlab LBB795
+	.dlab LBB796
+	.dlab LBB797
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext178
+Ltext178:
+	.line 330
+	ld   r14,#0x3fffffff
+	jc   gtu,i0,r14,#L763
+	.line 353
+	ld   d4,i0
+	.dlab LBB798
+	.line 346
+	ld   r14,#0x0
+	jc   ne,i0,r14,#L762
+	.dlab LBE798
+	.dlab LBE797
+	.dlab LBE796
+	.dlab LBE795
+	.dlab LBE794
+	.dlab LBE793
+	.dlab LBE792
+	.dlab LBE791
+	.dlab LBE790
+	.dlab LBB799
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext179
+Ltext179:
+	.line 222
+	ld   i1,[d1]
+	.dlab LBB800
+	.dlab LBB801
+	.line 223
+	ld   d0,d5
+	sub  d0,i1
+	ld   i0,d4
+	ld   r14,#0x0
+	jc   eq,d0,r14,#L724
+L766:
+	ld   i2,d0
+	call &_memmove ; call non-native
+	ld   i0,r14
+	add  i0,d0
+	jp   #L724
+L761:
+	ld   r0,[d1,4]
+	jp   #L730
+L765:
+	.dlab LBE801
+	.dlab LBE800
+	.dlab LBE799
+	.dlab LBB802
+	.dlab LBB803
+	.dlab LBB804
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext180
+Ltext180:
+	.line 174
+	call &__ZNK11stlpmtx_std4priv12_Vector_baseIPN8NativeUI6ButtonENS_9allocatorIS4_EEE21_M_throw_length_errorEv ; call non-native
+	ld   r1,[fr,-64]
+	ld   r0,[fr,-68]
+	jp   #L697
+L763:
+	.dlab LBE804
+	.dlab LBE803
+	.dlab LBE802
+	.dlab LBB805
+	.dlab LBB806
+	.dlab LBB807
+	.dlab LBB808
+	.dlab LBB809
+	.dlab LBB810
+	.dlab LBB811
+	.dlab LBB812
+	.dlab LBB813
+	.dlab LBB814
+	.dlab LBB815
+	.dlab LBB816
+	.dlab LBB817
+	.dlab LBB818
+	.dlab LBB819
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext181
+Ltext181:
+	.line 113
+	ld   i0,#LC6
+	call &_puts ; call non-native
+	ld   i0,#0x1
+	call &_exit ; call non-native
+	.dlab LBE819
+	.dlab LBE818
+	.dlab LBE817
+	.dlab LBE816
+	.dlab LBE815
+	.dlab LBE814
+	.dlab LBE813
+	.dlab LBE812
+	.dlab LBE811
+	.dlab LBE810
+	.dlab LBE809
+	.dlab LBE808
+	.dlab LBE807
+	.dlab LBE806
+	.dlab LBE805
+	.dlab LBE789
+	.dlab LBE788
 	.stabs	"__fill_len:r(7,2)",64,0,109,10
 	.stabs	"__len:r(7,2)",64,0,110,6
 	.stabs	"__new_finish:r(1,254)",64,0,112,4
-	.stabn	192,0,0,LBB595-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB720-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__n:(7,2)",128,0,171,-64
-	.stabn	192,0,0,LBB596-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB721-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__size:(3,89)",128,0,172,-68
 	.stabs	"__len:r(7,2)",64,0,175,12
-	.stabn	192,0,0,LBB598-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE598-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE596-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB723-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE723-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE721-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__buf_size:r(7,2)",64,0,347,4
-	.stabn	192,0,0,LBB615-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB740-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__y:r(12,28)",64,0,113,12
-	.stabn	192,0,0,LBB620-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE620-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE615-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB745-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE745-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE740-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__first:r(23,92)",64,0,222,13
-	.stabn	192,0,0,LBB621-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB746-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__n:r(7,2)",64,0,223,4
-	.stabn	192,0,0,LBB623-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE623-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE621-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB748-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE748-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE746-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__first:r(1,254)",64,0,478,12
 	.stabs	"__n:r(0,16)",64,0,478,16
-	.stabn	192,0,0,LBB624-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE624-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB749-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE749-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__n:r(7,2)",64,0,223,4
-	.stabn	192,0,0,LBB628-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE628-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE595-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB753-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE753-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE720-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__len:r(7,2)",64,0,110,6
 	.stabs	"__new_finish:r(1,254)",64,0,112,4
-	.stabn	192,0,0,LBB664-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB789-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__first:r(23,92)",64,0,222,13
-	.stabn	192,0,0,LBB674-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB799-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__n:r(7,2)",64,0,223,4
-	.stabn	192,0,0,LBB676-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE676-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE674-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB801-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE801-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE799-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__n:(7,2)",128,0,171,-64
-	.stabn	192,0,0,LBB677-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB802-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__size:(3,89)",128,0,172,-68
 	.stabs	"__len:r(7,2)",64,0,175,12
-	.stabn	192,0,0,LBB679-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE679-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE677-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB804-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE804-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE802-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__buf_size:r(7,2)",64,0,347,4
-	.stabn	192,0,0,LBB689-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	192,0,0,LBB814-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
 	.stabs	"__y:r(12,28)",64,0,113,12
-	.stabn	192,0,0,LBB694-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE694-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE689-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-	.stabn	224,0,0,LBE664-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
-Lscope24:
+	.stabn	192,0,0,LBB819-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE819-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE814-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+	.stabn	224,0,0,LBE789-__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb
+Lscope25:
 .data
-LC11:
-	.ascii "Sterownik ETH by Brzeszczot\0"
-LC12:
-	.ascii "http://192.168.0.150/\0"
-LC13:
+LC7:
+	.ascii "Sterownik ETH by Brzeszczot, 2016\0"
+LC8:
+	.ascii "http://192.168.0.150/Pio?\0"
+LC9:
 	.ascii "center\0"
-LC14:
+LC10:
+	.ascii "Od\305\233wie\305\274 WE/WY\0"
+LC11:
 	.ascii "Przeka\305\272nik nr \0"
+LC12:
+	.ascii "--\0"
+LC13:
+	.ascii "Cyfr 1:\0"
+LC14:
+	.ascii "Cyfr 2:\0"
 LC15:
-	.ascii "W\305\202\304\205czony\0"
+	.ascii "Cyfr 3:\0"
+LC16:
+	.ascii "Cyfr 4:\0"
+LC17:
+	.ascii "Analog 5:\0"
+LC18:
+	.ascii "Analog 6:\0"
+LC19:
+	.ascii "Analog 7:\0"
+LC20:
+	.ascii "Analog 8:\0"
 .code
-	.stabs	"_ZN10MainScreen8createUIEv:F(0,6)",36,0,25,__ZN10MainScreen8createUIEv
-	.stabs	"this:P(0,404)",64,0,25,8
+	.stabs	"_ZN10MainScreen8createUIEv:F(0,6)",36,0,27,__ZN10MainScreen8createUIEv
+	.stabs	"this:P(0,489)",64,0,27,7
 	.global	__ZN10MainScreen8createUIEv
 
 .func __ZN10MainScreen8createUIEv, 1, void
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext149
-Ltext149:
-	.line 25
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext182
+Ltext182:
+	.line 27
 	push rt,d7
 	sub  sp,#0x54
 	ld   fr,sp
 	add  fr,#0x7c
-	ld   d4,i0
-	.dlab LBB695
-	.dlab LBB696
-	.line 26
+	ld   d3,i0
+	.dlab LBB820
+	.dlab LBB821
+	.line 28
 	ld   i0,#0x3c
 	call &__Znwm ; call non-native
 	ld   d1,r14
 	ld   r14,#0x0
-	jc   ne,d1,r14,#L682
-L648:
-	ld   [d4,84],d1
-	.line 28
+	jc   ne,d1,r14,#L830
+L768:
+	ld   [d3,84],d1
+	.line 30
 	ld   r14,[d1]
 	ld   d0,[r14,104]
 	ld   i0,d1
 	call d0 ; call non-native
-	.line 29
-	ld   i0,[d4,84]
+	.line 31
+	ld   i0,[d3,84]
 	ld   r14,[i0]
 	ld   d0,[r14,108]
 	call d0 ; call non-native
-	.line 31
-	ld   i0,d4
-	ld   i1,[d4,84]
-	call &__ZN8NativeUI6Screen13setMainWidgetEPNS_6WidgetE ; call non-native
 	.line 33
+	ld   i0,d3
+	ld   i1,[d3,84]
+	call &__ZN8NativeUI6Screen13setMainWidgetEPNS_6WidgetE ; call non-native
+	.line 35
 	ld   i0,#0x30
 	call &__Znwm ; call non-native
 	ld   d1,r14
 	ld   r14,#0x0
-	jc   ne,d1,r14,#L683
-L649:
-	ld   [d4,88],d1
-	.line 36
+	jc   ne,d1,r14,#L831
+L769:
+	ld   [d3,100],d1
+	.line 38
 	ld   r14,[d1]
 	ld   d0,[r14,104]
 	ld   i0,d1
 	call d0 ; call non-native
-	.line 37
-	ld   i0,[d4,88]
+	.line 39
+	ld   i0,[d3,100]
 	ld   r14,[i0]
 	ld   d0,[r14,116]
 	call d0 ; call non-native
-	.line 38
-	ld   d2,fr
-	add  d2,#0xffffffd4
-	ld   i0,d2
-	ld   i1,#LC11
+	.line 40
+	ld   d5,fr
+	add  d5,#0xffffffd4
+	ld   i0,d5
+	ld   i1,#LC7
 	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
-	ld   i0,[d4,88]
+	ld   i0,[d3,100]
 	ld   r14,[i0]
 	ld   d0,[r14,160]
-	ld   i1,d2
+	ld   i1,d5
 	call d0 ; call non-native
-	ld   i0,d2
+	ld   i0,d5
 	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.line 39
-	ld   i0,[d4,84]
+	.line 41
+	ld   i0,[d3,84]
 	ld   r14,[i0]
 	ld   d0,[r14,52]
-	ld   i1,[d4,88]
-	call d0 ; call non-native
-	.line 41
-	ld   i0,#0x3c
-	call &__Znwm ; call non-native
-	ld   d1,r14
-	ld   r14,#0x0
-	jc   ne,d1,r14,#L684
-L650:
-	ld   [d4,92],d1
-	.line 42
-	ld   r14,[d1]
-	ld   d0,[r14,104]
-	ld   i0,d1
+	ld   i1,[d3,100]
 	call d0 ; call non-native
 	.line 43
-	ld   i0,[d4,92]
-	ld   r14,[i0]
-	ld   d0,[r14,116]
-	call d0 ; call non-native
-	.line 44
-	ld   i0,d2
-	ld   i1,#LC12
-	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
-	ld   i0,[d4,92]
-	ld   r14,[i0]
-	ld   d0,[r14,160]
-	ld   i1,d2
-	call d0 ; call non-native
-	ld   i0,d2
-	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.line 46
-	ld   i0,[d4,84]
-	ld   r14,[i0]
-	ld   d0,[r14,52]
-	ld   i1,[d4,92]
-	call d0 ; call non-native
-	.line 48
 	ld   i0,#0x3c
 	call &__Znwm ; call non-native
 	ld   d1,r14
 	ld   r14,#0x0
-	jc   ne,d1,r14,#L685
-L651:
-	ld   [d4,96],d1
-	.line 49
+	jc   ne,d1,r14,#L832
+L770:
+	ld   [d3,104],d1
+	.line 44
 	ld   r14,[d1]
 	ld   d0,[r14,104]
 	ld   i0,d1
 	call d0 ; call non-native
-	.line 51
-	ld   i0,d2
-	ld   i1,#LC13
-	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
-	ld   i0,[d4,96]
-	ld   r14,[i0]
-	ld   d0,[r14,172]
-	ld   i1,d2
-	call d0 ; call non-native
-	ld   i0,d2
-	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.line 52
-	ld   i0,d2
-	ld   i1,#LC13
-	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
-	ld   i0,[d4,96]
-	ld   r14,[i0]
-	ld   d0,[r14,168]
-	ld   i1,d2
-	call d0 ; call non-native
-	ld   i0,d2
-	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.line 53
-	ld   i0,d2
-	ld   i1,#LC2
-	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
-	ld   i0,[d4,96]
-	ld   r14,[i0]
-	ld   d0,[r14,160]
-	ld   i1,d2
-	call d0 ; call non-native
-	ld   i0,d2
-	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.line 54
-	ld   i0,[d4,84]
-	ld   r14,[i0]
-	ld   d0,[r14,52]
-	ld   i1,[d4,96]
-	call d0 ; call non-native
-	.line 55
-	ld   r14,#0x1
-	ld.b [d4,100],r14
-	.dlab LBB697
-	.line 57
-	ld   r14,#0x0
-	ld   [fr,-116],r14
-	ld   d7,d4
-	add  d7,#0x68
-	ld   d6,d4
-	add  d6,#0x74
-	ld   d5,d4
-	add  d5,#0x80
-	jp   #L679
-L655:
-	.dlab LBB698
-	.dlab LBB699
-	.line 59
-	ld   [fr,-92],d1
-	.line 60
-	ld   r14,[d1]
-	ld   d0,[r14,104]
-	ld   i0,d1
-	call d0 ; call non-native
-	.line 61
-	ld   i0,[fr,-92]
+	.line 45
+	ld   i0,[d3,104]
 	ld   r14,[i0]
 	ld   d0,[r14,116]
+	call d0 ; call non-native
+	.line 50
+	ld   i0,d5
+	ld   i1,#LC8
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   i0,[d3,104]
+	ld   r14,[i0]
+	ld   d0,[r14,160]
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 53
+	ld   i0,[d3,84]
+	ld   r14,[i0]
+	ld   d0,[r14,52]
+	ld   i1,[d3,104]
+	call d0 ; call non-native
+	.line 55
+	ld   i0,#0x3c
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   ne,d1,r14,#L833
+L773:
+	ld   [d3,108],d1
+	.line 56
+	ld   r14,[d1]
+	ld   d0,[r14,104]
+	ld   i0,d1
+	call d0 ; call non-native
+	.line 58
+	ld   i0,d5
+	ld   i1,#LC9
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   i0,[d3,108]
+	ld   r14,[i0]
+	ld   d0,[r14,172]
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 59
+	ld   i0,d5
+	ld   i1,#LC9
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   i0,[d3,108]
+	ld   r14,[i0]
+	ld   d0,[r14,168]
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 60
+	ld   i0,d5
+	ld   i1,#LC10
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   i0,[d3,108]
+	ld   r14,[i0]
+	ld   d0,[r14,160]
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 61
+	ld   i0,[d3,84]
+	ld   r14,[i0]
+	ld   d0,[r14,52]
+	ld   i1,[d3,108]
 	call d0 ; call non-native
 	.line 63
 	ld   i0,#0x3c
 	call &__Znwm ; call non-native
+	ld   d0,r14
+	ld   r14,#0x0
+	jc   ne,d0,r14,#L834
+L774:
+	ld   [d3,88],d0
+	.line 66
+	ld   i0,#0x3c
+	call &__Znwm ; call non-native
+	ld   d0,r14
+	ld   r14,#0x0
+	jc   ne,d0,r14,#L835
+L775:
+	ld   [d3,92],d0
+	.line 69
+	ld   i0,#0x3c
+	call &__Znwm ; call non-native
 	ld   d1,r14
 	ld   r14,#0x0
-	jc   ne,d1,r14,#L686
-L656:
+	jc   ne,d1,r14,#L836
+L776:
+	ld   [d3,96],d1
+	.line 70
+	ld   r14,[d1]
+	ld   d0,[r14,96]
+	ld   i0,d1
+	ld   i1,#0xc8
+	call d0 ; call non-native
+	.line 74
+	ld   i0,[d3,88]
+	ld   r14,[i0]
+	ld   d0,[r14,52]
+	ld   i1,[d3,92]
+	call d0 ; call non-native
+	.line 75
+	ld   i0,[d3,88]
+	ld   r14,[i0]
+	ld   d0,[r14,52]
+	ld   i1,[d3,96]
+	call d0 ; call non-native
+	.line 76
+	ld   i0,[d3,84]
+	ld   r14,[i0]
+	ld   d0,[r14,52]
+	ld   i1,[d3,88]
+	call d0 ; call non-native
+	.dlab LBB822
+	.line 78
+	ld   r14,#0x0
+	ld   [fr,-116],r14
+	ld   d7,d3
+	add  d7,#0x70
+	ld   d6,d3
+	add  d6,#0x7c
+	ld   d4,d3
+	add  d4,#0x88
+	jp   #L804
+L780:
+	.dlab LBB823
+	.dlab LBB824
+	.line 80
+	ld   [fr,-92],d1
+	.line 81
+	ld   r14,[d1]
+	ld   d0,[r14,104]
+	ld   i0,d1
+	call d0 ; call non-native
+	.line 84
+	ld   i0,#0x3c
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   ne,d1,r14,#L837
+L781:
 	ld   [fr,-108],d1
-	.line 64
+	.line 85
 	ld   r14,[d1]
 	ld   d0,[r14,116]
 	ld   i0,d1
 	call d0 ; call non-native
-	.line 65
-	ld   i0,d2
-	ld   i1,#LC13
+	.line 86
+	ld   i0,d5
+	ld   i1,#LC9
 	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
 	ld   i0,[fr,-108]
 	ld   r14,[i0]
 	ld   d0,[r14,172]
-	ld   i1,d2
+	ld   i1,d5
 	call d0 ; call non-native
-	ld   i0,d2
+	ld   i0,d5
 	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.line 66
-	ld   i0,d2
-	ld   i1,#LC13
+	.line 87
+	ld   i0,d5
+	ld   i1,#LC9
 	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
 	ld   i0,[fr,-108]
 	ld   r14,[i0]
 	ld   d0,[r14,168]
-	ld   i1,d2
+	ld   i1,d5
 	call d0 ; call non-native
-	ld   i0,d2
+	ld   i0,d5
 	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.line 69
+	.line 90
 	ld   i0,#0xffffffb4
 	add  i0,fr
-	ld   i1,#LC14
+	ld   i1,#LC11
 	ld   i2,#0x10
 	call &_memcpy ; call non-native
-	.line 70
-	ld   d3,[fr,-116]
-	add  d3,#0x1
-	ld   i0,d3
+	.line 91
+	ld   d2,[fr,-116]
+	add  d2,#0x1
+	ld   i0,d2
 	ld   i1,#0xffffffa8
 	add  i1,fr
 	ld   i2,#0xa
 	call &_itoa ; call non-native
-	.line 71
+	.line 92
 	ld   i0,#0xffffffb4
 	add  i0,fr
 	ld   i1,#0xffffffa8
 	add  i1,fr
 	call &_strcat ; call non-native
-	.line 72
-	ld   i0,d2
+	.line 93
+	ld   i0,d5
 	ld   i1,#0xffffffb4
 	add  i1,fr
 	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
 	ld   i0,[fr,-108]
 	ld   r14,[i0]
 	ld   d0,[r14,160]
-	ld   i1,d2
+	ld   i1,d5
 	call d0 ; call non-native
-	ld   i0,d2
+	ld   i0,d5
 	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.line 73
+	.line 94
 	ld   i0,[fr,-92]
 	ld   r14,[i0]
 	ld   d0,[r14,52]
 	ld   i1,[fr,-108]
 	call d0 ; call non-native
-	.line 75
+	.line 96
 	ld   i0,#0x30
 	call &__Znwm ; call non-native
 	ld   d1,r14
 	ld   r14,#0x0
-	jc   ne,d1,r14,#L687
-L657:
+	jc   ne,d1,r14,#L838
+L782:
 	ld   [fr,-100],d1
-	.line 76
+	.line 98
 	ld   r14,[d1]
 	ld   d0,[r14,116]
 	ld   i0,d1
 	call d0 ; call non-native
-	.line 77
-	ld   i0,d2
-	ld   i1,#LC15
+	.line 99
+	ld   i0,d5
+	ld   i1,#LC12
 	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
 	ld   i0,[fr,-100]
 	ld   r14,[i0]
 	ld   d0,[r14,160]
-	ld   i1,d2
+	ld   i1,d5
 	call d0 ; call non-native
-	ld   i0,d2
+	ld   i0,d5
 	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.line 78
+	.line 100
 	ld   i0,[fr,-92]
 	ld   r14,[i0]
 	ld   d0,[r14,52]
 	ld   i1,[fr,-100]
 	call d0 ; call non-native
-	.dlab LBB700
-	.dlab LBB701
-	.dlab LBB702
-	.dlab LBB703
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext150
-Ltext150:
+	.dlab LBB825
+	.dlab LBB826
+	.dlab LBB827
+	.dlab LBB828
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext183
+Ltext183:
 	.line 380
 	ld   i1,[d7,4]
 	ld   r14,[d7,8]
-	jc   eq,i1,r14,#L658
-	.dlab LBB704
-	.dlab LBB705
-	.dlab LBB706
-	.dlab LBB707
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext151
-Ltext151:
+	jc   eq,i1,r14,#L783
+	.dlab LBB829
+	.dlab LBB830
+	.dlab LBB831
+	.dlab LBB832
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext184
+Ltext184:
 	.line 126
 	ld   r14,[fr,-92]
 	ld   [i1],r14
-	.dlab LBE707
-	.dlab LBE706
-	.dlab LBE705
-	.dlab LBE704
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext152
-Ltext152:
+	.dlab LBE832
+	.dlab LBE831
+	.dlab LBE830
+	.dlab LBE829
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext185
+Ltext185:
 	.line 382
 	add  i1,#0x4
 	ld   [d7,4],i1
-L664:
-	.dlab LBE703
-	.dlab LBE702
-	.dlab LBE701
-	.dlab LBE700
-	.dlab LBB708
-	.dlab LBB709
-	.dlab LBB710
-	.dlab LBB711
+L789:
+	.dlab LBE828
+	.dlab LBE827
+	.dlab LBE826
+	.dlab LBE825
+	.dlab LBB833
+	.dlab LBB834
+	.dlab LBB835
+	.dlab LBB836
 	.line 380
 	ld   i1,[d6,4]
 	ld   r14,[d6,8]
-	jc   eq,i1,r14,#L665
-	.dlab LBB712
-	.dlab LBB713
-	.dlab LBB714
-	.dlab LBB715
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext153
-Ltext153:
+	jc   eq,i1,r14,#L790
+	.dlab LBB837
+	.dlab LBB838
+	.dlab LBB839
+	.dlab LBB840
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext186
+Ltext186:
 	.line 126
 	ld   r14,[fr,-100]
 	ld   [i1],r14
-	.dlab LBE715
-	.dlab LBE714
-	.dlab LBE713
-	.dlab LBE712
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext154
-Ltext154:
+	.dlab LBE840
+	.dlab LBE839
+	.dlab LBE838
+	.dlab LBE837
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext187
+Ltext187:
 	.line 382
 	add  i1,#0x4
 	ld   [d6,4],i1
-	.dlab LBE711
-	.dlab LBE710
-	.dlab LBE709
-	.dlab LBE708
-	.dlab LBB716
-	.dlab LBB717
-	.dlab LBB718
-	.dlab LBB719
+	.dlab LBE836
+	.dlab LBE835
+	.dlab LBE834
+	.dlab LBE833
+	.dlab LBB841
+	.dlab LBB842
+	.dlab LBB843
+	.dlab LBB844
 	.line 380
-	ld   i1,[d5,4]
-	ld   r14,[d5,8]
-	jc   eq,i1,r14,#L672
-L689:
-	.dlab LBB720
-	.dlab LBB721
-	.dlab LBB722
-	.dlab LBB723
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext155
-Ltext155:
+	ld   i1,[d4,4]
+	ld   r14,[d4,8]
+	jc   eq,i1,r14,#L797
+L840:
+	.dlab LBB845
+	.dlab LBB846
+	.dlab LBB847
+	.dlab LBB848
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext188
+Ltext188:
 	.line 126
 	ld   r14,[fr,-108]
 	ld   [i1],r14
-	.dlab LBE723
-	.dlab LBE722
-	.dlab LBE721
-	.dlab LBE720
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext156
-Ltext156:
+	.dlab LBE848
+	.dlab LBE847
+	.dlab LBE846
+	.dlab LBE845
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext189
+Ltext189:
 	.line 382
 	add  i1,#0x4
-	ld   [d5,4],i1
-	.dlab LBE719
-	.dlab LBE718
-	.dlab LBE717
-	.dlab LBE716
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext157
-Ltext157:
-	.line 84
-	ld   i0,[d4,84]
+	ld   [d4,4],i1
+	.dlab LBE844
+	.dlab LBE843
+	.dlab LBE842
+	.dlab LBE841
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext190
+Ltext190:
+	.line 106
+	ld   i0,[d3,92]
 	ld   r14,[i0]
 	ld   d0,[r14,52]
 	ld   i1,[fr,-92]
 	call d0 ; call non-native
-	.dlab LBE699
-	.dlab LBE698
-	.line 57
-	ld   [fr,-116],d3
+	.dlab LBE824
+	.dlab LBE823
+	.line 78
+	ld   [fr,-116],d2
 	ld   r14,#0x7
-	jc   gt,d3,r14,#L688
-L679:
-	.dlab LBB724
-	.dlab LBB725
-	.line 59
+	jc   gt,d2,r14,#L839
+L804:
+	.dlab LBB849
+	.dlab LBB850
+	.line 80
 	ld   i0,#0x3c
 	call &__Znwm ; call non-native
 	ld   d1,r14
 	ld   r14,#0x0
-	jc   eq,d1,r14,#L655
+	jc   eq,d1,r14,#L780
 	ld   i0,d1
 	call &__ZN8NativeUI16HorizontalLayoutC1Ev ; call non-native
 	ld   [fr,-92],d1
-	.line 60
+	.line 81
 	ld   r14,[d1]
 	ld   d0,[r14,104]
 	ld   i0,d1
 	call d0 ; call non-native
-	.line 61
-	ld   i0,[fr,-92]
-	ld   r14,[i0]
-	ld   d0,[r14,116]
-	call d0 ; call non-native
-	.line 63
+	.line 84
 	ld   i0,#0x3c
 	call &__Znwm ; call non-native
 	ld   d1,r14
 	ld   r14,#0x0
-	jc   eq,d1,r14,#L656
-L686:
+	jc   eq,d1,r14,#L781
+L837:
 	ld   i0,d1
 	call &__ZN8NativeUI6ButtonC1Ev ; call non-native
-	jp   #L656
-L687:
-	.line 75
+	jp   #L781
+L838:
+	.line 96
 	ld   i0,d1
 	call &__ZN8NativeUI5LabelC1Ev ; call non-native
-	jp   #L657
-L665:
-	.dlab LBB726
-	.dlab LBB727
-	.dlab LBB728
-	.dlab LBB729
-	.dlab LBB730
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext158
-Ltext158:
+	jp   #L782
+L790:
+	.dlab LBB851
+	.dlab LBB852
+	.dlab LBB853
+	.dlab LBB854
+	.dlab LBB855
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext191
+Ltext191:
 	.line 386
 	ld   r14,#0x1
 	ld   [sp],r14
@@ -4804,70 +5296,369 @@ Ltext158:
 	ld   i3,fr
 	add  i3,#0xffffff9b
 	call &__ZN11stlpmtx_std6vectorIPN8NativeUI5LabelENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb ; call non-native
-	.dlab LBE730
-	.dlab LBE729
-	.dlab LBE728
-	.dlab LBE727
-	.dlab LBE726
-	.dlab LBB731
-	.dlab LBB732
-	.dlab LBB733
-	.dlab LBB734
+	.dlab LBE855
+	.dlab LBE854
+	.dlab LBE853
+	.dlab LBE852
+	.dlab LBE851
+	.dlab LBB856
+	.dlab LBB857
+	.dlab LBB858
+	.dlab LBB859
 	.line 380
-	ld   i1,[d5,4]
-	ld   r14,[d5,8]
-	jc   ne,i1,r14,#L689
-L672:
-	.dlab LBB735
+	ld   i1,[d4,4]
+	ld   r14,[d4,8]
+	jc   ne,i1,r14,#L840
+L797:
+	.dlab LBB860
 	.line 386
 	ld   r14,#0x1
 	ld   [sp],r14
 	ld.b [sp,4],r14
-	ld   i0,d5
+	ld   i0,d4
 	ld   i2,#0xffffff94
 	add  i2,fr
 	ld   i3,fr
 	add  i3,#0xffffff93
 	call &__ZN11stlpmtx_std6vectorIPN8NativeUI6ButtonENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb ; call non-native
-	.dlab LBE735
-	.dlab LBE734
-	.dlab LBE733
-	.dlab LBE732
-	.dlab LBE731
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext159
-Ltext159:
-	.line 84
-	ld   i0,[d4,84]
+	.dlab LBE860
+	.dlab LBE859
+	.dlab LBE858
+	.dlab LBE857
+	.dlab LBE856
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext192
+Ltext192:
+	.line 106
+	ld   i0,[d3,92]
 	ld   r14,[i0]
 	ld   d0,[r14,52]
 	ld   i1,[fr,-92]
 	call d0 ; call non-native
-	.dlab LBE725
-	.dlab LBE724
-	.line 57
-	ld   [fr,-116],d3
+	.dlab LBE850
+	.dlab LBE849
+	.line 78
+	ld   [fr,-116],d2
 	ld   r14,#0x7
-	jc   le,d3,r14,#L679
-L688:
-	.dlab LBE697
-	.dlab LBE696
-	.dlab LBE695
-	add  sp,#0x54
-	pop  rt,d7
-	ret
-L658:
-	.dlab LBB736
-	.dlab LBB737
-	.dlab LBB738
-	.dlab LBB739
-	.dlab LBB740
-	.dlab LBB741
-	.dlab LBB742
-	.dlab LBB743
-	.dlab LBB744
-	.dlab LBB745
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext160
-Ltext160:
+	jc   le,d2,r14,#L804
+L839:
+	.dlab LBE822
+	.line 109
+	ld   i0,#0x3c
+	call &__Znwm ; call non-native
+	ld   d2,r14
+	ld   r14,#0x0
+	jc   eq,d2,r14,#L805
+	ld   i0,d2
+	call &__ZN8NativeUI14VerticalLayoutC1Ev ; call non-native
+L805:
+	.line 110
+	ld   i0,#0x3c
+	call &__Znwm ; call non-native
+	ld   d6,r14
+	ld   r14,#0x0
+	jc   eq,d6,r14,#L806
+	ld   i0,d6
+	call &__ZN8NativeUI14VerticalLayoutC1Ev ; call non-native
+L806:
+	.line 111
+	ld   i0,[d3,96]
+	ld   r14,[i0]
+	ld   d0,[r14,52]
+	ld   i1,d2
+	call d0 ; call non-native
+	.line 112
+	ld   i0,[d3,96]
+	ld   r14,[i0]
+	ld   d0,[r14,52]
+	ld   i1,d6
+	call d0 ; call non-native
+	.line 114
+	ld   i0,#0x30
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   eq,d1,r14,#L807
+	ld   i0,d1
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+L807:
+	.line 115
+	ld   i0,d5
+	ld   i1,#LC13
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 116
+	ld   r14,[d2]
+	ld   d0,[r14,52]
+	ld   i0,d2
+	ld   i1,d1
+	call d0 ; call non-native
+	.line 117
+	ld   i0,#0x30
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   eq,d1,r14,#L808
+	ld   i0,d1
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+L808:
+	.line 118
+	ld   i0,d5
+	ld   i1,#LC14
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 119
+	ld   r14,[d2]
+	ld   d0,[r14,52]
+	ld   i0,d2
+	ld   i1,d1
+	call d0 ; call non-native
+	.line 120
+	ld   i0,#0x30
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   eq,d1,r14,#L809
+	ld   i0,d1
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+L809:
+	.line 121
+	ld   i0,d5
+	ld   i1,#LC15
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 122
+	ld   r14,[d2]
+	ld   d0,[r14,52]
+	ld   i0,d2
+	ld   i1,d1
+	call d0 ; call non-native
+	.line 123
+	ld   i0,#0x30
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   eq,d1,r14,#L810
+	ld   i0,d1
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+L810:
+	.line 124
+	ld   i0,d5
+	ld   i1,#LC16
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 125
+	ld   r14,[d2]
+	ld   d0,[r14,52]
+	ld   i0,d2
+	ld   i1,d1
+	call d0 ; call non-native
+	.line 127
+	ld   i0,#0x30
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   eq,d1,r14,#L811
+	ld   i0,d1
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+L811:
+	.line 128
+	ld   i0,d5
+	ld   i1,#LC17
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 129
+	ld   r14,[d2]
+	ld   d0,[r14,52]
+	ld   i0,d2
+	ld   i1,d1
+	call d0 ; call non-native
+	.line 130
+	ld   i0,#0x30
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   eq,d1,r14,#L812
+	ld   i0,d1
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+L812:
+	.line 131
+	ld   i0,d5
+	ld   i1,#LC18
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 132
+	ld   r14,[d2]
+	ld   d0,[r14,52]
+	ld   i0,d2
+	ld   i1,d1
+	call d0 ; call non-native
+	.line 133
+	ld   i0,#0x30
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   eq,d1,r14,#L813
+	ld   i0,d1
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+L813:
+	.line 134
+	ld   i0,d5
+	ld   i1,#LC19
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 135
+	ld   r14,[d2]
+	ld   d0,[r14,52]
+	ld   i0,d2
+	ld   i1,d1
+	call d0 ; call non-native
+	.line 136
+	ld   i0,#0x30
+	call &__Znwm ; call non-native
+	ld   d1,r14
+	ld   r14,#0x0
+	jc   eq,d1,r14,#L814
+	ld   i0,d1
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+L814:
+	.line 137
+	ld   i0,d5
+	ld   i1,#LC20
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.line 138
+	ld   r14,[d2]
+	ld   d0,[r14,52]
+	ld   i0,d2
+	ld   i1,d1
+	call d0 ; call non-native
+	.dlab LBB861
+	.line 140
+	ld   d4,#0x0
+	add  d3,#0x4dc
+	jp   #L825
+L820:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext193
+Ltext193:
+	.line 202
+	ld   [d1],d0
+	.dlab LBB862
+	.dlab LBB863
+	.line 182
+	ld   r14,[d3]
+	add  r14,d2
+	.dlab LBE863
+	.dlab LBE862
+	.line 202
+	ld   d1,[r14]
+	ld   i0,d5
+	ld   i1,#LC12
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d5
+	call d0 ; call non-native
+	ld   i0,d5
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.dlab LBB864
+	.dlab LBB865
+	.line 182
+	ld   r14,[d3]
+	add  d2,r14
+	.dlab LBE865
+	.dlab LBE864
+	.line 202
+	ld   r14,[d6]
+	ld   d0,[r14,52]
+	ld   i0,d6
+	ld   i1,[d2]
+	call d0 ; call non-native
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext194
+Ltext194:
+	.line 140
+	add  d4,#0x1
+	ld   r14,#0x7
+	jc   gt,d4,r14,#L841
+L825:
+	.dlab LBB866
+	.dlab LBB867
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext195
+Ltext195:
+	.line 182
+	ld   d2,d4
+	sll  d2,#0x2
+	ld   d1,[d3]
+	add  d1,d2
+	.dlab LBE867
+	.dlab LBE866
+	.line 202
+	ld   i0,#0x30
+	call &__Znwm ; call non-native
+	ld   d0,r14
+	ld   r14,#0x0
+	jc   eq,d0,r14,#L820
+	ld   i0,d0
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+	jp   #L820
+L783:
+	.dlab LBE861
+	.dlab LBB868
+	.dlab LBB869
+	.dlab LBB870
+	.dlab LBB871
+	.dlab LBB872
+	.dlab LBB873
+	.dlab LBB874
+	.dlab LBB875
 	.line 386
 	ld   r14,#0x1
 	ld   [sp],r14
@@ -4878,496 +5669,4788 @@ Ltext160:
 	ld   i3,fr
 	add  i3,#0xffffffa3
 	call &__ZN11stlpmtx_std6vectorIPN8NativeUI16HorizontalLayoutENS_9allocatorIS3_EEE18_M_insert_overflowEPS3_RKS3_RKNS_11__true_typeEmb ; call non-native
-	jp   #L664
-L685:
-	.dlab LBE745
-	.dlab LBE744
-	.dlab LBE743
-	.dlab LBE742
-	.dlab LBE741
-	.dlab LBE740
-	.dlab LBE739
-	.dlab LBE738
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext161
-Ltext161:
-	.line 48
+	jp   #L789
+L836:
+	.dlab LBE875
+	.dlab LBE874
+	.dlab LBE873
+	.dlab LBE872
+	.dlab LBE871
+	.dlab LBE870
+	.dlab LBE869
+	.dlab LBE868
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext196
+Ltext196:
+	.line 69
+	ld   i0,d1
+	call &__ZN8NativeUI16HorizontalLayoutC1Ev ; call non-native
+	jp   #L776
+L831:
+	.line 35
+	ld   i0,d1
+	call &__ZN8NativeUI5LabelC1Ev ; call non-native
+	jp   #L769
+L830:
+	.line 28
+	ld   i0,d1
+	call &__ZN8NativeUI14VerticalLayoutC1Ev ; call non-native
+	jp   #L768
+L835:
+	.line 66
+	ld   i0,d0
+	call &__ZN8NativeUI14VerticalLayoutC1Ev ; call non-native
+	jp   #L775
+L834:
+	.line 63
+	ld   i0,d0
+	call &__ZN8NativeUI16HorizontalLayoutC1Ev ; call non-native
+	jp   #L774
+L833:
+	.line 55
 	ld   i0,d1
 	call &__ZN8NativeUI6ButtonC1Ev ; call non-native
-	jp   #L651
-L684:
-	.line 41
+	jp   #L773
+L832:
+	.line 43
 	ld   i0,d1
 	ld   i1,r14
 	call &__ZN8NativeUI7EditBoxC1ENS_15EditBoxCategoryE ; call non-native
-	jp   #L650
-L683:
-	.line 33
-	ld   i0,d1
-	call &__ZN8NativeUI5LabelC1Ev ; call non-native
-	jp   #L649
-L682:
-	.line 26
-	ld   i0,d1
-	call &__ZN8NativeUI14VerticalLayoutC1Ev ; call non-native
-	jp   #L648
-	.dlab LBE737
-	.dlab LBE736
-	.stabs	"ii:(0,3)",128,0,57,-116
-	.stabn	192,0,0,LBB697-__ZN10MainScreen8createUIEv
-	.stabs	"layout:(1,19)",128,0,59,-92
-	.stabs	"button:(1,255)",128,0,63,-108
-	.stabs	"buffor:(0,414)=ar(12,11);0;31;(0,19)",128,0,67,-76
-	.stabs	"buffor_int:(0,406)",128,0,68,-88
-	.stabs	"label:(1,137)",128,0,75,-100
-	.stabn	192,0,0,LBB699-__ZN10MainScreen8createUIEv
-	.stabn	224,0,0,LBE699-__ZN10MainScreen8createUIEv
-	.stabs	"layout:(1,19)",128,0,59,-92
-	.stabs	"button:(1,255)",128,0,63,-108
-	.stabs	"buffor:(0,414)",128,0,67,-76
-	.stabs	"buffor_int:(0,406)",128,0,68,-88
-	.stabs	"label:(1,137)",128,0,75,-100
-	.stabn	192,0,0,LBB725-__ZN10MainScreen8createUIEv
-	.stabn	224,0,0,LBE725-__ZN10MainScreen8createUIEv
-	.stabn	224,0,0,LBE697-__ZN10MainScreen8createUIEv
-	.stabs	"ii:(0,3)",128,0,57,-116
-	.stabn	192,0,0,LBB738-__ZN10MainScreen8createUIEv
-	.stabs	"layout:(1,19)",128,0,59,-92
-	.stabs	"button:(1,255)",128,0,63,-108
-	.stabs	"buffor:(0,414)",128,0,67,-76
-	.stabs	"buffor_int:(0,406)",128,0,68,-88
-	.stabs	"label:(1,137)",128,0,75,-100
-	.stabn	192,0,0,LBB740-__ZN10MainScreen8createUIEv
-	.stabn	224,0,0,LBE740-__ZN10MainScreen8createUIEv
-	.stabn	224,0,0,LBE738-__ZN10MainScreen8createUIEv
-Lscope25:
+	jp   #L770
+L841:
+	.dlab LBE821
+	.dlab LBE820
+	.line 140
+	add  sp,#0x54
+	pop  rt,d7
+	ret
+	.stabs	"mResultsLeft:r(0,420)",64,0,109,6
+	.stabs	"mResultsRight:r(0,420)",64,0,110,10
+	.stabs	"Digit_1:r(1,137)",64,0,114,5
+	.stabs	"Digit_2:r(1,137)",64,0,117,5
+	.stabs	"Digit_3:r(1,137)",64,0,120,5
+	.stabs	"Digit_4:r(1,137)",64,0,123,5
+	.stabs	"Digit_5:r(1,137)",64,0,127,5
+	.stabs	"Digit_6:r(1,137)",64,0,130,5
+	.stabs	"Digit_7:r(1,137)",64,0,133,5
+	.stabs	"Digit_8:r(1,137)",64,0,136,5
+	.stabn	192,0,0,LBB821-__ZN10MainScreen8createUIEv
+	.stabs	"ii:(0,3)",128,0,78,-116
+	.stabn	192,0,0,LBB822-__ZN10MainScreen8createUIEv
+	.stabs	"layout:(1,19)",128,0,80,-92
+	.stabs	"button:(1,255)",128,0,84,-108
+	.stabs	"buffor:(0,500)=ar(12,11);0;31;(0,19)",128,0,88,-76
+	.stabs	"buffor_int:(0,491)",128,0,89,-88
+	.stabs	"label:(1,137)",128,0,96,-100
+	.stabn	192,0,0,LBB824-__ZN10MainScreen8createUIEv
+	.stabn	224,0,0,LBE824-__ZN10MainScreen8createUIEv
+	.stabs	"layout:(1,19)",128,0,80,-92
+	.stabs	"button:(1,255)",128,0,84,-108
+	.stabs	"buffor:(0,500)",128,0,88,-76
+	.stabs	"buffor_int:(0,491)",128,0,89,-88
+	.stabs	"label:(1,137)",128,0,96,-100
+	.stabn	192,0,0,LBB850-__ZN10MainScreen8createUIEv
+	.stabn	224,0,0,LBE850-__ZN10MainScreen8createUIEv
+	.stabn	224,0,0,LBE822-__ZN10MainScreen8createUIEv
+	.stabs	"jj:r(0,3)",64,0,140,8
+	.stabn	192,0,0,LBB861-__ZN10MainScreen8createUIEv
+	.stabn	224,0,0,LBE861-__ZN10MainScreen8createUIEv
+	.stabs	"ii:(0,3)",128,0,78,-116
+	.stabn	192,0,0,LBB868-__ZN10MainScreen8createUIEv
+	.stabs	"layout:(1,19)",128,0,80,-92
+	.stabs	"button:(1,255)",128,0,84,-108
+	.stabs	"buffor:(0,500)",128,0,88,-76
+	.stabs	"buffor_int:(0,491)",128,0,89,-88
+	.stabs	"label:(1,137)",128,0,96,-100
+	.stabn	192,0,0,LBB870-__ZN10MainScreen8createUIEv
+	.stabn	224,0,0,LBE870-__ZN10MainScreen8createUIEv
+	.stabn	224,0,0,LBE868-__ZN10MainScreen8createUIEv
+	.stabn	224,0,0,LBE821-__ZN10MainScreen8createUIEv
+Lscope26:
 	.stabs	"_ZN10MainScreenC1Ev:F(0,6)",36,0,3,__ZN10MainScreenC1Ev
-	.stabs	"this:P(0,404)",64,0,3,7
+	.stabs	"this:P(0,489)",64,0,3,6
 	.global	__ZN10MainScreenC1Ev
 
 .func __ZN10MainScreenC1Ev, 1, void
 	.line 3
 	push rt,d5
-	sub  sp,#0xc
+	sub  sp,#0x10
 	ld   fr,sp
-	add  fr,#0x2c
-	ld   d3,i0
-	.dlab LBB746
+	add  fr,#0x30
+	ld   d2,i0
+	.dlab LBB876
 	.line 5
 	call &__ZN8NativeUI6ScreenC2Ev ; call non-native
-	.dlab LBB747
-	ld   d4,d3
+	.dlab LBB877
+	ld   d4,d2
 	add  d4,#0x48
-	.dlab LBE747
-	.dlab LBB748
-	ld   d5,d3
+	.dlab LBE877
+	.dlab LBB878
+	ld   d5,d2
 	add  d5,#0x4c
-	.dlab LBE748
-	.dlab LBB749
-	ld   i1,d3
+	.dlab LBE878
+	.dlab LBB879
+	ld   i1,d2
 	add  i1,#0x50
-	.dlab LBE749
+	.dlab LBE879
 	ld   r0,#__ZTV10MainScreen+8
-	ld   [d3],r0
+	ld   [d2],r0
 	ld   r14,#__ZTV10MainScreen+228
 	ld   [d4],r14
 	ld   r0,#__ZTV10MainScreen+248
 	ld   [d5],r0
 	ld   r14,#__ZTV10MainScreen+272
 	ld   [i1],r14
-	.dlab LBB750
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext162
-Ltext162:
+	.dlab LBB880
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext197
+Ltext197:
 	.line 220
-	ld   r14,d3
-	add  r14,#0x68
-	.dlab LBB751
-	.dlab LBB752
-	.dlab LBB753
+	ld   r14,d2
+	add  r14,#0x70
+	.dlab LBB881
+	.dlab LBB882
+	.dlab LBB883
 	.line 67
 	ld   r0,#0x0
 	ld   [r14],r0
 	ld   [r14,4],r0
-	.dlab LBB754
-	.dlab LBB755
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext163
-Ltext163:
+	.dlab LBB884
+	.dlab LBB885
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext198
+Ltext198:
 	.line 481
-	ld   [d3,112],r0
-	.dlab LBE755
-	.dlab LBE754
-	.dlab LBE753
-	.dlab LBE752
-	.dlab LBE751
-	.dlab LBE750
-	.dlab LBB756
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext164
-Ltext164:
+	ld   [d2,120],r0
+	.dlab LBE885
+	.dlab LBE884
+	.dlab LBE883
+	.dlab LBE882
+	.dlab LBE881
+	.dlab LBE880
+	.dlab LBB886
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext199
+Ltext199:
 	.line 220
 	add  r14,#0xc
-	.dlab LBB757
-	.dlab LBB758
-	.dlab LBB759
+	.dlab LBB887
+	.dlab LBB888
+	.dlab LBB889
 	.line 67
 	ld   [r14],r0
 	ld   [r14,4],r0
-	.dlab LBB760
-	.dlab LBB761
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext165
-Ltext165:
+	.dlab LBB890
+	.dlab LBB891
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext200
+Ltext200:
 	.line 481
-	ld   [d3,124],r0
-	.dlab LBE761
-	.dlab LBE760
-	.dlab LBE759
-	.dlab LBE758
-	.dlab LBE757
-	.dlab LBE756
-	.dlab LBB762
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext166
-Ltext166:
+	ld   [d2,132],r0
+	.dlab LBE891
+	.dlab LBE890
+	.dlab LBE889
+	.dlab LBE888
+	.dlab LBE887
+	.dlab LBE886
+	.dlab LBB892
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext201
+Ltext201:
 	.line 220
-	ld   d2,d3
-	add  d2,#0x80
-	.dlab LBB763
-	.dlab LBB764
-	.dlab LBB765
+	ld   d3,d2
+	add  d3,#0x88
+	.dlab LBB893
+	.dlab LBB894
+	.dlab LBB895
 	.line 67
-	ld   [d2],r0
-	ld   [d2,4],r0
-	.dlab LBB766
-	.dlab LBB767
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext167
-Ltext167:
+	ld   [d3],r0
+	ld   [d3,4],r0
+	.dlab LBB896
+	.dlab LBB897
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext202
+Ltext202:
 	.line 481
-	ld   [d3,136],r0
-	.dlab LBE767
-	.dlab LBE766
-	.dlab LBE765
-	.dlab LBE764
-	.dlab LBE763
-	.dlab LBE762
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext168
-Ltext168:
+	ld   [d2,144],r0
+	.dlab LBE897
+	.dlab LBE896
+	.dlab LBE895
+	.dlab LBE894
+	.dlab LBE893
+	.dlab LBE892
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext203
+Ltext203:
 	.line 5
-	ld   i0,d3
-	add  i0,#0x490
+	ld   i0,d2
+	add  i0,#0x4b4
 	call &__ZN6MAUtil14HttpConnectionC1EPNS_22HttpConnectionListenerE ; call non-native
-	.dlab LBB768
+	.dlab LBB898
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext204
+Ltext204:
+	.line 220
+	ld   r14,d2
+	add  r14,#0x4dc
+	.dlab LBB899
+	.dlab LBB900
+	.dlab LBB901
+	.line 67
+	ld   r0,#0x0
+	ld   [r14],r0
+	ld   [r14,4],r0
+	.dlab LBB902
+	.dlab LBB903
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext205
+Ltext205:
+	.line 481
+	ld   [d2,1252],r0
+	.dlab LBE903
+	.dlab LBE902
+	.dlab LBE901
+	.dlab LBE900
+	.dlab LBE899
+	.dlab LBE898
+	.dlab LBB904
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext206
+Ltext206:
 	.line 6
-	ld   i0,d3
+	ld   i0,d2
 	call &__ZN10MainScreen8createUIEv ; call non-native
-	.dlab LBB769
 	.line 8
+	ld   d0,fr
+	add  d0,#0xffffffd0
+	ld   i1,[d2,104]
+	ld   r14,[i1]
+	ld   d1,[r14,164]
+	ld   i0,d0
+	call d1 ; call non-native
+	ld   i0,d0
+	call &__ZNK6MAUtil11BasicStringIcE5c_strEv ; call non-native
+	ld   i0,d2
+	ld   i1,r14
+	call &__ZN10MainScreen5startEPKc ; call non-native
+	ld   i0,d0
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.dlab LBB905
+	.line 10
 	ld   d1,#0x0
-L730:
-	.dlab LBB770
-	.dlab LBB771
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext169
-Ltext169:
+L892:
+	.dlab LBB906
+	.dlab LBB907
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext207
+Ltext207:
 	.line 182
 	ld   r14,d1
 	sll  r14,#0x2
-	ld   r0,[d2]
+	ld   r0,[d3]
 	add  r14,r0
-	.dlab LBE771
-	.dlab LBE770
+	.dlab LBE907
+	.dlab LBE906
 	.line 202
 	ld   i0,[r14]
 	ld   r14,[i0]
 	ld   d0,[r14,188]
 	ld   i1,d4
 	call d0 ; call non-native
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext170
-Ltext170:
-	.line 8
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext208
+Ltext208:
+	.line 10
 	add  d1,#0x1
 	ld   r14,#0x7
-	jc   le,d1,r14,#L730
-	.dlab LBE769
-	.line 11
-	ld   i0,[d3,96]
+	jc   le,d1,r14,#L892
+	.dlab LBE905
+	.line 13
+	ld   i0,[d2,108]
 	ld   r14,[i0]
 	ld   d0,[r14,188]
 	ld   i1,d4
 	call d0 ; call non-native
-	.line 12
-	ld   i0,[d3,92]
+	.line 14
+	ld   i0,[d2,104]
 	ld   r14,[i0]
 	ld   d0,[r14,200]
 	ld   i1,d5
 	call d0 ; call non-native
-	.dlab LBE768
-	.dlab LBE746
-	add  sp,#0xc
+	.dlab LBE904
+	.dlab LBE876
+	add  sp,#0x10
 	pop  rt,d5
 	ret
-	.stabs	"this:r(0,415)=k(0,361)",64,0,5,13
-	.stabn	192,0,0,LBB749-__ZN10MainScreenC1Ev
-	.stabn	224,0,0,LBE749-__ZN10MainScreenC1Ev
-	.stabs	"this:r(0,409)",64,0,220,30
-	.stabn	192,0,0,LBB750-__ZN10MainScreenC1Ev
-	.stabn	224,0,0,LBE750-__ZN10MainScreenC1Ev
-	.stabs	"this:r(0,408)",64,0,220,30
-	.stabn	192,0,0,LBB756-__ZN10MainScreenC1Ev
-	.stabn	224,0,0,LBE756-__ZN10MainScreenC1Ev
-	.stabs	"ii:r(0,3)",64,0,8,5
-	.stabn	192,0,0,LBB769-__ZN10MainScreenC1Ev
-	.stabn	224,0,0,LBE769-__ZN10MainScreenC1Ev
-Lscope26:
+	.stabs	"this:r(0,501)=k(0,446)",64,0,5,13
+	.stabn	192,0,0,LBB879-__ZN10MainScreenC1Ev
+	.stabn	224,0,0,LBE879-__ZN10MainScreenC1Ev
+	.stabs	"this:r(0,495)",64,0,220,30
+	.stabn	192,0,0,LBB880-__ZN10MainScreenC1Ev
+	.stabn	224,0,0,LBE880-__ZN10MainScreenC1Ev
+	.stabs	"this:r(0,493)",64,0,220,30
+	.stabn	192,0,0,LBB886-__ZN10MainScreenC1Ev
+	.stabn	224,0,0,LBE886-__ZN10MainScreenC1Ev
+	.stabs	"this:r(0,493)",64,0,220,30
+	.stabn	192,0,0,LBB898-__ZN10MainScreenC1Ev
+	.stabn	224,0,0,LBE898-__ZN10MainScreenC1Ev
+	.stabs	"ii:r(0,3)",64,0,10,5
+	.stabn	192,0,0,LBB905-__ZN10MainScreenC1Ev
+	.stabn	224,0,0,LBE905-__ZN10MainScreenC1Ev
+Lscope27:
 	.stabs	"_ZN10MainScreenC2Ev:F(0,6)",36,0,3,__ZN10MainScreenC2Ev
-	.stabs	"this:P(0,404)",64,0,3,7
+	.stabs	"this:P(0,489)",64,0,3,6
 	.global	__ZN10MainScreenC2Ev
 
 .func __ZN10MainScreenC2Ev, 1, void
 	.line 3
 	push rt,d5
-	sub  sp,#0xc
+	sub  sp,#0x10
 	ld   fr,sp
-	add  fr,#0x2c
-	ld   d3,i0
-	.dlab LBB772
+	add  fr,#0x30
+	ld   d2,i0
+	.dlab LBB908
 	.line 5
 	call &__ZN8NativeUI6ScreenC2Ev ; call non-native
-	.dlab LBB773
-	ld   d4,d3
+	.dlab LBB909
+	ld   d4,d2
 	add  d4,#0x48
-	.dlab LBE773
-	.dlab LBB774
-	ld   d5,d3
+	.dlab LBE909
+	.dlab LBB910
+	ld   d5,d2
 	add  d5,#0x4c
-	.dlab LBE774
-	.dlab LBB775
-	ld   i1,d3
+	.dlab LBE910
+	.dlab LBB911
+	ld   i1,d2
 	add  i1,#0x50
-	.dlab LBE775
+	.dlab LBE911
 	ld   r0,#__ZTV10MainScreen+8
-	ld   [d3],r0
+	ld   [d2],r0
 	ld   r14,#__ZTV10MainScreen+228
 	ld   [d4],r14
 	ld   r0,#__ZTV10MainScreen+248
 	ld   [d5],r0
 	ld   r14,#__ZTV10MainScreen+272
 	ld   [i1],r14
-	.dlab LBB776
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext171
-Ltext171:
+	.dlab LBB912
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext209
+Ltext209:
 	.line 220
-	ld   r14,d3
-	add  r14,#0x68
-	.dlab LBB777
-	.dlab LBB778
-	.dlab LBB779
+	ld   r14,d2
+	add  r14,#0x70
+	.dlab LBB913
+	.dlab LBB914
+	.dlab LBB915
 	.line 67
 	ld   r0,#0x0
 	ld   [r14],r0
 	ld   [r14,4],r0
-	.dlab LBB780
-	.dlab LBB781
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext172
-Ltext172:
+	.dlab LBB916
+	.dlab LBB917
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext210
+Ltext210:
 	.line 481
-	ld   [d3,112],r0
-	.dlab LBE781
-	.dlab LBE780
-	.dlab LBE779
-	.dlab LBE778
-	.dlab LBE777
-	.dlab LBE776
-	.dlab LBB782
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext173
-Ltext173:
+	ld   [d2,120],r0
+	.dlab LBE917
+	.dlab LBE916
+	.dlab LBE915
+	.dlab LBE914
+	.dlab LBE913
+	.dlab LBE912
+	.dlab LBB918
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext211
+Ltext211:
 	.line 220
 	add  r14,#0xc
-	.dlab LBB783
-	.dlab LBB784
-	.dlab LBB785
+	.dlab LBB919
+	.dlab LBB920
+	.dlab LBB921
 	.line 67
 	ld   [r14],r0
 	ld   [r14,4],r0
-	.dlab LBB786
-	.dlab LBB787
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext174
-Ltext174:
+	.dlab LBB922
+	.dlab LBB923
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext212
+Ltext212:
 	.line 481
-	ld   [d3,124],r0
-	.dlab LBE787
-	.dlab LBE786
-	.dlab LBE785
-	.dlab LBE784
-	.dlab LBE783
-	.dlab LBE782
-	.dlab LBB788
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext175
-Ltext175:
+	ld   [d2,132],r0
+	.dlab LBE923
+	.dlab LBE922
+	.dlab LBE921
+	.dlab LBE920
+	.dlab LBE919
+	.dlab LBE918
+	.dlab LBB924
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext213
+Ltext213:
 	.line 220
-	ld   d2,d3
-	add  d2,#0x80
-	.dlab LBB789
-	.dlab LBB790
-	.dlab LBB791
+	ld   d3,d2
+	add  d3,#0x88
+	.dlab LBB925
+	.dlab LBB926
+	.dlab LBB927
 	.line 67
-	ld   [d2],r0
-	ld   [d2,4],r0
-	.dlab LBB792
-	.dlab LBB793
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext176
-Ltext176:
+	ld   [d3],r0
+	ld   [d3,4],r0
+	.dlab LBB928
+	.dlab LBB929
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext214
+Ltext214:
 	.line 481
-	ld   [d3,136],r0
-	.dlab LBE793
-	.dlab LBE792
-	.dlab LBE791
-	.dlab LBE790
-	.dlab LBE789
-	.dlab LBE788
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext177
-Ltext177:
+	ld   [d2,144],r0
+	.dlab LBE929
+	.dlab LBE928
+	.dlab LBE927
+	.dlab LBE926
+	.dlab LBE925
+	.dlab LBE924
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext215
+Ltext215:
 	.line 5
-	ld   i0,d3
-	add  i0,#0x490
+	ld   i0,d2
+	add  i0,#0x4b4
 	call &__ZN6MAUtil14HttpConnectionC1EPNS_22HttpConnectionListenerE ; call non-native
-	.dlab LBB794
+	.dlab LBB930
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext216
+Ltext216:
+	.line 220
+	ld   r14,d2
+	add  r14,#0x4dc
+	.dlab LBB931
+	.dlab LBB932
+	.dlab LBB933
+	.line 67
+	ld   r0,#0x0
+	ld   [r14],r0
+	ld   [r14,4],r0
+	.dlab LBB934
+	.dlab LBB935
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext217
+Ltext217:
+	.line 481
+	ld   [d2,1252],r0
+	.dlab LBE935
+	.dlab LBE934
+	.dlab LBE933
+	.dlab LBE932
+	.dlab LBE931
+	.dlab LBE930
+	.dlab LBB936
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext218
+Ltext218:
 	.line 6
-	ld   i0,d3
+	ld   i0,d2
 	call &__ZN10MainScreen8createUIEv ; call non-native
-	.dlab LBB795
 	.line 8
+	ld   d0,fr
+	add  d0,#0xffffffd0
+	ld   i1,[d2,104]
+	ld   r14,[i1]
+	ld   d1,[r14,164]
+	ld   i0,d0
+	call d1 ; call non-native
+	ld   i0,d0
+	call &__ZNK6MAUtil11BasicStringIcE5c_strEv ; call non-native
+	ld   i0,d2
+	ld   i1,r14
+	call &__ZN10MainScreen5startEPKc ; call non-native
+	ld   i0,d0
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	.dlab LBB937
+	.line 10
 	ld   d1,#0x0
-L773:
-	.dlab LBB796
-	.dlab LBB797
-	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext178
-Ltext178:
+L945:
+	.dlab LBB938
+	.dlab LBB939
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext219
+Ltext219:
 	.line 182
 	ld   r14,d1
 	sll  r14,#0x2
-	ld   r0,[d2]
+	ld   r0,[d3]
 	add  r14,r0
-	.dlab LBE797
-	.dlab LBE796
+	.dlab LBE939
+	.dlab LBE938
 	.line 202
 	ld   i0,[r14]
 	ld   r14,[i0]
 	ld   d0,[r14,188]
 	ld   i1,d4
 	call d0 ; call non-native
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext179
-Ltext179:
-	.line 8
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext220
+Ltext220:
+	.line 10
 	add  d1,#0x1
 	ld   r14,#0x7
-	jc   le,d1,r14,#L773
-	.dlab LBE795
-	.line 11
-	ld   i0,[d3,96]
+	jc   le,d1,r14,#L945
+	.dlab LBE937
+	.line 13
+	ld   i0,[d2,108]
 	ld   r14,[i0]
 	ld   d0,[r14,188]
 	ld   i1,d4
 	call d0 ; call non-native
-	.line 12
-	ld   i0,[d3,92]
+	.line 14
+	ld   i0,[d2,104]
 	ld   r14,[i0]
 	ld   d0,[r14,200]
 	ld   i1,d5
 	call d0 ; call non-native
-	.dlab LBE794
-	.dlab LBE772
-	add  sp,#0xc
+	.dlab LBE936
+	.dlab LBE908
+	add  sp,#0x10
 	pop  rt,d5
 	ret
-	.stabs	"this:r(0,415)",64,0,5,13
-	.stabn	192,0,0,LBB775-__ZN10MainScreenC2Ev
-	.stabn	224,0,0,LBE775-__ZN10MainScreenC2Ev
-	.stabs	"this:r(0,409)",64,0,220,30
-	.stabn	192,0,0,LBB776-__ZN10MainScreenC2Ev
-	.stabn	224,0,0,LBE776-__ZN10MainScreenC2Ev
-	.stabs	"this:r(0,408)",64,0,220,30
-	.stabn	192,0,0,LBB782-__ZN10MainScreenC2Ev
-	.stabn	224,0,0,LBE782-__ZN10MainScreenC2Ev
-	.stabs	"ii:r(0,3)",64,0,8,5
-	.stabn	192,0,0,LBB795-__ZN10MainScreenC2Ev
-	.stabn	224,0,0,LBE795-__ZN10MainScreenC2Ev
-Lscope27:
+	.stabs	"this:r(0,501)",64,0,5,13
+	.stabn	192,0,0,LBB911-__ZN10MainScreenC2Ev
+	.stabn	224,0,0,LBE911-__ZN10MainScreenC2Ev
+	.stabs	"this:r(0,495)",64,0,220,30
+	.stabn	192,0,0,LBB912-__ZN10MainScreenC2Ev
+	.stabn	224,0,0,LBE912-__ZN10MainScreenC2Ev
+	.stabs	"this:r(0,493)",64,0,220,30
+	.stabn	192,0,0,LBB918-__ZN10MainScreenC2Ev
+	.stabn	224,0,0,LBE918-__ZN10MainScreenC2Ev
+	.stabs	"this:r(0,493)",64,0,220,30
+	.stabn	192,0,0,LBB930-__ZN10MainScreenC2Ev
+	.stabn	224,0,0,LBE930-__ZN10MainScreenC2Ev
+	.stabs	"ii:r(0,3)",64,0,10,5
+	.stabn	192,0,0,LBB937-__ZN10MainScreenC2Ev
+	.stabn	224,0,0,LBE937-__ZN10MainScreenC2Ev
+Lscope28:
+	.stabs	"_ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm:f(0,6)",36,0,607,__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm
+	.stabs	"this:P(0,502)=k(3,74)",64,0,607,5
+	.stabs	"__n:P(7,2)",64,0,607,4
+
+.func __ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm, 2, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext221
+Ltext221:
+	.line 607
+	push rt,d1
+	sub  sp,#0x8
+	ld   fr,sp
+	add  fr,#0x18
+	ld   d1,i0
+	ld   d0,i1
+	.dlab LBB940
+	.dlab LBB941
+	.dlab LBB942
+	.dlab LBB943
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext222
+Ltext222:
+	.line 105
+	ld   r1,#0xffffffff
+	ld   [fr,-24],r1
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext223
+Ltext223:
+	.line 330
+	ld   [fr,-20],r1
+	.dlab LBE943
+	.dlab LBE942
+	.dlab LBE941
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext224
+Ltext224:
+	.line 104
+	ld   r14,#0x0
+	jc   eq,i1,r14,#L949
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext225
+Ltext225:
+	.line 610
+	ld   r1,#0x10
+	jc   leu,i1,r1,#L948
+	.dlab LBB944
+	.dlab LBB945
+	.dlab LBB946
+	.dlab LBB947
+	.dlab LBB948
+	.dlab LBB949
+	.dlab LBB950
+	.dlab LBB951
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext226
+Ltext226:
+	.line 353
+	ld   r0,r14
+	.dlab LBB952
+	.line 346
+	jc   ne,i1,r14,#L966
+L962:
+	.dlab LBE952
+	.dlab LBE951
+	.dlab LBE950
+	.dlab LBE949
+	.dlab LBE948
+	.dlab LBE947
+	.dlab LBE946
+	.dlab LBE945
+	.dlab LBE944
+	.line 525
+	ld   [d1,20],r0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext227
+Ltext227:
+	.line 612
+	ld   [d1,16],r0
+	.line 613
+	add  r0,d0
+	ld   [d1],r0
+L948:
+	.dlab LBE940
+	.line 621
+	add  sp,#0x8
+	pop  rt,d1
+	ret
+L949:
+	.dlab LBB953
+	call &__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_length_errorEv ; call non-native
+	.dlab LBE953
+	add  sp,#0x8
+	pop  rt,d1
+	ret
+L966:
+	.dlab LBB954
+	.dlab LBB955
+	.dlab LBB956
+	.dlab LBB957
+	.dlab LBB958
+	.dlab LBB959
+	.dlab LBB960
+	.dlab LBB961
+	.dlab LBB962
+	.dlab LBB963
+	.dlab LBB964
+	.dlab LBB965
+	.dlab LBB966
+	.dlab LBB967
+	.dlab LBB968
+	.dlab LBB969
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext228
+Ltext228:
+	.line 113
+	ld   i0,i1
+	call &__Znwm ; call non-native
+	.dlab LBE969
+	.dlab LBE968
+	.dlab LBE967
+	.dlab LBE966
+	.dlab LBE965
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext229
+Ltext229:
+	.line 352
+	ld   r0,r14
+	.dlab LBB970
+	.dlab LBB971
+	.dlab LBB972
+	.dlab LBB973
+	.dlab LBB974
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext230
+Ltext230:
+	.line 113
+	ld   r1,#0x0
+	jc   ne,r14,r1,#L962
+	ld   i0,#LC6
+	call &_puts ; call non-native
+	ld   i0,#0x1
+	call &_exit ; call non-native
+	.dlab LBE974
+	.dlab LBE973
+	.dlab LBE972
+	.dlab LBE971
+	.dlab LBE970
+	.dlab LBE964
+	.dlab LBE963
+	.dlab LBE962
+	.dlab LBE961
+	.dlab LBE960
+	.dlab LBE959
+	.dlab LBE958
+	.dlab LBE957
+	.dlab LBE956
+	.dlab LBE955
+	.dlab LBE954
+	.stabs	"__string_max_size:(3,89)",128,0,105,-24
+	.stabs	"__alloc_max_size:(7,2)",128,0,106,-20
+	.stabn	192,0,0,LBB943-__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm
+	.stabn	224,0,0,LBE943-__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm
+	.stabs	"__y:r(12,28)",64,0,113,30
+	.stabn	192,0,0,LBB969-__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm
+	.stabn	224,0,0,LBE969-__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm
+	.stabs	"__y:r(12,28)",64,0,113,30
+	.stabn	192,0,0,LBB974-__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm
+	.stabn	224,0,0,LBE974-__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm
+Lscope29:
+	.stabs	"_ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_:f(0,6)",36,0,641,__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_
+	.stabs	"this:P(0,503)=k(3,94)",64,0,641,7
+	.stabs	"__s:P(11,88)",64,0,641,6
+	.stabs	"__a:P(3,30)",64,0,641,14
+
+.func __ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_, 3, void
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext231
+Ltext231:
+	.line 641
+	push rt,d4
+	ld   fr,sp
+	add  fr,#0x1c
+	ld   d3,i0
+	ld   d2,i1
+	.dlab LBB975
+	.dlab LBB976
+	.dlab LBB977
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext232
+Ltext232:
+	.line 116
+	ld   [d3,16],i0
+	.dlab LBB978
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext233
+Ltext233:
+	.line 480
+	ld   d1,i0
+	add  d1,#0x14
+	.dlab LBB979
+	.line 481
+	ld   [d1],i0
+	.dlab LBE979
+	.dlab LBE978
+	.dlab LBE977
+	.dlab LBE976
+	.dlab LBB980
+	.dlab LBB981
+	.dlab LBB982
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext234
+Ltext234:
+	.line 229
+	ld   i0,i1
+	call &_strlen ; call non-native
+	.dlab LBE982
+	.dlab LBE981
+	ld   d0,r14
+	add  d0,d2
+	.dlab LBB983
+	.dlab LBB984
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext235
+Ltext235:
+	.line 378
+	ld   d4,d0
+	sub  d4,d2
+	.line 379
+	ld   i0,d3
+	ld   i1,d4
+	add  i1,#0x1
+	call &__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm ; call non-native
+	.dlab LBB985
+	.dlab LBB986
+	.dlab LBB987
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext236
+Ltext236:
+	.line 66
+	ld   i0,[d1]
+	.dlab LBE987
+	.dlab LBE986
+	.dlab LBB988
+	.dlab LBB989
+	.dlab LBB990
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext237
+Ltext237:
+	.line 103
+	ld   r14,i0
+	jc   eq,d0,d2,#L976
+	ld   i1,d2
+	ld   i2,d4
+	call &_memcpy ; call non-native
+	add  r14,d4
+L976:
+	.dlab LBE990
+	.dlab LBE989
+	.dlab LBE988
+	.dlab LBE985
+	.line 66
+	ld   [d3,16],r14
+	.dlab LBB991
+	.dlab LBB992
+	.dlab LBB993
+	.dlab LBB994
+	.dlab LBB995
+	.dlab LBB996
+	.dlab LBB997
+	.dlab LBB998
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext238
+Ltext238:
+	.line 101
+	ld   r0,#0x0
+	ld.b [r14],r0
+	.dlab LBE998
+	.dlab LBE997
+	.dlab LBE996
+	.dlab LBE995
+	.dlab LBE994
+	.dlab LBE993
+	.dlab LBE992
+	.dlab LBE991
+	.dlab LBE984
+	.dlab LBE983
+	.dlab LBE980
+	.dlab LBE975
+	pop  rt,d4
+	ret
+	.stabs	"this:r(0,504)=k(3,51)",64,0,480,5
+	.stabn	192,0,0,LBB978-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_
+	.stabn	224,0,0,LBE978-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_
+	.stabs	"__l:r(11,88)",64,0,376,4
+	.stabn	192,0,0,LBB980-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_
+	.stabs	"__n:r(7,3)",64,0,378,8
+	.stabn	192,0,0,LBB984-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_
+	.stabn	224,0,0,LBE984-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_
+	.stabn	224,0,0,LBE980-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_
+Lscope30:
+	.stabs	"_ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_:f(11,88)",36,0,229,__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabs	"__first1:P(11,88)",64,0,229,17
+	.stabs	"__last1:P(11,88)",64,0,229,13
+	.stabs	"__first2:P(11,88)",64,0,229,14
+	.stabs	"__last2:P(11,88)",64,0,229,15
+	.stabs	"__pred:p(0,265)",160,0,229,0
+
+.func __ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_, 5, int
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.c",132,0,0,Ltext239
+Ltext239:
+	.line 229
+	push fr,fr
+	ld   fr,sp
+	add  fr,#0x4
+	ld   r1,i0
+	.dlab LBB999
+	.dlab LBB1000
+	.line 233
+	jc   eq,i0,i1,#L1018
+	jc   eq,i2,i3,#L1018
+	.line 239
+	ld   r4,i2
+	add  r4,#0x1
+	jc   eq,r4,i3,#L990
+L1019:
+	.dlab LBB1001
+	.dlab LBB1002
+	.dlab LBB1003
+	.line 250
+	jc   eq,r1,i1,#L1018
+	.dlab LBB1004
+	.dlab LBB1005
+	.dlab LBB1006
+	.dlab LBB1007
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext240
+Ltext240:
+	.line 142
+	ld   r2,#0x0
+	ld.b r3,[r1]
+	xb   r0,r3
+	ld.b r5,[i2]
+	xb   r14,r5
+	jc   eq,r0,r14,#L1020
+L1001:
+	.dlab LBE1007
+	.dlab LBE1006
+	.dlab LBE1005
+	.dlab LBE1004
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_ctraits_fns.h",132,0,0,Ltext241
+Ltext241:
+	.line 39
+	ld   r0,#0x0
+	jc   eq,r2,r0,#L1003
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.c",132,0,0,Ltext242
+Ltext242:
+	.line 252
+	jc   eq,r1,i1,#L1018
+	.line 255
+	ld   r15,r4
+	.line 257
+	ld   r3,r1
+	add  r3,#0x1
+	ld   i0,r3
+	jc   eq,r3,i1,#L986
+L1006:
+	.dlab LBB1008
+	.dlab LBB1009
+	.dlab LBB1010
+	.dlab LBB1011
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext243
+Ltext243:
+	.line 142
+	ld   r2,#0x0
+	ld.b r5,[i0]
+	xb   r0,r5
+	ld.b r5,[r15]
+	xb   r14,r5
+	jc   eq,r0,r14,#L1021
+	.dlab LBE1011
+	.dlab LBE1010
+	.dlab LBE1009
+	.dlab LBE1008
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_ctraits_fns.h",132,0,0,Ltext244
+Ltext244:
+	.line 39
+	ld   r0,#0x0
+	jc   eq,r2,r0,#L1022
+L1013:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.c",132,0,0,Ltext245
+Ltext245:
+	.line 260
+	add  r15,#0x1
+	jc   eq,r15,i3,#L1018
+	.line 262
+	add  i0,#0x1
+	jc   ne,i0,i1,#L1006
+L986:
+	.dlab LBE1003
+	.dlab LBE1002
+	.dlab LBE1001
+	.dlab LBE1000
+	.dlab LBE999
+	.line 267
+	ld   r14,i0
+	pop  fr,fr
+	ret
+L1003:
+	.dlab LBB1012
+	.dlab LBB1013
+	.dlab LBB1014
+	.dlab LBB1015
+	.dlab LBB1016
+	.line 250
+	add  r1,#0x1
+	jp   #L1019
+L1023:
+	.dlab LBE1016
+	.dlab LBE1015
+	.dlab LBE1014
+	.dlab LBB1017
+	.dlab LBB1018
+	.dlab LBB1019
+	.dlab LBB1020
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext246
+Ltext246:
+	.line 142
+	ld   r2,#0x1
+L993:
+	.dlab LBE1020
+	.dlab LBE1019
+	.dlab LBE1018
+	.dlab LBE1017
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_ctraits_fns.h",132,0,0,Ltext247
+Ltext247:
+	.line 39
+	ld   r0,#0x0
+	jc   ne,r2,r0,#L1018
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.c",132,0,0,Ltext248
+Ltext248:
+	.line 241
+	add  r1,#0x1
+L990:
+	jc   eq,r1,i1,#L1018
+	.dlab LBB1021
+	.dlab LBB1022
+	.dlab LBB1023
+	.dlab LBB1024
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext249
+Ltext249:
+	.line 142
+	ld   r2,#0x0
+	ld.b r3,[r1]
+	xb   r0,r3
+	ld.b r5,[i2]
+	xb   r14,r5
+	jc   ne,r0,r14,#L993
+	jp   #L1023
+L1021:
+	.dlab LBE1024
+	.dlab LBE1023
+	.dlab LBE1022
+	.dlab LBE1021
+	.dlab LBB1025
+	.dlab LBB1026
+	.dlab LBB1027
+	.dlab LBB1028
+	.dlab LBB1029
+	.dlab LBB1030
+	.dlab LBB1031
+	ld   r2,#0x1
+	.dlab LBE1031
+	.dlab LBE1030
+	.dlab LBE1029
+	.dlab LBE1028
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_ctraits_fns.h",132,0,0,Ltext250
+Ltext250:
+	.line 39
+	ld   r0,#0x0
+	jc   ne,r2,r0,#L1013
+L1022:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.c",132,0,0,Ltext251
+Ltext251:
+	.line 265
+	ld   r1,r3
+	jp   #L1019
+L1020:
+	.dlab LBB1032
+	.dlab LBB1033
+	.dlab LBB1034
+	.dlab LBB1035
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext252
+Ltext252:
+	.line 142
+	ld   r2,#0x1
+	jp   #L1001
+L1018:
+	.dlab LBE1035
+	.dlab LBE1034
+	.dlab LBE1033
+	.dlab LBE1032
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.c",132,0,0,Ltext253
+Ltext253:
+	.line 261
+	ld   i0,r1
+	.dlab LBE1027
+	.dlab LBE1026
+	.dlab LBE1025
+	.dlab LBE1013
+	.dlab LBE1012
+	.line 267
+	ld   r14,i0
+	pop  fr,fr
+	ret
+	.stabs	"__p1:r(11,88)",64,0,237,20
+	.stabn	192,0,0,LBB1000-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabs	"__p:r(11,88)",64,0,255,31
+	.stabs	"__current:r(11,88)",64,0,256,12
+	.stabn	192,0,0,LBB1003-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabn	224,0,0,LBE1003-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabn	224,0,0,LBE1000-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabs	"__p1:r(11,88)",64,0,237,20
+	.stabn	192,0,0,LBB1013-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabs	"__p:r(11,88)",64,0,255,31
+	.stabs	"__current:r(11,88)",64,0,256,12
+	.stabn	192,0,0,LBB1016-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabn	224,0,0,LBE1016-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabs	"__p:r(11,88)",64,0,255,31
+	.stabs	"__current:r(11,88)",64,0,256,12
+	.stabn	192,0,0,LBB1027-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabn	224,0,0,LBE1027-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+	.stabn	224,0,0,LBE1013-__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_
+Lscope31:
+	.stabs	"_ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm:f(7,2)",36,0,422,__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm
+	.stabs	"this:P(0,505)=k(3,91)",64,0,422,4
+	.stabs	"__s:P(11,88)",64,0,422,17
+	.stabs	"__pos:P(7,2)",64,0,422,14
+	.stabs	"__n:P(7,2)",64,0,422,15
+
+.func __ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm, 4, int
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext254
+Ltext254:
+	.line 422
+	push rt,d0
+	sub  sp,#0x8
+	ld   fr,sp
+	add  fr,#0x14
+	ld   d0,i0
+	ld   r1,i1
+	.dlab LBB1036
+	.dlab LBB1037
+	.dlab LBB1038
+	.dlab LBB1039
+	.dlab LBB1040
+	.dlab LBB1041
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext255
+Ltext255:
+	.line 89
+	ld   i1,[i0,16]
+	.dlab LBE1041
+	.dlab LBE1040
+	.dlab LBB1042
+	.dlab LBB1043
+	.line 65
+	ld   i0,[i0,20]
+	.dlab LBE1043
+	.dlab LBE1042
+	ld   r0,i1
+	sub  r0,i0
+	.dlab LBE1039
+	.dlab LBE1038
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext256
+Ltext256:
+	.line 424
+	jc   geu,i2,r0,#L1029
+	ld   r14,i2
+	add  r14,i3
+	jc   leu,r14,r0,#L1028
+L1029:
+	.line 425
+	ld   r14,#0x0
+	jc   ne,i3,r14,#L1030
+	.line 426
+	ld   r14,i2
+	.line 425
+	jc   leu,i2,r0,#L1024
+L1030:
+	.line 428
+	ld   r14,#0xffffffff
+L1024:
+	.dlab LBE1037
+	.dlab LBE1036
+	.line 434
+	add  sp,#0x8
+	pop  rt,d0
+	ret
+L1028:
+	.dlab LBB1044
+	.dlab LBB1045
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext257
+Ltext257:
+	.line 89
+	ld   r14,fr
+	add  r14,#0xfffffff0
+	ld   [sp],r14
+	add  i0,i2
+	ld   i2,r1
+	add  i3,r1
+	call &__ZN11stlpmtx_std6searchIPKcS2_NS_4priv10_Eq_traitsINS_11char_traitsIcEEEEEET_S8_S8_T0_S9_T1_ ; call non-native
+	ld   r0,r14
+	.dlab LBB1046
+	.dlab LBB1047
+	ld   r14,[d0,16]
+	.dlab LBE1047
+	.dlab LBE1046
+	.line 65
+	ld   r1,#0xffffffff
+	.line 89
+	jc   eq,r14,r0,#L1040
+	.line 65
+	ld   r1,r0
+	ld   d0,[d0,20]
+	sub  r1,d0
+L1040:
+	ld   r14,r1
+	.dlab LBE1045
+	.dlab LBE1044
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext258
+Ltext258:
+	.line 434
+	add  sp,#0x8
+	pop  rt,d0
+	ret
+	.stabs	"__len:r(3,89)",64,0,423,16
+	.stabs	"__result:r(11,88)",64,0,431,16
+	.stabn	192,0,0,LBB1037-__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm
+	.stabn	224,0,0,LBE1037-__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm
+	.stabs	"__len:r(3,89)",64,0,423,16
+	.stabs	"__result:r(11,88)",64,0,431,16
+	.stabn	192,0,0,LBB1045-__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm
+	.stabn	224,0,0,LBE1045-__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm
+Lscope32:
+	.stabs	"_ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_:f(3,106)",36,0,196,__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"this:P(0,503)",64,0,196,5
+	.stabs	"__first:P(11,88)",64,0,196,4
+	.stabs	"__last:P(11,88)",64,0,196,14
+
+.func __ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_, 3, int
+	.line 196
+	push rt,d4
+	sub  sp,#0x20
+	ld   fr,sp
+	add  fr,#0x3c
+	ld   d1,i0
+	ld   d0,i1
+	.dlab LBB1048
+	.dlab LBB1049
+	.dlab LBB1050
+	.line 197
+	jc   eq,i1,i2,#L1044
+	.dlab LBB1051
+	.line 198
+	ld   d3,i2
+	sub  d3,i1
+	.dlab LBB1052
+	.dlab LBB1053
+	.dlab LBB1054
+	.dlab LBB1055
+	.dlab LBB1056
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext259
+Ltext259:
+	.line 64
+	ld   r14,#0x0
+	ld   r2,[i0,20]
+	jc   eq,r2,i0,#L1151
+	.dlab LBE1056
+	.dlab LBE1055
+	ld   r0,#0x0
+	jc   eq,r14,r0,#L1046
+L1157:
+	ld   r1,[d1,16]
+	ld   r14,r1
+	sub  r14,d1
+	ld   r0,#0x10
+	sub  r0,r14
+	.dlab LBE1054
+	.dlab LBE1053
+	.line 74
+	jc   gtu,r0,d3,#L1045
+L1156:
+	.dlab LBB1057
+	.dlab LBB1058
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext260
+Ltext260:
+	.line 302
+	ld   r3,d3
+	ld   [fr,-40],d3
+	.dlab LBB1059
+	.dlab LBB1060
+	.dlab LBB1061
+	.dlab LBB1062
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext261
+Ltext261:
+	.line 65
+	ld   r0,r1
+	sub  r0,r2
+	.dlab LBE1062
+	.dlab LBE1061
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext262
+Ltext262:
+	.line 400
+	ld   [fr,-44],r0
+	.dlab LBB1063
+	.dlab LBB1064
+	.dlab LBB1065
+	.dlab LBB1066
+	.dlab LBB1067
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext263
+Ltext263:
+	.line 105
+	ld   r1,#0xffffffff
+	ld   [fr,-36],r1
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext264
+Ltext264:
+	.line 330
+	ld   [fr,-32],r1
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext265
+Ltext265:
+	.line 139
+	ld   r14,#0xfffffffe
+	.dlab LBE1067
+	.dlab LBE1066
+	.dlab LBE1065
+	.dlab LBE1064
+	.dlab LBE1063
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext266
+Ltext266:
+	.line 402
+	sub  r14,r0
+	jc   ltu,r14,d3,#L1152
+L1054:
+	.dlab LBB1068
+	.dlab LBB1069
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext267
+Ltext267:
+	.line 141
+	ld   i0,fr
+	add  i0,#0xffffffd4
+	jc   ltu,r3,r0,#L1063
+	add  i0,#0x4
+L1063:
+	.dlab LBE1069
+	.dlab LBE1068
+	ld   d2,[i0]
+	add  d2,r0
+	add  d2,#0x1
+	.dlab LBB1070
+	.dlab LBB1071
+	.dlab LBB1072
+	.dlab LBB1073
+	.dlab LBB1074
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext268
+Ltext268:
+	.line 105
+	ld   r2,#0xffffffff
+	ld   [fr,-52],r2
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext269
+Ltext269:
+	.line 330
+	ld   [fr,-48],r2
+	.dlab LBE1074
+	.dlab LBE1073
+	.dlab LBE1072
+	.dlab LBE1071
+	.dlab LBE1070
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext270
+Ltext270:
+	.line 402
+	ld   r14,#0xfffffffe
+	jc   gtu,d2,r14,#L1065
+	jc   geu,d2,r0,#L1064
+L1065:
+	.dlab LBB1075
+	.dlab LBB1076
+	.dlab LBB1077
+	.dlab LBB1078
+	.dlab LBB1079
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext271
+Ltext271:
+	.line 105
+	ld   r0,#0xffffffff
+	ld   [fr,-60],r0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext272
+Ltext272:
+	.line 330
+	ld   [fr,-56],r0
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext273
+Ltext273:
+	.line 139
+	ld   d2,#0xfffffffe
+L1149:
+	.dlab LBE1079
+	.dlab LBE1078
+	.dlab LBE1077
+	.dlab LBE1076
+	.dlab LBE1075
+	.dlab LBE1060
+	.dlab LBE1059
+	.dlab LBE1058
+	.dlab LBB1080
+	.dlab LBB1081
+	.dlab LBB1082
+	.dlab LBB1083
+	.dlab LBB1084
+	.dlab LBB1085
+	.dlab LBB1086
+	.dlab LBB1087
+	.dlab LBB1088
+	.dlab LBB1089
+	.dlab LBB1090
+	.dlab LBB1091
+	.dlab LBB1092
+	.dlab LBB1093
+	.dlab LBB1094
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext274
+Ltext274:
+	.line 113
+	ld   i0,d2
+	call &__Znwm ; call non-native
+	.dlab LBE1094
+	.dlab LBE1093
+	.dlab LBE1092
+	.dlab LBE1091
+	.dlab LBE1090
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext275
+Ltext275:
+	.line 352
+	ld   d4,r14
+	.dlab LBB1095
+	.dlab LBB1096
+	.dlab LBB1097
+	.dlab LBB1098
+	.dlab LBB1099
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext276
+Ltext276:
+	.line 113
+	ld   r2,#0x0
+	jc   eq,r14,r2,#L1153
+L1085:
+	.dlab LBE1099
+	.dlab LBE1098
+	.dlab LBE1097
+	.dlab LBE1096
+	.dlab LBE1095
+	.dlab LBE1089
+	.dlab LBE1088
+	.dlab LBE1087
+	.dlab LBE1086
+	.dlab LBE1085
+	.dlab LBE1084
+	.dlab LBE1083
+	.dlab LBE1082
+	.dlab LBE1081
+	.dlab LBE1080
+	.dlab LBB1100
+	.dlab LBB1101
+	.dlab LBB1102
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext277
+Ltext277:
+	.line 66
+	ld   r14,[d1,20]
+	.dlab LBE1102
+	.dlab LBE1101
+	.dlab LBB1103
+	.dlab LBB1104
+	.line 90
+	ld   r1,[d1,16]
+	.dlab LBE1104
+	.dlab LBE1103
+	.dlab LBB1105
+	.dlab LBB1106
+	.dlab LBB1107
+	.dlab LBB1108
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext278
+Ltext278:
+	.line 84
+	ld   r0,d4
+	.dlab LBB1109
+	.dlab LBB1110
+	.line 86
+	sub  r1,r14
+	ld   r2,#0x0
+	jc   le,r1,r2,#L1144
+L1154:
+	.dlab LBB1111
+	.dlab LBB1112
+	.dlab LBB1113
+	.dlab LBB1114
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext279
+Ltext279:
+	.line 146
+	ld.b r2,[r14]
+	ld.b [r0],r2
+	.dlab LBE1114
+	.dlab LBE1113
+	.dlab LBE1112
+	.dlab LBE1111
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext280
+Ltext280:
+	.line 88
+	add  r14,#0x1
+	.line 89
+	add  r0,#0x1
+	.line 86
+	add  r1,#0xffffffff
+	ld   r2,#0x0
+	jc   gt,r1,r2,#L1154
+L1144:
+	.dlab LBE1110
+	.dlab LBE1109
+	.dlab LBE1108
+	.dlab LBE1107
+	.dlab LBE1106
+	.dlab LBE1105
+	.dlab LBE1100
+	.dlab LBB1115
+	.dlab LBB1116
+	.dlab LBB1117
+	.line 83
+	ld   i1,d0
+	.dlab LBB1118
+	.dlab LBB1119
+	.line 84
+	ld   d0,r0
+	.dlab LBB1120
+	.dlab LBB1121
+	.line 86
+	ld   r14,d3
+	ld   r0,#0x0
+	jc   le,d3,r0,#L1146
+L1107:
+	.dlab LBB1122
+	.dlab LBB1123
+	.dlab LBB1124
+	.dlab LBB1125
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext281
+Ltext281:
+	.line 146
+	ld.b r1,[i1]
+	ld.b [d0],r1
+	.dlab LBE1125
+	.dlab LBE1124
+	.dlab LBE1123
+	.dlab LBE1122
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext282
+Ltext282:
+	.line 88
+	add  i1,#0x1
+	.line 89
+	add  d0,#0x1
+	.line 86
+	add  r14,#0xffffffff
+	ld   r2,#0x0
+	jc   gt,r14,r2,#L1107
+L1146:
+	.dlab LBE1121
+	.dlab LBE1120
+	.dlab LBE1119
+	.dlab LBE1118
+	.dlab LBE1117
+	.dlab LBE1116
+	.dlab LBE1115
+	.dlab LBB1126
+	.dlab LBB1127
+	.dlab LBB1128
+	.dlab LBB1129
+	.dlab LBB1130
+	.dlab LBB1131
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext283
+Ltext283:
+	.line 101
+	ld   r14,#0x0
+	ld.b [d0],r14
+	.dlab LBE1131
+	.dlab LBE1130
+	.dlab LBE1129
+	.dlab LBE1128
+	.dlab LBE1127
+	.dlab LBE1126
+	.dlab LBB1132
+	.dlab LBB1133
+	.dlab LBB1134
+	.dlab LBB1135
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext284
+Ltext284:
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[d1,20]
+	jc   eq,i0,d1,#L1155
+L1117:
+	.dlab LBE1135
+	.dlab LBE1134
+	ld   r0,#0x0
+	jc   ne,r14,r0,#L1122
+	jc   eq,i0,r14,#L1122
+	.dlab LBB1136
+	.dlab LBB1137
+	.dlab LBB1138
+	.dlab LBB1139
+	.dlab LBB1140
+	.dlab LBB1141
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext285
+Ltext285:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1122:
+	.dlab LBE1141
+	.dlab LBE1140
+	.dlab LBE1139
+	.dlab LBE1138
+	.dlab LBE1137
+	.dlab LBE1136
+	.dlab LBE1133
+	.dlab LBE1132
+	.dlab LBB1142
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext286
+Ltext286:
+	.line 158
+	add  d2,d4
+	.dlab LBB1143
+	.line 160
+	ld   [d1],d2
+	.line 164
+	ld   [d1,16],d0
+	.line 165
+	ld   [d1,20],d4
+L1044:
+	.dlab LBE1143
+	.dlab LBE1142
+	.dlab LBE1057
+	.dlab LBE1052
+	.dlab LBE1051
+	.dlab LBE1050
+	.dlab LBE1049
+	.dlab LBE1048
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext287
+Ltext287:
+	.line 217
+	ld   r14,d1
+	add  sp,#0x20
+	pop  rt,d4
+	ret
+L1046:
+	.dlab LBB1144
+	.dlab LBB1145
+	.dlab LBB1146
+	.dlab LBB1147
+	.dlab LBB1148
+	.dlab LBB1149
+	.dlab LBB1150
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext288
+Ltext288:
+	.line 64
+	ld   r0,[d1]
+	ld   r1,[d1,16]
+	sub  r0,r1
+	.dlab LBE1150
+	.dlab LBE1149
+	.line 74
+	jc   leu,r0,d3,#L1156
+L1045:
+	.dlab LBB1151
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext289
+Ltext289:
+	.line 210
+	add  d0,#0x1
+	.dlab LBB1152
+	.dlab LBB1153
+	.dlab LBB1154
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext290
+Ltext290:
+	.line 83
+	ld   r0,d0
+	add  d0,#0xffffffff
+	.dlab LBB1155
+	.dlab LBB1156
+	.line 84
+	ld   r14,r1
+	add  r14,#0x1
+	.dlab LBB1157
+	.dlab LBB1158
+	.line 86
+	sub  i2,r0
+	ld   r2,#0x0
+	jc   le,i2,r2,#L1148
+L1132:
+	.dlab LBB1159
+	.dlab LBB1160
+	.dlab LBB1161
+	.dlab LBB1162
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext291
+Ltext291:
+	.line 146
+	ld.b r1,[r0]
+	ld.b [r14],r1
+	.dlab LBE1162
+	.dlab LBE1161
+	.dlab LBE1160
+	.dlab LBE1159
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext292
+Ltext292:
+	.line 88
+	add  r0,#0x1
+	.line 89
+	add  r14,#0x1
+	.line 86
+	add  i2,#0xffffffff
+	ld   r2,#0x0
+	jc   gt,i2,r2,#L1132
+	ld   r1,[d1,16]
+L1148:
+	.dlab LBE1158
+	.dlab LBE1157
+	.dlab LBE1156
+	.dlab LBE1155
+	.dlab LBE1154
+	.dlab LBE1153
+	.dlab LBE1152
+	.dlab LBB1163
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext293
+Ltext293:
+	.line 368
+	add  r1,d3
+	.dlab LBB1164
+	.dlab LBB1165
+	.dlab LBB1166
+	.dlab LBB1167
+	.dlab LBB1168
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext294
+Ltext294:
+	.line 101
+	ld   r14,#0x0
+	ld.b [r1],r14
+	.dlab LBE1168
+	.dlab LBE1167
+	.dlab LBE1166
+	.dlab LBE1165
+	.dlab LBE1164
+	.dlab LBE1163
+	.dlab LBB1169
+	.dlab LBB1170
+	.dlab LBB1171
+	.dlab LBB1172
+	.dlab LBB1173
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext295
+Ltext295:
+	.line 90
+	ld   r14,[d1,16]
+	.dlab LBE1173
+	.dlab LBE1172
+	.dlab LBE1171
+	.dlab LBE1170
+	.dlab LBB1174
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext296
+Ltext296:
+	.line 232
+	ld.b d0,[d0]
+	ld.b [r14],d0
+	.dlab LBE1174
+	.dlab LBE1169
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext297
+Ltext297:
+	.line 214
+	ld   r0,[d1,16]
+	add  d3,r0
+	ld   [d1,16],d3
+	.dlab LBE1151
+	.dlab LBE1148
+	.dlab LBE1147
+	.dlab LBE1146
+	.dlab LBE1145
+	.dlab LBE1144
+	.line 217
+	ld   r14,d1
+	add  sp,#0x20
+	pop  rt,d4
+	ret
+L1151:
+	.dlab LBB1175
+	.dlab LBB1176
+	.dlab LBB1177
+	.dlab LBB1178
+	.dlab LBB1179
+	.dlab LBB1180
+	.dlab LBB1181
+	.dlab LBB1182
+	.dlab LBB1183
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext298
+Ltext298:
+	.line 64
+	ld   r14,#0x1
+	.dlab LBE1183
+	.dlab LBE1182
+	ld   r0,#0x0
+	jc   eq,r14,r0,#L1046
+	jp   #L1157
+L1064:
+	.dlab LBE1181
+	.dlab LBE1180
+	.dlab LBB1184
+	.dlab LBB1185
+	.dlab LBB1186
+	.dlab LBB1187
+	.dlab LBB1188
+	.dlab LBB1189
+	.dlab LBB1190
+	.dlab LBB1191
+	.dlab LBB1192
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext299
+Ltext299:
+	.line 353
+	ld   d4,d2
+	.dlab LBB1193
+	.line 346
+	ld   r1,#0x0
+	jc   eq,d2,r1,#L1085
+	jp   #L1149
+L1155:
+	.dlab LBE1193
+	.dlab LBE1192
+	.dlab LBE1191
+	.dlab LBE1190
+	.dlab LBE1189
+	.dlab LBE1188
+	.dlab LBE1187
+	.dlab LBE1186
+	.dlab LBE1185
+	.dlab LBB1194
+	.dlab LBB1195
+	.dlab LBB1196
+	.dlab LBB1197
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext300
+Ltext300:
+	.line 64
+	ld   r14,#0x1
+	jp   #L1117
+L1152:
+	.dlab LBE1197
+	.dlab LBE1196
+	.dlab LBE1195
+	.dlab LBE1194
+	.dlab LBB1198
+	.dlab LBB1199
+	.dlab LBB1200
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext301
+Ltext301:
+	.line 305
+	ld   i0,d1
+	call &__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_length_errorEv ; call non-native
+	ld   r3,[fr,-40]
+	ld   r0,[fr,-44]
+	jp   #L1054
+L1153:
+	.dlab LBE1200
+	.dlab LBE1199
+	.dlab LBE1198
+	.dlab LBB1201
+	.dlab LBB1202
+	.dlab LBB1203
+	.dlab LBB1204
+	.dlab LBB1205
+	.dlab LBB1206
+	.dlab LBB1207
+	.dlab LBB1208
+	.dlab LBB1209
+	.dlab LBB1210
+	.dlab LBB1211
+	.dlab LBB1212
+	.dlab LBB1213
+	.dlab LBB1214
+	.dlab LBB1215
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext302
+Ltext302:
+	.line 113
+	ld   i0,#LC6
+	call &_puts ; call non-native
+	ld   i0,#0x1
+	call &_exit ; call non-native
+	.dlab LBE1215
+	.dlab LBE1214
+	.dlab LBE1213
+	.dlab LBE1212
+	.dlab LBE1211
+	.dlab LBE1210
+	.dlab LBE1209
+	.dlab LBE1208
+	.dlab LBE1207
+	.dlab LBE1206
+	.dlab LBE1205
+	.dlab LBE1204
+	.dlab LBE1203
+	.dlab LBE1202
+	.dlab LBE1201
+	.dlab LBE1184
+	.dlab LBE1179
+	.dlab LBE1178
+	.dlab LBE1177
+	.dlab LBE1176
+	.dlab LBE1175
+	.stabs	"__n:(7,2)",128,0,302,-40
+	.stabn	192,0,0,LBB1058-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__size:(3,89)",128,0,303,-44
+	.stabs	"__len:r(7,2)",64,0,306,6
+	.stabn	192,0,0,LBB1060-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__string_max_size:(3,89)",128,0,105,-36
+	.stabs	"__alloc_max_size:(7,2)",128,0,106,-32
+	.stabn	192,0,0,LBB1067-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1067-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__string_max_size:(3,89)",128,0,105,-52
+	.stabs	"__alloc_max_size:(7,2)",128,0,106,-48
+	.stabn	192,0,0,LBB1074-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1074-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__string_max_size:(3,89)",128,0,105,-60
+	.stabs	"__alloc_max_size:(7,2)",128,0,106,-56
+	.stabn	192,0,0,LBB1079-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1079-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1060-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1058-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__y:r(12,28)",64,0,113,30
+	.stabn	192,0,0,LBB1094-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1094-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__y:r(12,28)",64,0,113,30
+	.stabn	192,0,0,LBB1099-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1099-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__first:r(11,93)",64,0,83,30
+	.stabn	192,0,0,LBB1106-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__cur:r(11,93)",64,0,84,16
+	.stabn	192,0,0,LBB1108-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__n:r(7,3)",64,0,86,17
+	.stabn	192,0,0,LBB1110-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1110-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1108-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1106-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__first:r(11,88)",64,0,83,13
+	.stabn	192,0,0,LBB1117-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__cur:r(11,93)",64,0,84,4
+	.stabn	192,0,0,LBB1119-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__n:r(7,3)",64,0,86,30
+	.stabn	192,0,0,LBB1121-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1121-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1119-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1117-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__first:r(11,88)",64,0,83,16
+	.stabn	192,0,0,LBB1154-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__cur:r(11,93)",64,0,84,30
+	.stabn	192,0,0,LBB1156-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__n:r(7,3)",64,0,86,14
+	.stabn	192,0,0,LBB1158-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1158-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1156-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1154-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__n:(7,2)",128,0,302,-40
+	.stabn	192,0,0,LBB1198-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__size:(3,89)",128,0,303,-44
+	.stabs	"__len:r(7,2)",64,0,306,6
+	.stabn	192,0,0,LBB1200-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1200-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1198-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabs	"__y:r(12,28)",64,0,113,30
+	.stabn	192,0,0,LBB1215-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+	.stabn	224,0,0,LBE1215-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_
+Lscope33:
+	.stabs	"_ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_:f(3,106)",36,0,242,__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_
+	.stabs	"this:P(0,503)",64,0,242,6
+	.stabs	"__f:P(11,88)",64,0,242,7
+	.stabs	"__l:P(11,88)",64,0,242,8
+
+.func __ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_, 3, int
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext303
+Ltext303:
+	.line 242
+	push rt,d4
+	ld   fr,sp
+	add  fr,#0x1c
+	ld   d2,i0
+	ld   d3,i1
+	ld   d4,i2
+	.dlab LBB1216
+	.dlab LBB1217
+	.line 243
+	ld   d1,i2
+	sub  d1,i1
+	.dlab LBB1218
+	.dlab LBB1219
+	.dlab LBB1220
+	.dlab LBB1221
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext304
+Ltext304:
+	.line 89
+	ld   d0,[i0,16]
+	.dlab LBE1221
+	.dlab LBE1220
+	.dlab LBB1222
+	.dlab LBB1223
+	.line 65
+	ld   i0,[i0,20]
+	.dlab LBE1223
+	.dlab LBE1222
+	ld   i2,d0
+	sub  i2,i0
+	.dlab LBE1219
+	.dlab LBE1218
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext305
+Ltext305:
+	.line 400
+	jc   gtu,d1,i2,#L1159
+	.dlab LBB1224
+	.dlab LBB1225
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext306
+Ltext306:
+	.line 170
+	ld   r14,#0x0
+	jc   ne,d1,r14,#L1189
+L1166:
+	.dlab LBE1225
+	.dlab LBE1224
+	.dlab LBB1226
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext307
+Ltext307:
+	.line 385
+	add  d1,i0
+	.dlab LBB1227
+	.line 803
+	jc   eq,d1,d0,#L1178
+	.dlab LBB1228
+	.dlab LBB1229
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext308
+Ltext308:
+	.line 168
+	ld   i0,d1
+	ld   i1,d0
+	ld   i2,#0x1
+	call &_memmove ; call non-native
+	.dlab LBE1229
+	.dlab LBE1228
+	.dlab LBB1230
+	.dlab LBB1231
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext309
+Ltext309:
+	.line 90
+	ld   r14,[d2,16]
+	.dlab LBE1231
+	.dlab LBE1230
+	sub  d0,d1
+	sub  r14,d0
+	ld   [d2,16],r14
+	.dlab LBE1227
+	.dlab LBE1226
+	.dlab LBE1217
+	.dlab LBE1216
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext310
+Ltext310:
+	.line 252
+	ld   r14,d2
+	pop  rt,d4
+	ret
+L1159:
+	.dlab LBB1232
+	.dlab LBB1233
+	.dlab LBB1234
+	.dlab LBB1235
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext311
+Ltext311:
+	.line 170
+	ld   r14,#0x0
+	jc   ne,i2,r14,#L1190
+L1185:
+	.dlab LBE1235
+	.dlab LBE1234
+	.dlab LBB1236
+	.dlab LBB1237
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext312
+Ltext312:
+	.line 65
+	sub  d0,i0
+	.dlab LBE1237
+	.dlab LBE1236
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext313
+Ltext313:
+	.line 400
+	ld   i0,d2
+	ld   i1,d0
+	add  i1,d3
+	ld   i2,d4
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_ ; call non-native
+L1178:
+	.dlab LBE1233
+	.dlab LBE1232
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.c",132,0,0,Ltext314
+Ltext314:
+	.line 252
+	ld   r14,d2
+	pop  rt,d4
+	ret
+L1190:
+	.dlab LBB1238
+	.dlab LBB1239
+	.dlab LBB1240
+	.dlab LBB1241
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext315
+Ltext315:
+	.line 170
+	call &_memcpy ; call non-native
+	ld   d0,[d2,16]
+	ld   i0,[d2,20]
+	jp   #L1185
+L1189:
+	.dlab LBE1241
+	.dlab LBE1240
+	.dlab LBB1242
+	.dlab LBB1243
+	ld   i2,d1
+	call &_memcpy ; call non-native
+	ld   d0,[d2,16]
+	ld   i0,[d2,20]
+	jp   #L1166
+	.dlab LBE1243
+	.dlab LBE1242
+	.dlab LBE1239
+	.dlab LBE1238
+	.stabs	"__n:r(7,3)",64,0,243,5
+	.stabn	192,0,0,LBB1217-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_
+	.stabs	"__first:r(11,93)",64,0,802,5
+	.stabn	192,0,0,LBB1226-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_
+	.stabn	224,0,0,LBE1226-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_
+	.stabn	224,0,0,LBE1217-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_
+	.stabs	"__n:r(7,3)",64,0,243,5
+	.stabn	192,0,0,LBB1233-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_
+	.stabn	224,0,0,LBE1233-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_
+	.stabs	"__n:r(7,3)",64,0,243,5
+	.stabn	192,0,0,LBB1239-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_
+	.stabn	224,0,0,LBE1239-__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_
+Lscope34:
 .data
-LC16:
+LC21:
+	.ascii "PA0 \0"
+LC22:
+	.ascii "PA1 \0"
+LC23:
+	.ascii "PA2 \0"
+LC24:
+	.ascii "PA3 \0"
+LC25:
+	.ascii "PA4 \0"
+LC26:
+	.ascii "PA5 \0"
+LC27:
+	.ascii "PA6 \0"
+LC28:
+	.ascii "PA7 \0"
+LC29:
+	.ascii "<h2>Digital Input:</h2>\0"
+LC30:
+	.ascii "ADC0: \0"
+LC31:
+	.ascii "ADC1: \0"
+LC32:
+	.ascii "ADC2: \0"
+LC33:
+	.ascii "ADC3: \0"
+LC34:
+	.ascii "on\0"
+LC35:
+	.ascii "W\305\201\0"
+LC36:
+	.ascii "WY\305\201\0"
+.code
+	.stabs	"_ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE:F(0,6)",36,0,238,__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"this:P(0,489)",64,0,238,11
+	.stabs	"text:a(36,1)",64,0,238,10
+	.global	__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+
+.func __ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE, 2, void
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext316
+Ltext316:
+	.line 238
+	push rt,d7
+	sub  sp,#0x18c
+	ld   fr,sp
+	add  fr,#0x1b4
+	ld   d7,i0
+	ld   d6,i1
+	.dlab LBB1244
+	.dlab LBB1245
+	.line 239
+	ld   d0,#0xffffff18
+	add  d0,fr
+	ld   d1,#0x7
+	ld   r0,#0xffffffff
+	jc   eq,d1,r0,#L1193
+L1838:
+	.dlab LBB1246
+	.dlab LBB1247
+	.dlab LBB1248
+	.dlab LBB1249
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext317
+Ltext317:
+	.line 120
+	ld   [d0,16],d0
+	.dlab LBB1250
+	.dlab LBB1251
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext318
+Ltext318:
+	.line 481
+	ld   [d0,20],d0
+	.dlab LBE1251
+	.dlab LBE1250
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext319
+Ltext319:
+	.line 124
+	ld   i0,d0
+	ld   i1,#0x10
+	call &__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm ; call non-native
+	.dlab LBE1249
+	.dlab LBE1248
+	.dlab LBB1252
+	.dlab LBB1253
+	.dlab LBB1254
+	.dlab LBB1255
+	.dlab LBB1256
+	.line 90
+	ld   r14,[d0,16]
+	.dlab LBE1256
+	.dlab LBE1255
+	.dlab LBB1257
+	.dlab LBB1258
+	.dlab LBB1259
+	.dlab LBB1260
+	.dlab LBB1261
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext320
+Ltext320:
+	.line 101
+	ld   r2,#0x0
+	ld.b [r14],r2
+	.dlab LBE1261
+	.dlab LBE1260
+	.dlab LBE1259
+	.dlab LBE1258
+	.dlab LBE1257
+	.dlab LBE1254
+	.dlab LBE1253
+	.dlab LBE1252
+	.dlab LBE1247
+	.dlab LBE1246
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext321
+Ltext321:
+	.line 239
+	add  d0,#0x18
+	add  d1,#0xffffffff
+	ld   r0,#0xffffffff
+	jc   ne,d1,r0,#L1838
+L1193:
+	.dlab LBB1262
+	.dlab LBB1263
+	.dlab LBB1264
+	.dlab LBB1265
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext322
+Ltext322:
+	.line 229
+	ld   i0,#LC21
+	call &_strlen ; call non-native
+	.dlab LBE1265
+	.dlab LBE1264
+	ld   i0,#0xffffff18
+	add  i0,fr
+	ld   i1,#LC21
+	ld   i2,r14
+	add  i2,i1
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_ ; call non-native
+	.dlab LBE1263
+	.dlab LBE1262
+	.dlab LBB1266
+	.dlab LBB1267
+	.dlab LBB1268
+	.dlab LBB1269
+	ld   i0,#LC22
+	call &_strlen ; call non-native
+	.dlab LBE1269
+	.dlab LBE1268
+	ld   i0,fr
+	add  i0,#0xffffff30
+	ld   i1,#LC22
+	ld   i2,r14
+	add  i2,i1
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_ ; call non-native
+	.dlab LBE1267
+	.dlab LBE1266
+	.dlab LBB1270
+	.dlab LBB1271
+	.dlab LBB1272
+	.dlab LBB1273
+	ld   i0,#LC23
+	call &_strlen ; call non-native
+	.dlab LBE1273
+	.dlab LBE1272
+	ld   i0,fr
+	add  i0,#0xffffff48
+	ld   i1,#LC23
+	ld   i2,r14
+	add  i2,i1
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_ ; call non-native
+	.dlab LBE1271
+	.dlab LBE1270
+	.dlab LBB1274
+	.dlab LBB1275
+	.dlab LBB1276
+	.dlab LBB1277
+	ld   i0,#LC24
+	call &_strlen ; call non-native
+	.dlab LBE1277
+	.dlab LBE1276
+	ld   i0,fr
+	add  i0,#0xffffff60
+	ld   i1,#LC24
+	ld   i2,r14
+	add  i2,i1
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_ ; call non-native
+	.dlab LBE1275
+	.dlab LBE1274
+	.dlab LBB1278
+	.dlab LBB1279
+	.dlab LBB1280
+	.dlab LBB1281
+	ld   i0,#LC25
+	call &_strlen ; call non-native
+	.dlab LBE1281
+	.dlab LBE1280
+	ld   i0,fr
+	add  i0,#0xffffff78
+	ld   i1,#LC25
+	ld   i2,r14
+	add  i2,i1
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_ ; call non-native
+	.dlab LBE1279
+	.dlab LBE1278
+	.dlab LBB1282
+	.dlab LBB1283
+	.dlab LBB1284
+	.dlab LBB1285
+	ld   i0,#LC26
+	call &_strlen ; call non-native
+	.dlab LBE1285
+	.dlab LBE1284
+	ld   i0,fr
+	add  i0,#0xffffff90
+	ld   i1,#LC26
+	ld   i2,r14
+	add  i2,i1
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_ ; call non-native
+	.dlab LBE1283
+	.dlab LBE1282
+	.dlab LBB1286
+	.dlab LBB1287
+	.dlab LBB1288
+	.dlab LBB1289
+	ld   i0,#LC27
+	call &_strlen ; call non-native
+	.dlab LBE1289
+	.dlab LBE1288
+	ld   i0,fr
+	add  i0,#0xffffffa8
+	ld   i1,#LC27
+	ld   i2,r14
+	add  i2,i1
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_ ; call non-native
+	.dlab LBE1287
+	.dlab LBE1286
+	.dlab LBB1290
+	.dlab LBB1291
+	.dlab LBB1292
+	.dlab LBB1293
+	ld   i0,#LC28
+	call &_strlen ; call non-native
+	.dlab LBE1293
+	.dlab LBE1292
+	ld   i0,fr
+	add  i0,#0xffffffc0
+	ld   i1,#LC28
+	ld   i2,r14
+	add  i2,i1
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_appendEPKcS7_ ; call non-native
+	.dlab LBE1291
+	.dlab LBE1290
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext323
+Ltext323:
+	.line 289
+	ld   d0,fr
+	add  d0,#0xffffff14
+	ld   i0,#0xfffffefc
+	add  i0,fr
+	ld   i1,#LC29
+	ld   i2,d0
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_ ; call non-native
+	ld   i0,#0xfffffee4
+	add  i0,fr
+	ld   i1,#LC30
+	ld   i2,d0
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_ ; call non-native
+	ld   i0,#0xfffffecc
+	add  i0,fr
+	ld   i1,#LC31
+	ld   i2,d0
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_ ; call non-native
+	ld   i0,#0xfffffeb4
+	add  i0,fr
+	ld   i1,#LC32
+	ld   i2,d0
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_ ; call non-native
+	ld   i0,#0xfffffe9c
+	add  i0,fr
+	ld   i1,#LC33
+	ld   i2,d0
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_ ; call non-native
+	.dlab LBB1294
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext324
+Ltext324:
+	.line 259
+	ld   d4,#0x0
+L1346:
+	.dlab LBB1295
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext325
+Ltext325:
+	.line 954
+	ld   d5,d4
+	mul  d5,#0x18
+	ld   d3,#0xffffff18
+	add  d3,fr
+	add  d3,d5
+	.dlab LBB1296
+	.dlab LBB1297
+	.dlab LBB1298
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext326
+Ltext326:
+	.line 65
+	ld   i1,[d3,20]
+	.dlab LBE1298
+	.dlab LBE1297
+	.dlab LBB1299
+	.dlab LBB1300
+	.dlab LBB1301
+	.dlab LBB1302
+	.line 89
+	ld   i3,[d3,16]
+	.dlab LBE1302
+	.dlab LBE1301
+	.dlab LBE1300
+	.dlab LBE1299
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext327
+Ltext327:
+	.line 400
+	ld   i0,d6
+	ld   i2,#0x0
+	sub  i3,i1
+	call &__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm ; call non-native
+	.dlab LBE1296
+	.dlab LBE1295
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext328
+Ltext328:
+	.line 263
+	ld   r0,#0xffffffff
+	jc   eq,r14,r0,#L1256
+	.dlab LBB1303
+	.dlab LBB1304
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext329
+Ltext329:
+	.line 1023
+	add  r14,#0x4
+	.dlab LBB1305
+	.dlab LBB1306
+	.line 204
+	ld   r2,#0x2
+	ld   [fr,-392],r2
+	.dlab LBB1307
+	.dlab LBB1308
+	.dlab LBB1309
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext330
+Ltext330:
+	.line 116
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	ld   [fr,-364],r0
+	.dlab LBB1310
+	.dlab LBB1311
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext331
+Ltext331:
+	.line 481
+	ld   r2,r0
+	ld   [fr,-360],r0
+	.dlab LBE1311
+	.dlab LBE1310
+	.dlab LBE1309
+	.dlab LBE1308
+	.dlab LBB1312
+	.dlab LBB1313
+	.dlab LBB1314
+	.dlab LBB1315
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext332
+Ltext332:
+	.line 89
+	ld   r0,[d6,16]
+	.dlab LBE1315
+	.dlab LBE1314
+	.dlab LBB1316
+	.dlab LBB1317
+	.line 65
+	ld   d0,[d6,20]
+	.dlab LBE1317
+	.dlab LBE1316
+	sub  r0,d0
+	.dlab LBE1313
+	.dlab LBE1312
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext333
+Ltext333:
+	.line 400
+	jc   ltu,r0,r14,#L1839
+	.dlab LBB1318
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext334
+Ltext334:
+	.line 65
+	ld   d2,d0
+	add  d2,r14
+	.dlab LBB1319
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext335
+Ltext335:
+	.line 400
+	sub  r0,r14
+	ld   [fr,-396],r0
+	.dlab LBB1320
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext336
+Ltext336:
+	.line 139
+	ld   r1,fr
+	add  r1,#0xfffffe78
+	ld   r14,[fr,-392]
+	jc   leu,r14,r0,#L1282
+	add  r1,#0xfffffffc
+L1282:
+	.dlab LBE1320
+	.dlab LBE1319
+	.line 400
+	ld   d0,[r1]
+	add  d0,d2
+	.dlab LBB1321
+	.dlab LBB1322
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext337
+Ltext337:
+	.line 378
+	ld   d1,d0
+	sub  d1,d2
+	.line 379
+	ld   i0,#0xfffffe84
+	add  i0,fr
+	ld   i1,d1
+	add  i1,#0x1
+	call &__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm ; call non-native
+	.dlab LBB1323
+	.dlab LBB1324
+	.dlab LBB1325
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext338
+Ltext338:
+	.line 66
+	ld   i0,[fr,-360]
+	.dlab LBE1325
+	.dlab LBE1324
+	.dlab LBB1326
+	.dlab LBB1327
+	.dlab LBB1328
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext339
+Ltext339:
+	.line 103
+	ld   r14,i0
+	jc   eq,d0,d2,#L1286
+	ld   i1,d2
+	ld   i2,d1
+	call &_memcpy ; call non-native
+	add  r14,d1
+L1286:
+	.dlab LBE1328
+	.dlab LBE1327
+	.dlab LBE1326
+	.dlab LBE1323
+	.line 66
+	ld   [fr,-364],r14
+	.dlab LBB1329
+	.dlab LBB1330
+	.dlab LBB1331
+	.dlab LBB1332
+	.dlab LBB1333
+	.dlab LBB1334
+	.dlab LBB1335
+	.dlab LBB1336
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext340
+Ltext340:
+	.line 101
+	ld   r0,#0x0
+	ld.b [r14],r0
+L1296:
+	.dlab LBE1336
+	.dlab LBE1335
+	.dlab LBE1334
+	.dlab LBE1333
+	.dlab LBE1332
+	.dlab LBE1331
+	.dlab LBE1330
+	.dlab LBE1329
+	.dlab LBE1322
+	.dlab LBE1321
+	.dlab LBE1318
+	.dlab LBE1307
+	.dlab LBE1306
+	.dlab LBE1305
+	.dlab LBE1304
+	.dlab LBB1337
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext341
+Ltext341:
+	.line 348
+	ld   r2,#0xfffffe84
+	add  r2,fr
+	jc   eq,r2,d3,#L1301
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext342
+Ltext342:
+	.line 89
+	ld   i0,d3
+	ld   i1,[fr,-360]
+	ld   i2,[fr,-364]
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_ ; call non-native
+L1301:
+	.dlab LBE1337
+	.dlab LBE1303
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-360]
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	jc   eq,i0,r0,#L1840
+L1309:
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1314
+	jc   eq,i0,r14,#L1314
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext343
+Ltext343:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1314:
+	.dlab LBB1338
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_operators.h",132,0,0,Ltext344
+Ltext344:
+	.line 321
+	ld   d0,#0xffffff18
+	add  d0,fr
+	add  d0,d5
+	.dlab LBB1339
+	.dlab LBB1340
+	.dlab LBB1341
+	.dlab LBB1342
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext345
+Ltext345:
+	.line 229
+	ld   i0,#LC34
+	call &_strlen ; call non-native
+	.dlab LBE1342
+	.dlab LBE1341
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_operators.h",132,0,0,Ltext346
+Ltext346:
+	.line 323
+	ld   d1,#0x0
+	.dlab LBB1343
+	.dlab LBB1344
+	.dlab LBB1345
+	.dlab LBB1346
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext347
+Ltext347:
+	.line 89
+	ld   i2,[d0,16]
+	.dlab LBE1346
+	.dlab LBE1345
+	.dlab LBB1347
+	.dlab LBB1348
+	.line 65
+	ld   i0,[d0,20]
+	.dlab LBE1348
+	.dlab LBE1347
+	sub  i2,i0
+	.dlab LBE1344
+	.dlab LBE1343
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext348
+Ltext348:
+	.line 400
+	jc   eq,i2,r14,#L1841
+L1328:
+	.dlab LBE1340
+	.dlab LBE1339
+	.dlab LBE1338
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_operators.h",132,0,0,Ltext349
+Ltext349:
+	.line 321
+	ld   r0,d1
+	ld   r14,#0x0
+	jc   eq,d1,r14,#L1325
+	ld   r14,d4
+	add  r14,d7
+	ld   r0,#0x1
+L1835:
+	ld.b [r14,168],r0
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext350
+Ltext350:
+	.line 267
+	ld.b r14,[r14,168]
+	and  r14,#0xff  ; zero extend
+	ld   r2,#0x0
+	jc   eq,r14,r2,#L1336
+	.dlab LBB1349
+	.dlab LBB1350
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext351
+Ltext351:
+	.line 182
+	ld   r14,d4
+	sll  r14,#0x2
+	ld   r0,[d7,124]
+	add  r14,r0
+	.dlab LBE1350
+	.dlab LBE1349
+	.line 202
+	ld   d1,[r14]
+	ld   d2,fr
+	add  d2,#0xfffffe80
+	ld   i0,d2
+	ld   i1,#LC35
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d2
+	call d0 ; call non-native
+L1831:
+	ld   i0,fr
+	add  i0,#0xfffffe80
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+L1256:
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext352
+Ltext352:
+	.line 259
+	add  d4,#0x1
+	ld   r14,#0x7
+	jc   le,d4,r14,#L1346
+	.dlab LBE1294
+	.dlab LBB1351
+	.dlab LBB1352
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext353
+Ltext353:
+	.line 400
+	ld   i0,d6
+	ld   i1,[fr,-240]
+	ld   i2,#0x0
+	ld   i3,[fr,-244]
+	sub  i3,i1
+	call &__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm ; call non-native
+	.dlab LBE1352
+	.dlab LBE1351
+	.dlab LBB1353
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext354
+Ltext354:
+	.line 273
+	ld   r0,#0xffffffff
+	jc   eq,r14,r0,#L1352
+	.dlab LBB1354
+	.dlab LBB1355
+	.dlab LBB1356
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext355
+Ltext355:
+	.line 1023
+	add  r14,#0x17
+	.dlab LBB1357
+	.dlab LBB1358
+	.line 204
+	ld   r2,#0x4
+	ld   [fr,-400],r2
+	.dlab LBB1359
+	.dlab LBB1360
+	.dlab LBB1361
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext356
+Ltext356:
+	.line 116
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	ld   [fr,-364],r0
+	.dlab LBB1362
+	.dlab LBB1363
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext357
+Ltext357:
+	.line 481
+	ld   r2,r0
+	ld   [fr,-360],r0
+	.dlab LBE1363
+	.dlab LBE1362
+	.dlab LBE1361
+	.dlab LBE1360
+	.dlab LBB1364
+	.dlab LBB1365
+	.dlab LBB1366
+	.dlab LBB1367
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext358
+Ltext358:
+	.line 89
+	ld   r0,[d6,16]
+	.dlab LBE1367
+	.dlab LBE1366
+	.dlab LBB1368
+	.dlab LBB1369
+	.line 65
+	ld   d0,[d6,20]
+	.dlab LBE1369
+	.dlab LBE1368
+	sub  r0,d0
+	.dlab LBE1365
+	.dlab LBE1364
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext359
+Ltext359:
+	.line 400
+	jc   ltu,r0,r14,#L1842
+	.dlab LBB1370
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext360
+Ltext360:
+	.line 65
+	ld   d2,d0
+	add  d2,r14
+	.dlab LBB1371
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext361
+Ltext361:
+	.line 400
+	sub  r0,r14
+	ld   [fr,-404],r0
+	.dlab LBB1372
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext362
+Ltext362:
+	.line 139
+	ld   r1,fr
+	add  r1,#0xfffffe70
+	ld   r14,[fr,-400]
+	jc   leu,r14,r0,#L1372
+	add  r1,#0xfffffffc
+L1372:
+	.dlab LBE1372
+	.dlab LBE1371
+	.line 400
+	ld   d0,[r1]
+	add  d0,d2
+	.dlab LBB1373
+	.dlab LBB1374
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext363
+Ltext363:
+	.line 378
+	ld   d1,d0
+	sub  d1,d2
+	.line 379
+	ld   i0,#0xfffffe84
+	add  i0,fr
+	ld   i1,d1
+	add  i1,#0x1
+	call &__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm ; call non-native
+	.dlab LBB1375
+	.dlab LBB1376
+	.dlab LBB1377
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext364
+Ltext364:
+	.line 66
+	ld   i0,[fr,-360]
+	.dlab LBE1377
+	.dlab LBE1376
+	.dlab LBB1378
+	.dlab LBB1379
+	.dlab LBB1380
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext365
+Ltext365:
+	.line 103
+	ld   r14,i0
+	jc   eq,d0,d2,#L1376
+	ld   i1,d2
+	ld   i2,d1
+	call &_memcpy ; call non-native
+	add  r14,d1
+L1376:
+	.dlab LBE1380
+	.dlab LBE1379
+	.dlab LBE1378
+	.dlab LBE1375
+	.line 66
+	ld   [fr,-364],r14
+	.dlab LBB1381
+	.dlab LBB1382
+	.dlab LBB1383
+	.dlab LBB1384
+	.dlab LBB1385
+	.dlab LBB1386
+	.dlab LBB1387
+	.dlab LBB1388
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext366
+Ltext366:
+	.line 101
+	ld   r0,#0x0
+	ld.b [r14],r0
+L1386:
+	.dlab LBE1388
+	.dlab LBE1387
+	.dlab LBE1386
+	.dlab LBE1385
+	.dlab LBE1384
+	.dlab LBE1383
+	.dlab LBE1382
+	.dlab LBE1381
+	.dlab LBE1374
+	.dlab LBE1373
+	.dlab LBE1370
+	.dlab LBE1359
+	.dlab LBE1358
+	.dlab LBE1357
+	.dlab LBE1356
+	.dlab LBB1389
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext367
+Ltext367:
+	.line 348
+	ld   r2,#0xfffffe84
+	add  r2,fr
+	ld   r14,#0xfffffefc
+	add  r14,fr
+	jc   eq,r2,r14,#L1391
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext368
+Ltext368:
+	.line 89
+	ld   i0,r14
+	ld   i1,[fr,-360]
+	ld   i2,[fr,-364]
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_ ; call non-native
+L1391:
+	.dlab LBE1389
+	.dlab LBE1355
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-360]
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	jc   eq,i0,r0,#L1843
+L1399:
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1404
+	jc   eq,i0,r14,#L1404
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext369
+Ltext369:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1404:
+	.dlab LBB1390
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext370
+Ltext370:
+	.line 277
+	ld   r0,#0x0
+	ld   r1,[fr,-240]
+L1422:
+	.dlab LBB1391
+	.dlab LBB1392
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext371
+Ltext371:
+	.line 66
+	ld   r14,r1
+	add  r14,r0
+	.dlab LBE1392
+	.dlab LBE1391
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext372
+Ltext372:
+	.line 435
+	ld.b r14,[r14]
+	xb   r14,r14
+	ld   r2,#0x31
+	jc   eq,r14,r2,#L1844
+	ld   r14,r0
+	add  r14,d7
+	ld   r2,#0x0
+L1836:
+	ld.b [r14,164],r2
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext373
+Ltext373:
+	.line 277
+	add  r0,#0x1
+	ld   r14,#0x3
+	jc   le,r0,r14,#L1422
+L1352:
+	.dlab LBE1390
+	.dlab LBE1354
+	.dlab LBE1353
+	.dlab LBB1393
+	.dlab LBB1394
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext374
+Ltext374:
+	.line 400
+	ld   i0,d6
+	ld   i1,[fr,-264]
+	ld   i2,#0x0
+	ld   i3,[fr,-268]
+	sub  i3,i1
+	call &__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm ; call non-native
+	.dlab LBE1394
+	.dlab LBE1393
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext375
+Ltext375:
+	.line 285
+	ld   r0,#0xffffffff
+	jc   eq,r14,r0,#L1428
+	.dlab LBB1395
+	.dlab LBB1396
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext376
+Ltext376:
+	.line 1023
+	add  r14,#0x6
+	.dlab LBB1397
+	.dlab LBB1398
+	.line 204
+	ld   r2,#0x4
+	ld   [fr,-408],r2
+	.dlab LBB1399
+	.dlab LBB1400
+	.dlab LBB1401
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext377
+Ltext377:
+	.line 116
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	ld   [fr,-364],r0
+	.dlab LBB1402
+	.dlab LBB1403
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext378
+Ltext378:
+	.line 481
+	ld   r2,r0
+	ld   [fr,-360],r0
+	.dlab LBE1403
+	.dlab LBE1402
+	.dlab LBE1401
+	.dlab LBE1400
+	.dlab LBB1404
+	.dlab LBB1405
+	.dlab LBB1406
+	.dlab LBB1407
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext379
+Ltext379:
+	.line 89
+	ld   r0,[d6,16]
+	.dlab LBE1407
+	.dlab LBE1406
+	.dlab LBB1408
+	.dlab LBB1409
+	.line 65
+	ld   d0,[d6,20]
+	.dlab LBE1409
+	.dlab LBE1408
+	sub  r0,d0
+	.dlab LBE1405
+	.dlab LBE1404
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext380
+Ltext380:
+	.line 400
+	jc   ltu,r0,r14,#L1845
+	.dlab LBB1410
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext381
+Ltext381:
+	.line 65
+	ld   d2,d0
+	add  d2,r14
+	.dlab LBB1411
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext382
+Ltext382:
+	.line 400
+	sub  r0,r14
+	ld   [fr,-412],r0
+	.dlab LBB1412
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext383
+Ltext383:
+	.line 139
+	ld   r1,fr
+	add  r1,#0xfffffe68
+	ld   r14,[fr,-408]
+	jc   leu,r14,r0,#L1448
+	add  r1,#0xfffffffc
+L1448:
+	.dlab LBE1412
+	.dlab LBE1411
+	.line 400
+	ld   d0,[r1]
+	add  d0,d2
+	.dlab LBB1413
+	.dlab LBB1414
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext384
+Ltext384:
+	.line 378
+	ld   d1,d0
+	sub  d1,d2
+	.line 379
+	ld   i0,#0xfffffe84
+	add  i0,fr
+	ld   i1,d1
+	add  i1,#0x1
+	call &__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm ; call non-native
+	.dlab LBB1415
+	.dlab LBB1416
+	.dlab LBB1417
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext385
+Ltext385:
+	.line 66
+	ld   i0,[fr,-360]
+	.dlab LBE1417
+	.dlab LBE1416
+	.dlab LBB1418
+	.dlab LBB1419
+	.dlab LBB1420
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext386
+Ltext386:
+	.line 103
+	ld   r14,i0
+	jc   eq,d0,d2,#L1452
+	ld   i1,d2
+	ld   i2,d1
+	call &_memcpy ; call non-native
+	add  r14,d1
+L1452:
+	.dlab LBE1420
+	.dlab LBE1419
+	.dlab LBE1418
+	.dlab LBE1415
+	.line 66
+	ld   [fr,-364],r14
+	.dlab LBB1421
+	.dlab LBB1422
+	.dlab LBB1423
+	.dlab LBB1424
+	.dlab LBB1425
+	.dlab LBB1426
+	.dlab LBB1427
+	.dlab LBB1428
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext387
+Ltext387:
+	.line 101
+	ld   r0,#0x0
+	ld.b [r14],r0
+L1462:
+	.dlab LBE1428
+	.dlab LBE1427
+	.dlab LBE1426
+	.dlab LBE1425
+	.dlab LBE1424
+	.dlab LBE1423
+	.dlab LBE1422
+	.dlab LBE1421
+	.dlab LBE1414
+	.dlab LBE1413
+	.dlab LBE1410
+	.dlab LBE1399
+	.dlab LBE1398
+	.dlab LBE1397
+	.dlab LBE1396
+	.dlab LBB1429
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext388
+Ltext388:
+	.line 348
+	ld   r2,#0xfffffe84
+	add  r2,fr
+	ld   r14,#0xfffffee4
+	add  r14,fr
+	jc   eq,r2,r14,#L1467
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext389
+Ltext389:
+	.line 89
+	ld   i0,r14
+	ld   i1,[fr,-360]
+	ld   i2,[fr,-364]
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_ ; call non-native
+L1467:
+	.dlab LBE1429
+	.dlab LBE1395
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-360]
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	jc   eq,i0,r0,#L1846
+L1475:
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1480
+	jc   eq,i0,r14,#L1480
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext390
+Ltext390:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1480:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext391
+Ltext391:
+	.line 949
+	ld   i0,[fr,-264]
+	call &_atoi ; call non-native
+	ld   [d7,148],r14
+L1428:
+	.dlab LBB1430
+	.dlab LBB1431
+	.line 400
+	ld   i0,d6
+	ld   i1,[fr,-288]
+	ld   i2,#0x0
+	ld   i3,[fr,-292]
+	sub  i3,i1
+	call &__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm ; call non-native
+	.dlab LBE1431
+	.dlab LBE1430
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext392
+Ltext392:
+	.line 291
+	ld   r0,#0xffffffff
+	jc   eq,r14,r0,#L1498
+	.dlab LBB1432
+	.dlab LBB1433
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext393
+Ltext393:
+	.line 1023
+	add  r14,#0x6
+	.dlab LBB1434
+	.dlab LBB1435
+	.line 204
+	ld   r2,#0x4
+	ld   [fr,-416],r2
+	.dlab LBB1436
+	.dlab LBB1437
+	.dlab LBB1438
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext394
+Ltext394:
+	.line 116
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	ld   [fr,-364],r0
+	.dlab LBB1439
+	.dlab LBB1440
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext395
+Ltext395:
+	.line 481
+	ld   r2,r0
+	ld   [fr,-360],r0
+	.dlab LBE1440
+	.dlab LBE1439
+	.dlab LBE1438
+	.dlab LBE1437
+	.dlab LBB1441
+	.dlab LBB1442
+	.dlab LBB1443
+	.dlab LBB1444
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext396
+Ltext396:
+	.line 89
+	ld   r0,[d6,16]
+	.dlab LBE1444
+	.dlab LBE1443
+	.dlab LBB1445
+	.dlab LBB1446
+	.line 65
+	ld   d0,[d6,20]
+	.dlab LBE1446
+	.dlab LBE1445
+	sub  r0,d0
+	.dlab LBE1442
+	.dlab LBE1441
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext397
+Ltext397:
+	.line 400
+	jc   ltu,r0,r14,#L1847
+	.dlab LBB1447
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext398
+Ltext398:
+	.line 65
+	ld   d2,d0
+	add  d2,r14
+	.dlab LBB1448
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext399
+Ltext399:
+	.line 400
+	sub  r0,r14
+	ld   [fr,-420],r0
+	.dlab LBB1449
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext400
+Ltext400:
+	.line 139
+	ld   r1,fr
+	add  r1,#0xfffffe60
+	ld   r14,[fr,-416]
+	jc   leu,r14,r0,#L1518
+	add  r1,#0xfffffffc
+L1518:
+	.dlab LBE1449
+	.dlab LBE1448
+	.line 400
+	ld   d0,[r1]
+	add  d0,d2
+	.dlab LBB1450
+	.dlab LBB1451
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext401
+Ltext401:
+	.line 378
+	ld   d1,d0
+	sub  d1,d2
+	.line 379
+	ld   i0,#0xfffffe84
+	add  i0,fr
+	ld   i1,d1
+	add  i1,#0x1
+	call &__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm ; call non-native
+	.dlab LBB1452
+	.dlab LBB1453
+	.dlab LBB1454
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext402
+Ltext402:
+	.line 66
+	ld   i0,[fr,-360]
+	.dlab LBE1454
+	.dlab LBE1453
+	.dlab LBB1455
+	.dlab LBB1456
+	.dlab LBB1457
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext403
+Ltext403:
+	.line 103
+	ld   r14,i0
+	jc   eq,d0,d2,#L1522
+	ld   i1,d2
+	ld   i2,d1
+	call &_memcpy ; call non-native
+	add  r14,d1
+L1522:
+	.dlab LBE1457
+	.dlab LBE1456
+	.dlab LBE1455
+	.dlab LBE1452
+	.line 66
+	ld   [fr,-364],r14
+	.dlab LBB1458
+	.dlab LBB1459
+	.dlab LBB1460
+	.dlab LBB1461
+	.dlab LBB1462
+	.dlab LBB1463
+	.dlab LBB1464
+	.dlab LBB1465
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext404
+Ltext404:
+	.line 101
+	ld   r0,#0x0
+	ld.b [r14],r0
+L1532:
+	.dlab LBE1465
+	.dlab LBE1464
+	.dlab LBE1463
+	.dlab LBE1462
+	.dlab LBE1461
+	.dlab LBE1460
+	.dlab LBE1459
+	.dlab LBE1458
+	.dlab LBE1451
+	.dlab LBE1450
+	.dlab LBE1447
+	.dlab LBE1436
+	.dlab LBE1435
+	.dlab LBE1434
+	.dlab LBE1433
+	.dlab LBB1466
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext405
+Ltext405:
+	.line 348
+	ld   r2,#0xfffffe84
+	add  r2,fr
+	ld   r14,#0xfffffecc
+	add  r14,fr
+	jc   eq,r2,r14,#L1537
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext406
+Ltext406:
+	.line 89
+	ld   i0,r14
+	ld   i1,[fr,-360]
+	ld   i2,[fr,-364]
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_ ; call non-native
+L1537:
+	.dlab LBE1466
+	.dlab LBE1432
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-360]
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	jc   eq,i0,r0,#L1848
+L1545:
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1550
+	jc   eq,i0,r14,#L1550
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext407
+Ltext407:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1550:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext408
+Ltext408:
+	.line 949
+	ld   i0,[fr,-288]
+	call &_atoi ; call non-native
+	ld   [d7,152],r14
+L1498:
+	.dlab LBB1467
+	.dlab LBB1468
+	.line 400
+	ld   i0,d6
+	ld   i1,[fr,-312]
+	ld   i2,#0x0
+	ld   i3,[fr,-316]
+	sub  i3,i1
+	call &__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm ; call non-native
+	.dlab LBE1468
+	.dlab LBE1467
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext409
+Ltext409:
+	.line 297
+	ld   r0,#0xffffffff
+	jc   eq,r14,r0,#L1568
+	.dlab LBB1469
+	.dlab LBB1470
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext410
+Ltext410:
+	.line 1023
+	add  r14,#0x6
+	.dlab LBB1471
+	.dlab LBB1472
+	.line 204
+	ld   r2,#0x4
+	ld   [fr,-424],r2
+	.dlab LBB1473
+	.dlab LBB1474
+	.dlab LBB1475
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext411
+Ltext411:
+	.line 116
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	ld   [fr,-364],r0
+	.dlab LBB1476
+	.dlab LBB1477
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext412
+Ltext412:
+	.line 481
+	ld   r2,r0
+	ld   [fr,-360],r0
+	.dlab LBE1477
+	.dlab LBE1476
+	.dlab LBE1475
+	.dlab LBE1474
+	.dlab LBB1478
+	.dlab LBB1479
+	.dlab LBB1480
+	.dlab LBB1481
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext413
+Ltext413:
+	.line 89
+	ld   r0,[d6,16]
+	.dlab LBE1481
+	.dlab LBE1480
+	.dlab LBB1482
+	.dlab LBB1483
+	.line 65
+	ld   d0,[d6,20]
+	.dlab LBE1483
+	.dlab LBE1482
+	sub  r0,d0
+	.dlab LBE1479
+	.dlab LBE1478
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext414
+Ltext414:
+	.line 400
+	jc   ltu,r0,r14,#L1849
+	.dlab LBB1484
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext415
+Ltext415:
+	.line 65
+	ld   d2,d0
+	add  d2,r14
+	.dlab LBB1485
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext416
+Ltext416:
+	.line 400
+	sub  r0,r14
+	ld   [fr,-428],r0
+	.dlab LBB1486
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext417
+Ltext417:
+	.line 139
+	ld   r1,fr
+	add  r1,#0xfffffe58
+	ld   r14,[fr,-424]
+	jc   leu,r14,r0,#L1588
+	add  r1,#0xfffffffc
+L1588:
+	.dlab LBE1486
+	.dlab LBE1485
+	.line 400
+	ld   d0,[r1]
+	add  d0,d2
+	.dlab LBB1487
+	.dlab LBB1488
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext418
+Ltext418:
+	.line 378
+	ld   d1,d0
+	sub  d1,d2
+	.line 379
+	ld   i0,#0xfffffe84
+	add  i0,fr
+	ld   i1,d1
+	add  i1,#0x1
+	call &__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm ; call non-native
+	.dlab LBB1489
+	.dlab LBB1490
+	.dlab LBB1491
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext419
+Ltext419:
+	.line 66
+	ld   i0,[fr,-360]
+	.dlab LBE1491
+	.dlab LBE1490
+	.dlab LBB1492
+	.dlab LBB1493
+	.dlab LBB1494
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext420
+Ltext420:
+	.line 103
+	ld   r14,i0
+	jc   eq,d0,d2,#L1592
+	ld   i1,d2
+	ld   i2,d1
+	call &_memcpy ; call non-native
+	add  r14,d1
+L1592:
+	.dlab LBE1494
+	.dlab LBE1493
+	.dlab LBE1492
+	.dlab LBE1489
+	.line 66
+	ld   [fr,-364],r14
+	.dlab LBB1495
+	.dlab LBB1496
+	.dlab LBB1497
+	.dlab LBB1498
+	.dlab LBB1499
+	.dlab LBB1500
+	.dlab LBB1501
+	.dlab LBB1502
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext421
+Ltext421:
+	.line 101
+	ld   r0,#0x0
+	ld.b [r14],r0
+L1602:
+	.dlab LBE1502
+	.dlab LBE1501
+	.dlab LBE1500
+	.dlab LBE1499
+	.dlab LBE1498
+	.dlab LBE1497
+	.dlab LBE1496
+	.dlab LBE1495
+	.dlab LBE1488
+	.dlab LBE1487
+	.dlab LBE1484
+	.dlab LBE1473
+	.dlab LBE1472
+	.dlab LBE1471
+	.dlab LBE1470
+	.dlab LBB1503
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext422
+Ltext422:
+	.line 348
+	ld   r2,#0xfffffe84
+	add  r2,fr
+	ld   r14,#0xfffffeb4
+	add  r14,fr
+	jc   eq,r2,r14,#L1607
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext423
+Ltext423:
+	.line 89
+	ld   i0,r14
+	ld   i1,[fr,-360]
+	ld   i2,[fr,-364]
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_ ; call non-native
+L1607:
+	.dlab LBE1503
+	.dlab LBE1469
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-360]
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	jc   eq,i0,r0,#L1850
+L1615:
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1620
+	jc   eq,i0,r14,#L1620
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext424
+Ltext424:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1620:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext425
+Ltext425:
+	.line 949
+	ld   i0,[fr,-312]
+	call &_atoi ; call non-native
+	ld   [d7,156],r14
+L1568:
+	.dlab LBB1504
+	.dlab LBB1505
+	.line 400
+	ld   i0,d6
+	ld   i1,[fr,-336]
+	ld   i2,#0x0
+	ld   i3,[fr,-340]
+	sub  i3,i1
+	call &__ZNK11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE4findEPKcmm ; call non-native
+	.dlab LBE1505
+	.dlab LBE1504
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext426
+Ltext426:
+	.line 303
+	ld   r0,#0xffffffff
+	jc   eq,r14,r0,#L1638
+	.dlab LBB1506
+	.dlab LBB1507
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext427
+Ltext427:
+	.line 1023
+	add  r14,#0x6
+	.dlab LBB1508
+	.dlab LBB1509
+	.line 204
+	ld   r2,#0x4
+	ld   [fr,-432],r2
+	.dlab LBB1510
+	.dlab LBB1511
+	.dlab LBB1512
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext428
+Ltext428:
+	.line 116
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	ld   [fr,-364],r0
+	.dlab LBB1513
+	.dlab LBB1514
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext429
+Ltext429:
+	.line 481
+	ld   r2,r0
+	ld   [fr,-360],r0
+	.dlab LBE1514
+	.dlab LBE1513
+	.dlab LBE1512
+	.dlab LBE1511
+	.dlab LBB1515
+	.dlab LBB1516
+	.dlab LBB1517
+	.dlab LBB1518
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext430
+Ltext430:
+	.line 89
+	ld   r0,[d6,16]
+	.dlab LBE1518
+	.dlab LBE1517
+	.dlab LBB1519
+	.dlab LBB1520
+	.line 65
+	ld   d0,[d6,20]
+	.dlab LBE1520
+	.dlab LBE1519
+	sub  r0,d0
+	.dlab LBE1516
+	.dlab LBE1515
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext431
+Ltext431:
+	.line 400
+	jc   ltu,r0,r14,#L1851
+	.dlab LBB1521
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext432
+Ltext432:
+	.line 65
+	ld   d2,d0
+	add  d2,r14
+	.dlab LBB1522
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext433
+Ltext433:
+	.line 400
+	sub  r0,r14
+	ld   [fr,-436],r0
+	.dlab LBB1523
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_algobase.h",132,0,0,Ltext434
+Ltext434:
+	.line 139
+	ld   r1,fr
+	add  r1,#0xfffffe50
+	ld   r14,[fr,-432]
+	jc   leu,r14,r0,#L1658
+	add  r1,#0xfffffffc
+L1658:
+	.dlab LBE1523
+	.dlab LBE1522
+	.line 400
+	ld   d0,[r1]
+	add  d0,d2
+	.dlab LBB1524
+	.dlab LBB1525
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext435
+Ltext435:
+	.line 378
+	ld   d1,d0
+	sub  d1,d2
+	.line 379
+	ld   i0,#0xfffffe84
+	add  i0,fr
+	ld   i1,d1
+	add  i1,#0x1
+	call &__ZN11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE17_M_allocate_blockEm ; call non-native
+	.dlab LBB1526
+	.dlab LBB1527
+	.dlab LBB1528
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext436
+Ltext436:
+	.line 66
+	ld   i0,[fr,-360]
+	.dlab LBE1528
+	.dlab LBE1527
+	.dlab LBB1529
+	.dlab LBB1530
+	.dlab LBB1531
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_uninitialized.h",132,0,0,Ltext437
+Ltext437:
+	.line 103
+	ld   r14,i0
+	jc   eq,d0,d2,#L1662
+	ld   i1,d2
+	ld   i2,d1
+	call &_memcpy ; call non-native
+	add  r14,d1
+L1662:
+	.dlab LBE1531
+	.dlab LBE1530
+	.dlab LBE1529
+	.dlab LBE1526
+	.line 66
+	ld   [fr,-364],r14
+	.dlab LBB1532
+	.dlab LBB1533
+	.dlab LBB1534
+	.dlab LBB1535
+	.dlab LBB1536
+	.dlab LBB1537
+	.dlab LBB1538
+	.dlab LBB1539
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_construct.h",132,0,0,Ltext438
+Ltext438:
+	.line 101
+	ld   r0,#0x0
+	ld.b [r14],r0
+L1672:
+	.dlab LBE1539
+	.dlab LBE1538
+	.dlab LBE1537
+	.dlab LBE1536
+	.dlab LBE1535
+	.dlab LBE1534
+	.dlab LBE1533
+	.dlab LBE1532
+	.dlab LBE1525
+	.dlab LBE1524
+	.dlab LBE1521
+	.dlab LBE1510
+	.dlab LBE1509
+	.dlab LBE1508
+	.dlab LBE1507
+	.dlab LBB1540
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext439
+Ltext439:
+	.line 348
+	ld   r2,#0xfffffe84
+	add  r2,fr
+	ld   r14,#0xfffffe9c
+	add  r14,fr
+	jc   eq,r2,r14,#L1677
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext440
+Ltext440:
+	.line 89
+	ld   i0,r14
+	ld   i1,[fr,-360]
+	ld   i2,[fr,-364]
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEE9_M_assignEPKcS7_ ; call non-native
+L1677:
+	.dlab LBE1540
+	.dlab LBE1506
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-360]
+	ld   r0,#0xfffffe84
+	add  r0,fr
+	jc   eq,i0,r0,#L1852
+L1685:
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1690
+	jc   eq,i0,r14,#L1690
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext441
+Ltext441:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1690:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext442
+Ltext442:
+	.line 949
+	ld   i0,[fr,-336]
+	call &_atoi ; call non-native
+	ld   [d7,160],r14
+L1638:
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext443
+Ltext443:
+	.line 309
+	ld   i0,d7
+	call &__ZN10MainScreen9setLabelsEv ; call non-native
+	.dlab LBB1541
+	.dlab LBB1542
+	.dlab LBB1543
+	.dlab LBB1544
+	.dlab LBB1545
+	.dlab LBB1546
+	.dlab LBB1547
+	.dlab LBB1548
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext444
+Ltext444:
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-336]
+	ld   r0,#0xfffffe9c
+	add  r0,fr
+	jc   eq,i0,r0,#L1853
+L1707:
+	.dlab LBE1548
+	.dlab LBE1547
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1712
+	jc   eq,i0,r14,#L1712
+	.dlab LBB1549
+	.dlab LBB1550
+	.dlab LBB1551
+	.dlab LBB1552
+	.dlab LBB1553
+	.dlab LBB1554
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext445
+Ltext445:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1712:
+	.dlab LBE1554
+	.dlab LBE1553
+	.dlab LBE1552
+	.dlab LBE1551
+	.dlab LBE1550
+	.dlab LBE1549
+	.dlab LBE1546
+	.dlab LBE1545
+	.dlab LBE1544
+	.dlab LBE1543
+	.dlab LBE1542
+	.dlab LBE1541
+	.dlab LBB1555
+	.dlab LBB1556
+	.dlab LBB1557
+	.dlab LBB1558
+	.dlab LBB1559
+	.dlab LBB1560
+	.dlab LBB1561
+	.dlab LBB1562
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext446
+Ltext446:
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-312]
+	ld   r0,#0xfffffeb4
+	add  r0,fr
+	jc   eq,i0,r0,#L1854
+L1727:
+	.dlab LBE1562
+	.dlab LBE1561
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1732
+	jc   eq,i0,r14,#L1732
+	.dlab LBB1563
+	.dlab LBB1564
+	.dlab LBB1565
+	.dlab LBB1566
+	.dlab LBB1567
+	.dlab LBB1568
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext447
+Ltext447:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1732:
+	.dlab LBE1568
+	.dlab LBE1567
+	.dlab LBE1566
+	.dlab LBE1565
+	.dlab LBE1564
+	.dlab LBE1563
+	.dlab LBE1560
+	.dlab LBE1559
+	.dlab LBE1558
+	.dlab LBE1557
+	.dlab LBE1556
+	.dlab LBE1555
+	.dlab LBB1569
+	.dlab LBB1570
+	.dlab LBB1571
+	.dlab LBB1572
+	.dlab LBB1573
+	.dlab LBB1574
+	.dlab LBB1575
+	.dlab LBB1576
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext448
+Ltext448:
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-288]
+	ld   r0,#0xfffffecc
+	add  r0,fr
+	jc   eq,i0,r0,#L1855
+L1747:
+	.dlab LBE1576
+	.dlab LBE1575
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1752
+	jc   eq,i0,r14,#L1752
+	.dlab LBB1577
+	.dlab LBB1578
+	.dlab LBB1579
+	.dlab LBB1580
+	.dlab LBB1581
+	.dlab LBB1582
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext449
+Ltext449:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1752:
+	.dlab LBE1582
+	.dlab LBE1581
+	.dlab LBE1580
+	.dlab LBE1579
+	.dlab LBE1578
+	.dlab LBE1577
+	.dlab LBE1574
+	.dlab LBE1573
+	.dlab LBE1572
+	.dlab LBE1571
+	.dlab LBE1570
+	.dlab LBE1569
+	.dlab LBB1583
+	.dlab LBB1584
+	.dlab LBB1585
+	.dlab LBB1586
+	.dlab LBB1587
+	.dlab LBB1588
+	.dlab LBB1589
+	.dlab LBB1590
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext450
+Ltext450:
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-264]
+	ld   r0,#0xfffffee4
+	add  r0,fr
+	jc   eq,i0,r0,#L1856
+L1767:
+	.dlab LBE1590
+	.dlab LBE1589
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1772
+	jc   eq,i0,r14,#L1772
+	.dlab LBB1591
+	.dlab LBB1592
+	.dlab LBB1593
+	.dlab LBB1594
+	.dlab LBB1595
+	.dlab LBB1596
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext451
+Ltext451:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1772:
+	.dlab LBE1596
+	.dlab LBE1595
+	.dlab LBE1594
+	.dlab LBE1593
+	.dlab LBE1592
+	.dlab LBE1591
+	.dlab LBE1588
+	.dlab LBE1587
+	.dlab LBE1586
+	.dlab LBE1585
+	.dlab LBE1584
+	.dlab LBE1583
+	.dlab LBB1597
+	.dlab LBB1598
+	.dlab LBB1599
+	.dlab LBB1600
+	.dlab LBB1601
+	.dlab LBB1602
+	.dlab LBB1603
+	.dlab LBB1604
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext452
+Ltext452:
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-240]
+	ld   r0,#0xfffffefc
+	add  r0,fr
+	jc   eq,i0,r0,#L1857
+L1787:
+	.dlab LBE1604
+	.dlab LBE1603
+	ld   r2,#0x0
+	jc   ne,r14,r2,#L1792
+	jc   eq,i0,r14,#L1792
+	.dlab LBB1605
+	.dlab LBB1606
+	.dlab LBB1607
+	.dlab LBB1608
+	.dlab LBB1609
+	.dlab LBB1610
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext453
+Ltext453:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1792:
+	.dlab LBE1610
+	.dlab LBE1609
+	.dlab LBE1608
+	.dlab LBE1607
+	.dlab LBE1606
+	.dlab LBE1605
+	.dlab LBE1602
+	.dlab LBE1601
+	.dlab LBE1600
+	.dlab LBE1599
+	.dlab LBE1598
+	.dlab LBE1597
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext454
+Ltext454:
+	.line 297
+	ld   d0,#0xffffffd8
+	add  d0,fr
+	ld   r14,#0xffffff18
+	add  r14,fr
+	ld   r0,#0x0
+	jc   eq,r14,r0,#L1191
+L1837:
+	ld   r2,#0xffffff18
+	add  r2,fr
+	jc   eq,r2,d0,#L1191
+L1859:
+	add  d0,#0xffffffe8
+	.dlab LBB1611
+	.dlab LBB1612
+	.dlab LBB1613
+	.dlab LBB1614
+	.dlab LBB1615
+	.dlab LBB1616
+	.dlab LBB1617
+	.dlab LBB1618
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext455
+Ltext455:
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[d0,20]
+	jc   eq,i0,d0,#L1858
+L1811:
+	.dlab LBE1618
+	.dlab LBE1617
+	ld   r0,#0x0
+	jc   ne,r14,r0,#L1837
+	jc   eq,i0,r14,#L1837
+	.dlab LBB1619
+	.dlab LBB1620
+	.dlab LBB1621
+	.dlab LBB1622
+	.dlab LBB1623
+	.dlab LBB1624
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext456
+Ltext456:
+	.line 114
+	call &__ZdlPv ; call non-native
+	.dlab LBE1624
+	.dlab LBE1623
+	.dlab LBE1622
+	.dlab LBE1621
+	.dlab LBE1620
+	.dlab LBE1619
+	.dlab LBE1616
+	.dlab LBE1615
+	.dlab LBE1614
+	.dlab LBE1613
+	.dlab LBE1612
+	.dlab LBE1611
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext457
+Ltext457:
+	.line 297
+	ld   r2,#0xffffff18
+	add  r2,fr
+	jc   ne,r2,d0,#L1859
+L1191:
+	.dlab LBE1245
+	.dlab LBE1244
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext458
+Ltext458:
+	.line 310
+	add  sp,#0x18c
+	pop  rt,d7
+	ret
+L1336:
+	.dlab LBB1625
+	.dlab LBB1626
+	.dlab LBB1627
+	.dlab LBB1628
+	.dlab LBB1629
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_vector.h",132,0,0,Ltext459
+Ltext459:
+	.line 182
+	ld   r14,d4
+	sll  r14,#0x2
+	ld   r2,[d7,124]
+	add  r14,r2
+	.dlab LBE1629
+	.dlab LBE1628
+	.line 202
+	ld   d1,[r14]
+	ld   d2,fr
+	add  d2,#0xfffffe7c
+	ld   i0,d2
+	ld   i1,#LC36
+	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
+	ld   r14,[d1]
+	ld   d0,[r14,160]
+	ld   i0,d1
+	ld   i1,d2
+	call d0 ; call non-native
+	ld   i0,d2
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+	ld   r14,#0x0
+	jc   eq,r14,r14,#L1256
+	jp   #L1831
+L1325:
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_operators.h",132,0,0,Ltext460
+Ltext460:
+	.line 321
+	ld   r14,d4
+	add  r14,d7
+	jp   #L1835
+L1839:
+	.dlab LBB1630
+	.dlab LBB1631
+	.dlab LBB1632
+	.dlab LBB1633
+	.dlab LBB1634
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext461
+Ltext461:
+	.line 206
+	ld   i0,r2
+	call &__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_out_of_rangeEv ; call non-native
+	jp   #L1296
+L1841:
+	.dlab LBE1634
+	.dlab LBE1633
+	.dlab LBE1632
+	.dlab LBE1631
+	.dlab LBE1630
+	.dlab LBB1635
+	.dlab LBB1636
+	.dlab LBB1637
+	.dlab LBB1638
+	.dlab LBB1639
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/char_traits.h",132,0,0,Ltext462
+Ltext462:
+	.line 226
+	ld   i1,#LC34
+	call &_memcmp ; call non-native
+	.dlab LBE1639
+	.dlab LBE1638
+	jc   ne,r14,d1,#L1328
+	ld   d1,#0x1
+	jp   #L1328
+L1840:
+	.dlab LBE1637
+	.dlab LBE1636
+	.dlab LBE1635
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext463
+Ltext463:
+	.line 64
+	ld   r14,#0x1
+	jp   #L1309
+L1858:
+	.dlab LBE1627
+	.dlab LBB1640
+	.dlab LBB1641
+	.dlab LBB1642
+	.dlab LBB1643
+	.dlab LBB1644
+	.dlab LBB1645
+	.dlab LBB1646
+	.dlab LBB1647
+	ld   r14,#0x1
+	jp   #L1811
+L1857:
+	.dlab LBE1647
+	.dlab LBE1646
+	.dlab LBE1645
+	.dlab LBE1644
+	.dlab LBE1643
+	.dlab LBE1642
+	.dlab LBE1641
+	.dlab LBE1640
+	.dlab LBB1648
+	.dlab LBB1649
+	.dlab LBB1650
+	.dlab LBB1651
+	.dlab LBB1652
+	.dlab LBB1653
+	.dlab LBB1654
+	.dlab LBB1655
+	ld   r14,#0x1
+	jp   #L1787
+L1856:
+	.dlab LBE1655
+	.dlab LBE1654
+	.dlab LBE1653
+	.dlab LBE1652
+	.dlab LBE1651
+	.dlab LBE1650
+	.dlab LBE1649
+	.dlab LBE1648
+	.dlab LBB1656
+	.dlab LBB1657
+	.dlab LBB1658
+	.dlab LBB1659
+	.dlab LBB1660
+	.dlab LBB1661
+	.dlab LBB1662
+	.dlab LBB1663
+	ld   r14,#0x1
+	jp   #L1767
+L1855:
+	.dlab LBE1663
+	.dlab LBE1662
+	.dlab LBE1661
+	.dlab LBE1660
+	.dlab LBE1659
+	.dlab LBE1658
+	.dlab LBE1657
+	.dlab LBE1656
+	.dlab LBB1664
+	.dlab LBB1665
+	.dlab LBB1666
+	.dlab LBB1667
+	.dlab LBB1668
+	.dlab LBB1669
+	.dlab LBB1670
+	.dlab LBB1671
+	ld   r14,#0x1
+	jp   #L1747
+L1854:
+	.dlab LBE1671
+	.dlab LBE1670
+	.dlab LBE1669
+	.dlab LBE1668
+	.dlab LBE1667
+	.dlab LBE1666
+	.dlab LBE1665
+	.dlab LBE1664
+	.dlab LBB1672
+	.dlab LBB1673
+	.dlab LBB1674
+	.dlab LBB1675
+	.dlab LBB1676
+	.dlab LBB1677
+	.dlab LBB1678
+	.dlab LBB1679
+	ld   r14,#0x1
+	jp   #L1727
+L1853:
+	.dlab LBE1679
+	.dlab LBE1678
+	.dlab LBE1677
+	.dlab LBE1676
+	.dlab LBE1675
+	.dlab LBE1674
+	.dlab LBE1673
+	.dlab LBE1672
+	.dlab LBB1680
+	.dlab LBB1681
+	.dlab LBB1682
+	.dlab LBB1683
+	.dlab LBB1684
+	.dlab LBB1685
+	.dlab LBB1686
+	.dlab LBB1687
+	ld   r14,#0x1
+	jp   #L1707
+L1852:
+	.dlab LBE1687
+	.dlab LBE1686
+	.dlab LBE1685
+	.dlab LBE1684
+	.dlab LBE1683
+	.dlab LBE1682
+	.dlab LBE1681
+	.dlab LBE1680
+	ld   r14,#0x1
+	jp   #L1685
+L1850:
+	ld   r14,#0x1
+	jp   #L1615
+L1848:
+	ld   r14,#0x1
+	jp   #L1545
+L1843:
+	.dlab LBB1688
+	.dlab LBB1689
+	ld   r14,#0x1
+	jp   #L1399
+L1846:
+	.dlab LBE1689
+	.dlab LBE1688
+	ld   r14,#0x1
+	jp   #L1475
+L1844:
+	.dlab LBB1690
+	.dlab LBB1691
+	.dlab LBB1692
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string.h",132,0,0,Ltext464
+Ltext464:
+	.line 435
+	ld   r14,r0
+	add  r14,d7
+	ld   r2,#0x1
+	jp   #L1836
+L1842:
+	.dlab LBE1692
+	.dlab LBB1693
+	.dlab LBB1694
+	.dlab LBB1695
+	.dlab LBB1696
+	.dlab LBB1697
+	.line 206
+	ld   i0,r2
+	call &__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_out_of_rangeEv ; call non-native
+	jp   #L1386
+L1845:
+	.dlab LBE1697
+	.dlab LBE1696
+	.dlab LBE1695
+	.dlab LBE1694
+	.dlab LBE1693
+	.dlab LBE1691
+	.dlab LBE1690
+	.dlab LBB1698
+	.dlab LBB1699
+	.dlab LBB1700
+	.dlab LBB1701
+	.dlab LBB1702
+	ld   i0,r2
+	call &__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_out_of_rangeEv ; call non-native
+	jp   #L1462
+L1851:
+	.dlab LBE1702
+	.dlab LBE1701
+	.dlab LBE1700
+	.dlab LBE1699
+	.dlab LBE1698
+	.dlab LBB1703
+	.dlab LBB1704
+	.dlab LBB1705
+	.dlab LBB1706
+	.dlab LBB1707
+	ld   i0,r2
+	call &__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_out_of_rangeEv ; call non-native
+	jp   #L1672
+L1849:
+	.dlab LBE1707
+	.dlab LBE1706
+	.dlab LBE1705
+	.dlab LBE1704
+	.dlab LBE1703
+	.dlab LBB1708
+	.dlab LBB1709
+	.dlab LBB1710
+	.dlab LBB1711
+	.dlab LBB1712
+	ld   i0,r2
+	call &__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_out_of_rangeEv ; call non-native
+	jp   #L1602
+L1847:
+	.dlab LBE1712
+	.dlab LBE1711
+	.dlab LBE1710
+	.dlab LBE1709
+	.dlab LBE1708
+	.dlab LBB1713
+	.dlab LBB1714
+	.dlab LBB1715
+	.dlab LBB1716
+	.dlab LBB1717
+	ld   i0,r2
+	call &__ZNK11stlpmtx_std4priv12_String_baseIcNS_9allocatorIcEEE21_M_throw_out_of_rangeEv ; call non-native
+	jp   #L1532
+	.dlab LBE1717
+	.dlab LBE1716
+	.dlab LBE1715
+	.dlab LBE1714
+	.dlab LBE1713
+	.dlab LBE1626
+	.dlab LBE1625
+	.stabs	"pa_patern:(0,506)=ar(12,11);0;7;(36,1)",128,0,239,-232
+	.stabs	"tag_digital_input:(36,1)",128,0,250,-260
+	.stabs	"tag_analog_input_0:(36,1)",128,0,251,-284
+	.stabs	"tag_analog_input_1:(36,1)",128,0,252,-308
+	.stabs	"tag_analog_input_2:(36,1)",128,0,253,-332
+	.stabs	"tag_analog_input_3:(36,1)",128,0,254,-356
+	.stabs	"found:r(7,2)",64,0,256,30
+	.stabn	192,0,0,LBB1245-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"ii:r(0,3)",64,0,259,8
+	.stabn	192,0,0,LBB1294-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__s:r(3,97)",64,0,954,7
+	.stabn	192,0,0,LBB1295-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1295-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1304-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-392
+	.stabn	192,0,0,LBB1306-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__f:r(11,88)",64,0,376,6
+	.stabs	"__l:r(11,88)",64,0,376,4
+	.stabn	192,0,0,LBB1318-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:r(7,3)",64,0,378,5
+	.stabn	192,0,0,LBB1322-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1322-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1318-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1306-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1304-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__x:r(3,97)",64,0,321,4
+	.stabn	192,0,0,LBB1338-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1338-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1294-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1356-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-400
+	.stabn	192,0,0,LBB1358-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__f:r(11,88)",64,0,376,6
+	.stabs	"__l:r(11,88)",64,0,376,4
+	.stabn	192,0,0,LBB1370-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:r(7,3)",64,0,378,5
+	.stabn	192,0,0,LBB1374-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1374-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1370-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1358-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1356-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"jj:r(0,3)",64,0,277,16
+	.stabn	192,0,0,LBB1390-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1390-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1396-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-408
+	.stabn	192,0,0,LBB1398-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__f:r(11,88)",64,0,376,6
+	.stabs	"__l:r(11,88)",64,0,376,4
+	.stabn	192,0,0,LBB1410-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:r(7,3)",64,0,378,5
+	.stabn	192,0,0,LBB1414-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1414-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1410-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1398-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1396-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1433-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-416
+	.stabn	192,0,0,LBB1435-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__f:r(11,88)",64,0,376,6
+	.stabs	"__l:r(11,88)",64,0,376,4
+	.stabn	192,0,0,LBB1447-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:r(7,3)",64,0,378,5
+	.stabn	192,0,0,LBB1451-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1451-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1447-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1435-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1433-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1470-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-424
+	.stabn	192,0,0,LBB1472-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__f:r(11,88)",64,0,376,6
+	.stabs	"__l:r(11,88)",64,0,376,4
+	.stabn	192,0,0,LBB1484-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:r(7,3)",64,0,378,5
+	.stabn	192,0,0,LBB1488-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1488-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1484-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1472-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1470-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1507-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-432
+	.stabn	192,0,0,LBB1509-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__f:r(11,88)",64,0,376,6
+	.stabs	"__l:r(11,88)",64,0,376,4
+	.stabn	192,0,0,LBB1521-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:r(7,3)",64,0,378,5
+	.stabn	192,0,0,LBB1525-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1525-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1521-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1509-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1507-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1245-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"pa_patern:(0,506)",128,0,239,-232
+	.stabs	"tag_digital_input:(36,1)",128,0,250,-260
+	.stabs	"tag_analog_input_0:(36,1)",128,0,251,-284
+	.stabs	"tag_analog_input_1:(36,1)",128,0,252,-308
+	.stabs	"tag_analog_input_2:(36,1)",128,0,253,-332
+	.stabs	"tag_analog_input_3:(36,1)",128,0,254,-356
+	.stabs	"found:r(7,2)",64,0,256,30
+	.stabn	192,0,0,LBB1626-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"ii:r(0,3)",64,0,259,8
+	.stabn	192,0,0,LBB1627-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1631-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-392
+	.stabn	192,0,0,LBB1633-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1633-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1631-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__x:r(3,97)",64,0,321,4
+	.stabn	192,0,0,LBB1635-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1635-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1627-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"jj:r(0,3)",64,0,277,16
+	.stabn	192,0,0,LBB1692-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1692-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1694-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-400
+	.stabn	192,0,0,LBB1696-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1696-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1694-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1699-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-408
+	.stabn	192,0,0,LBB1701-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1701-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1699-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1704-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-432
+	.stabn	192,0,0,LBB1706-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1706-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1704-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1709-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-424
+	.stabn	192,0,0,LBB1711-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1711-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1709-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__pos:r(7,2)",64,0,1023,30
+	.stabn	192,0,0,LBB1714-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabs	"__n:(7,2)",128,0,204,-416
+	.stabn	192,0,0,LBB1716-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1716-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1714-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+	.stabn	224,0,0,LBE1626-__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE
+Lscope35:
+	.set	%4=__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+	.stabs	"this:P(0,489)",64,0,206,12
+	.stabs	"http:P(0,432)",64,0,206,13
+	.stabs	"result:P(0,3)",64,0,206,14
+	.global	__ZThn80_N10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+
+.func __ZThn80_N10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi, 3, void
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.h",132,0,0,Ltext465
+Ltext465:
+	.line 26
+	push rt,fr
+	ld   fr,sp
+	add  fr,#0x8
+	.line 26
+	add  i0,#0xffffffb0
+	call &%4 ; call non-native
+	pop  rt,fr
+	ret
+Lscope36:
+.data
+LC37:
+	.ascii "HTTP %i\12\0"
+LC38:
+	.ascii "content-length\0"
+LC39:
+	.ascii "content-length: %s bytes\12\0"
+LC40:
+	.ascii "No content-length\0"
+.code
+	.stabs	"_ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi:F(0,6)",36,0,206,__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+	.stabs	"this:P(0,489)",64,0,206,6
+	.stabs	"http:P(0,432)",64,0,206,13
+	.stabs	"result:P(0,3)",64,0,206,4
+	.global	__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+
+.func __ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi, 3, void
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext466
+Ltext466:
+	.line 206
+	push rt,d3
+	sub  sp,#0x24
+	ld   fr,sp
+	add  fr,#0x3c
+	ld   d2,i0
+	ld   d0,i2
+	.dlab LBB1718
+	.dlab LBB1719
+	.line 207
+	ld   [sp],i2
+	ld   i0,#LC37
+	call &_printf ; call non-native
+	.line 208
+	ld   r0,#0x0
+	jc   le,d0,r0,#L1861
+	.line 212
+	ld   d3,fr
+	add  d3,#0xffffffe4
+	ld   i0,d3
+	call &__ZN6MAUtil11BasicStringIcEC1Ev ; call non-native
+	.line 213
+	ld   d0,d2
+	add  d0,#0x4b4
+	ld   i0,d0
+	ld   i1,#LC38
+	ld   i2,d3
+	call &__ZN6MAUtil14HttpConnection17getResponseHeaderEPKcPNS_11BasicStringIcEE ; call non-native
+	.dlab LBB1720
+	.line 215
+	ld   r0,#0x0
+	jc   le,r14,r0,#L1863
+	.dlab LBB1721
+	.line 216
+	ld   i0,d3
+	call &__ZNK6MAUtil11BasicStringIcE5c_strEv ; call non-native
+	ld   [sp],r14
+	ld   i0,#LC39
+	call &_printf ; call non-native
+	.line 217
+	ld   i0,d3
+	call &__ZNK6MAUtil11BasicStringIcE5c_strEv ; call non-native
+	ld   i0,r14
+	call &_atoi ; call non-native
+	ld   i2,r14
+	.line 218
+	ld   r14,#0x3ff
+	jc   le,i2,r14,#L1864
+	.line 220
+	ld   i2,r14
+L1864:
+	.line 222
+	ld   r14,i2
+	add  r14,d2
+	ld   r0,#0x0
+	ld.b [r14,180],r0
+	.line 223
+	ld   d1,d2
+	add  d1,#0xb4
+	ld   i0,d0
+	ld   i1,d1
+	call &__ZN6MAUtil10Connection4readEPvi ; call non-native
+	.dlab LBE1721
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext467
+Ltext467:
+	.line 289
+	ld   d0,fr
+	add  d0,#0xffffffcc
+	ld   i0,d0
+	ld   i1,d1
+	ld   i2,fr
+	add  i2,#0xffffffc8
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_ ; call non-native
+	ld   i0,d2
+	ld   i1,d0
+	call &__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE ; call non-native
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext468
+Ltext468:
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-32]
+	jc   eq,i0,d0,#L1920
+L1897:
+	ld   r0,#0x0
+	jc   ne,r14,r0,#L1890
+	jc   eq,i0,r14,#L1890
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_new.h",132,0,0,Ltext469
+Ltext469:
+	.line 114
+	call &__ZdlPv ; call non-native
+L1890:
+	.dlab LBE1720
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext470
+Ltext470:
+	.line 297
+	ld   i0,d3
+	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
+L1861:
+	.dlab LBE1719
+	.dlab LBE1718
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext471
+Ltext471:
+	.line 235
+	add  sp,#0x24
+	pop  rt,d3
+	ret
+L1863:
+	.dlab LBB1722
+	.dlab LBB1723
+	.dlab LBB1724
+	.line 229
+	ld   i0,#LC40
+	call &_puts ; call non-native
+	.line 230
+	ld   d1,d2
+	add  d1,#0xb4
+	ld   i0,d0
+	ld   i1,d1
+	ld   i2,#0x400
+	call &__ZN6MAUtil10Connection4recvEPvi ; call non-native
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_alloc.h",132,0,0,Ltext472
+Ltext472:
+	.line 289
+	ld   d0,fr
+	add  d0,#0xffffffcc
+	ld   i0,d0
+	ld   i1,d1
+	ld   i2,fr
+	add  i2,#0xffffffc8
+	call &__ZN11stlpmtx_std12basic_stringIcNS_11char_traitsIcEENS_9allocatorIcEEEC1EPKcRKS4_ ; call non-native
+	ld   i0,d2
+	ld   i1,d0
+	call &__ZN10MainScreen6parserEN11stlpmtx_std12basic_stringIcNS0_11char_traitsIcEENS0_9allocatorIcEEEE ; call non-native
+	.stabs	"/Applications/MoSync/include/newlib/stlport/stl/_string_base.h",132,0,0,Ltext473
+Ltext473:
+	.line 64
+	ld   r14,#0x0
+	ld   i0,[fr,-32]
+	jc   ne,i0,d0,#L1897
+L1920:
+	ld   r14,#0x1
+	jp   #L1897
+	.dlab LBE1724
+	.dlab LBE1723
+	.dlab LBE1722
+	.stabs	"cl:(51,1)",128,0,212,-28
+	.stabn	192,0,0,LBB1719-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+	.stabs	"len:r(0,3)",64,0,217,14
+	.stabn	192,0,0,LBB1721-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+	.stabn	224,0,0,LBE1721-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+	.stabn	224,0,0,LBE1719-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+	.stabs	"cl:(51,1)",128,0,212,-28
+	.stabn	192,0,0,LBB1723-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+	.stabn	224,0,0,LBE1723-__ZN10MainScreen12httpFinishedEPN6MAUtil14HttpConnectionEi
+Lscope37:
+.data
+LC41:
 	.ascii "TEST_EMULATOR\0"
 .code
-	.stabs	"_Z41__static_initialization_and_destruction_0ii:f(0,6)",36,0,192,__Z41__static_initialization_and_destruction_0ii
-	.stabs	"__initialize_p:P(0,3)",64,0,192,12
-	.stabs	"__priority:P(0,3)",64,0,192,13
+	.stabs	"_Z41__static_initialization_and_destruction_0ii:f(0,6)",36,0,341,__Z41__static_initialization_and_destruction_0ii
+	.stabs	"__initialize_p:P(0,3)",64,0,341,12
+	.stabs	"__priority:P(0,3)",64,0,341,13
 
 .func __Z41__static_initialization_and_destruction_0ii, 2, void
-	.line 192
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext474
+Ltext474:
+	.line 341
 	push rt,fr
 	ld   fr,sp
 	add  fr,#0x8
-	.stabs	"/Applications/MoSync/include/Ads/Banner.h",132,0,0,Ltext180
-Ltext180:
+	.stabs	"/Applications/MoSync/include/Ads/Banner.h",132,0,0,Ltext475
+Ltext475:
 	.line 99
 	ld   r14,#0xffff
-	jc   eq,i1,r14,#L780
-L776:
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext181
-Ltext181:
-	.line 192
+	jc   eq,i1,r14,#L1925
+L1921:
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext476
+Ltext476:
+	.line 341
 	pop  rt,fr
 	ret
-L780:
-	.stabs	"/Applications/MoSync/include/Ads/Banner.h",132,0,0,Ltext182
-Ltext182:
+L1925:
+	.stabs	"/Applications/MoSync/include/Ads/Banner.h",132,0,0,Ltext477
+Ltext477:
 	.line 99
 	ld   r14,#0x1
-	jc   eq,i0,r14,#L781
+	jc   eq,i0,r14,#L1926
 	ld   r14,#0x0
-	jc   ne,i0,r14,#L776
+	jc   ne,i0,r14,#L1921
 	ld   i0,#__ZN3Ads13TEST_EMULATORE
 	call &__ZN6MAUtil11BasicStringIcED1Ev ; call non-native
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext183
-Ltext183:
-	.line 192
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext478
+Ltext478:
+	.line 341
 	pop  rt,fr
 	ret
-L781:
-	.stabs	"/Applications/MoSync/include/Ads/Banner.h",132,0,0,Ltext184
-Ltext184:
+L1926:
+	.stabs	"/Applications/MoSync/include/Ads/Banner.h",132,0,0,Ltext479
+Ltext479:
 	.line 99
 	ld   i0,#__ZN3Ads13TEST_EMULATORE
-	ld   i1,#LC16
+	ld   i1,#LC41
 	call &__ZN6MAUtil11BasicStringIcEC1EPKc ; call non-native
-	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext185
-Ltext185:
-	.line 192
+	.stabs	"/Users/brzeszczot/workspace/Sterownik/MainScreen.cpp",132,0,0,Ltext480
+Ltext480:
+	.line 341
 	pop  rt,fr
 	ret
-Lscope28:
-	.stabs	"_GLOBAL__I__ZN10MainScreenC2Ev:f(0,6)",36,0,193,__GLOBAL__I__ZN10MainScreenC2Ev
+Lscope38:
+	.stabs	"_GLOBAL__I__ZN10MainScreenC2Ev:f(0,6)",36,0,342,__GLOBAL__I__ZN10MainScreenC2Ev
 
 .func __GLOBAL__I__ZN10MainScreenC2Ev, 0, void
-	.line 193
+	.line 342
 	push rt,fr
 	ld   fr,sp
 	add  fr,#0x8
-	.line 193
+	.line 342
 	ld   i0,#0x1
 	ld   i1,#0xffff
 	call &__Z41__static_initialization_and_destruction_0ii ; call non-native
 	pop  rt,fr
 	ret
-Lscope29:
-	.stabs	"_GLOBAL__D__ZN10MainScreenC2Ev:f(0,6)",36,0,194,__GLOBAL__D__ZN10MainScreenC2Ev
+Lscope39:
+	.stabs	"_GLOBAL__D__ZN10MainScreenC2Ev:f(0,6)",36,0,343,__GLOBAL__D__ZN10MainScreenC2Ev
 
 .func __GLOBAL__D__ZN10MainScreenC2Ev, 0, void
-	.line 194
+	.line 343
 	push rt,fr
 	ld   fr,sp
 	add  fr,#0x8
-	.line 194
+	.line 343
 	ld   i0,#0x0
 	ld   i1,#0xffff
 	call &__Z41__static_initialization_and_destruction_0ii ; call non-native
 	pop  rt,fr
 	ret
-Lscope30:
+Lscope40:
 	.stabs	"_ZN3Ads13TEST_EMULATORE:S(56,35)",40,0,99,__ZN3Ads13TEST_EMULATORE
 	.text
 	.stabs "",100,0,0,Letext

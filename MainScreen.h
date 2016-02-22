@@ -14,6 +14,7 @@
 using namespace NativeUI;
 using namespace MAUtil;
 
+#define CREATE_MODE false
 #define BUFSIZE		1024
 #define SWITCHES	8
 
@@ -32,20 +33,28 @@ class MainScreen :
 		virtual void connRecvFinished(Connection* conn, int result);
 	private:
 		void createUI();
+		void parser(std::string text);
+		void setLabels();
 		virtual void buttonClicked(Widget* button);
 		virtual void editBoxReturn(EditBox* editBox);
 	private:
 		VerticalLayout* mMainLayout;
+		HorizontalLayout* mSides;
+		VerticalLayout* mLeft;
+		HorizontalLayout* mRight;
 		Label* mInstructions;
 		EditBox* mUrlBox;
-		Button* mOnOff;
-		bool onoff_mode;
+		Button* refresh;
 		std::vector<HorizontalLayout*> mLayouts;
 		std::vector<Label*> mLabels;
 		std::vector<Button*> mButtons;
+		int analog_input[4];
+		bool digital_input[4];
+		bool digital_output[SWITCHES];
 		int clicked;
 		char mBuffer[BUFSIZE];
 		HttpConnection mHttp;
+		std::vector<Label*> Digit_r;
 };
 
 #endif /* MAINSCREEN_H_ */

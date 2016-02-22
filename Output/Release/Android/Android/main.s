@@ -1400,7 +1400,7 @@ L62:
 	ld   r14,#__ZTV14NativeUIMoblet+160
 	ld   [d1,228],r14
 	.line 23
-	ld   i0,#0x4b8
+	ld   i0,#0x4e8
 	call &__Znwm ; call non-native
 	ld   d2,r14
 	ld   r14,#0x0
